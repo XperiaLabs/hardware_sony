@@ -29,7 +29,7 @@ LOCAL_SHARED_LIBRARIES := \
     liblog \
     libperfmgr \
     libutils \
-    pixel-power-ext-ndk_platform
+    pixel-power-ext-ndk
 
 LOCAL_SRC_FILES := \
     service.cpp \
@@ -38,6 +38,11 @@ LOCAL_SRC_FILES := \
     PowerExt.cpp
 
 LOCAL_CFLAGS := -Wno-unused-parameter -Wno-unused-variable
+
+ifneq ($(TARGET_POWERHAL_MODE_EXT),)
+    LOCAL_CFLAGS += -DMODE_EXT
+    LOCAL_SRC_FILES += ../../../../$(TARGET_POWERHAL_MODE_EXT)
+endif
 
 LOCAL_MODULE := android.hardware.power-service.sony-libperfmgr
 LOCAL_INIT_RC := android.hardware.power-service.sony-libperfmgr.rc
