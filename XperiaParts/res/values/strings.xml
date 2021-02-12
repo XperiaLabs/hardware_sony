@@ -27,4 +27,7 @@
 
     <!-- Charger QS Tile -->
     <string name="charger_qs_tile_title">Pause Charging</string>
+
+    <!-- Refresh Rate Settings -->
+    <string name="refresh_rate_tile_title">Refresh Rate</string>
 </resources>
