@@ -24,7 +24,8 @@
     <string name="dirac_enable">Folosiți DIRAC</string>
     <string name="dirac_headset_title">Preset Căști</string>
     <string name="dirac_preset_title">Egalizator Presetat</string>
-    <string name="dirac_hifi_title">Fidelitatea Snetului</string>
+    <string name="dirac_hifi_title">Fidelitatea Sunetului</string>
+    <string name="dirac_scenario_title">Scenariu Presetat</string>
     <string name="dirac_hifi_enable_title">Mod Hi-Fi</string>
     <string name="dirac_hifi_summary">Reduceți zgomotul și distorsie la un ridicată a volumului, crescând calitatea audio</string>
 
@@ -63,7 +64,7 @@
     <string name="dirac_preset_hiphop">Hip Hop</string>
     <string name="dirac_preset_blues">Blues</string>
     <string name="dirac_preset_electronic">Electronic</string>
-    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_country">Țară (Country)</string>
     <string name="dirac_preset_dance">Dans</string>
     <string name="dirac_preset_metal">Metal</string>
     <string name="dirac_preset_bass_booster">Amplificator de Bas</string>
@@ -73,6 +74,13 @@
     <string name="dirac_preset_treble_reduction">Reducerea Înaltelor</string>
     <string name="dirac_preset_soft_bass">Bas Moale</string>
     <string name="dirac_preset_soft_treble">Înalt Moale</string>
+
+    <!-- DIRAC AE - Scenario Presets -->
+    <string name="dirac_scenario_default">Mod Implicit</string>
+    <string name="dirac_scenario_intelligent">Deștept</string>
+    <string name="dirac_scenario_music">Muzică</string>
+    <string name="dirac_scenario_video">Video</string>
+    <string name="dirac_scenario_voice">Voce</string>
 
     <!-- DIRAC AE - QS Tile -->
     <string name="dirac_qs_tile_title">Audio DIRAC</string>

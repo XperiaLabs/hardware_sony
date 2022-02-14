@@ -24,6 +24,7 @@
     <string name="dirac_enable">Используйте ДИРАК</string>
     <string name="dirac_headset_title">Предустановка гарнитуры</string>
     <string name="dirac_preset_title">Предустановка эквалайзера</string>
+    <string name="dirac_scenario_title">Предустановленный сценарий</string>
     <string name="dirac_hifi_title">Звуковая точность</string>
     <string name="dirac_hifi_enable_title">Режим Hi-Fi</string>
     <string name="dirac_hifi_summary">Уменьшите общий шум и искажения высокой громкости, одновременно повысив качество звука.</string>
@@ -73,6 +74,13 @@
     <string name="dirac_preset_treble_reduction">Снижение высоких частот</string>
     <string name="dirac_preset_soft_bass">Мягкий бас</string>
     <string name="dirac_preset_soft_treble">Мягкие высокие частоты</string>
+
+    <!-- DIRAC AE - Scenario Presets -->
+    <string name="dirac_scenario_default">По умолчанию</string>
+    <string name="dirac_scenario_intelligent">Умный</string>
+    <string name="dirac_scenario_music">Музыка</string>
+    <string name="dirac_scenario_video">Видео</string>
+    <string name="dirac_scenario_voice">Голос</string>
 
     <!-- DIRAC AE - QS Tile -->
     <string name="dirac_qs_tile_title">ДИРАК Аудио</string>

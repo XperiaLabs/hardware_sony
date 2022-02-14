@@ -24,6 +24,7 @@
     <string name="dirac_enable">DIRAC का प्रयोग करें</string>
     <string name="dirac_headset_title">हेडसेट प्रीसेट</string>
     <string name="dirac_preset_title">तुल्यकारक प्रीसेट</string>
+    <string name="dirac_scenario_title">परिदृश्य पूर्व निर्धारित</string>
     <string name="dirac_hifi_title">ध्वनि निष्ठा</string>
     <string name="dirac_hifi_enable_title">हाई-फाई मोड</string>
     <string name="dirac_hifi_summary">ऑडियो गुणवत्ता बढ़ाते हुए समग्र शोर और उच्च वॉल्यूम विरूपण को कम करें</string>
@@ -73,6 +74,13 @@
     <string name="dirac_preset_treble_reduction">तिगुना कमी</string>
     <string name="dirac_preset_soft_bass">नरम बास</string>
     <string name="dirac_preset_soft_treble">नरम ट्रेबल</string>
+
+    <!-- DIRAC AE - Scenario Presets -->
+    <string name="dirac_scenario_default">गलती करना</string>
+    <string name="dirac_scenario_intelligent">बुद्धिमान</string>
+    <string name="dirac_scenario_music">संगीत</string>
+    <string name="dirac_scenario_video">वीडियो</string>
+    <string name="dirac_scenario_voice">आवाज़</string>
 
     <!-- DIRAC AE - QS Tile -->
     <string name="dirac_qs_tile_title">DIRAC ऑडियो</string>

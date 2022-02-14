@@ -24,6 +24,7 @@
     <string name="dirac_enable">Verwenden Sie DIRAC</string>
     <string name="dirac_headset_title">Headset Voreinstellung</string>
     <string name="dirac_preset_title">Equalizer Voreinstellung</string>
+    <string name="dirac_scenario_title">Szenario Voreinstellung</string>
     <string name="dirac_hifi_title">Klangtreue</string>
     <string name="dirac_hifi_enable_title">Hi-Fi Modus</string>
     <string name="dirac_hifi_summary">Reduzieren Sie Gesamtrauschen und hohe Lautstärkeverzerrungen und erhöhen Sie gleichzeitig die Audioqualität</string>
@@ -73,6 +74,13 @@
     <string name="dirac_preset_treble_reduction">Höhenreduzierung</string>
     <string name="dirac_preset_soft_bass">Weicher Bass</string>
     <string name="dirac_preset_soft_treble">Sanfte Höhen</string>
+
+    <!-- DIRAC AE - Scenario Presets -->
+    <string name="dirac_scenario_default">Standard</string>
+    <string name="dirac_scenario_intelligent">Schlau</string>
+    <string name="dirac_scenario_music">Musik</string>
+    <string name="dirac_scenario_video">Video</string>
+    <string name="dirac_scenario_voice">Stimme</string>
 
     <!-- DIRAC AE - QS Tile -->
     <string name="dirac_qs_tile_title">DIRAC Audio</string>

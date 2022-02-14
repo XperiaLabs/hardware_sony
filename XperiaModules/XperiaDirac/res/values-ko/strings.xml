@@ -24,6 +24,7 @@
     <string name="dirac_enable">DIRAC 사용</string>
     <string name="dirac_headset_title">헤드셋 사전 설정</string>
     <string name="dirac_preset_title">이퀄라이저 프리셋</string>
+    <string name="dirac_scenario_title">시나리오 프리셋</string>
     <string name="dirac_hifi_title">사운드 충실도</string>
     <string name="dirac_hifi_enable_title">하이파이 모드</string>
     <string name="dirac_hifi_summary">오디오 품질을 높이면서 전반적인 소음과 높은 볼륨 왜곡을 줄입니다.</string>
@@ -73,6 +74,13 @@
     <string name="dirac_preset_treble_reduction">고음 감소</string>
     <string name="dirac_preset_soft_bass">소프트베이스</string>
     <string name="dirac_preset_soft_treble">부드러운 고음</string>
+
+    <!-- DIRAC AE - Scenario Presets -->
+    <string name="dirac_scenario_default">기본</string>
+    <string name="dirac_scenario_intelligent">똑똑한</string>
+    <string name="dirac_scenario_music">음악</string>
+    <string name="dirac_scenario_video">동영상</string>
+    <string name="dirac_scenario_voice">목소리</string>
 
     <!-- DIRAC AE - QS Tile -->
     <string name="dirac_qs_tile_title">DIRAC 오디오</string>

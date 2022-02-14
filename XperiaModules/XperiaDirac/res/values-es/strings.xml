@@ -7,10 +7,11 @@
     <!-- DIRAC AE - Settings Page -->
     <string name="dirac_settings_title">Motor de Audio DIRAC</string>
     <string name="dirac_enable">Utilice DIRAC</string>
-    <string name="dirac_headset_title">Preajuste de auriculares</string>
-    <string name="dirac_preset_title">Preajuste del ecualizador</string>
-    <string name="dirac_hifi_title">Fidelidad del sonido</string>
-    <string name="dirac_hifi_enable_title">Modo de alta fidelidad</string>
+    <string name="dirac_headset_title">Preajuste de Auriculares</string>
+    <string name="dirac_preset_title">Preajuste del Ecualizador</string>
+    <string name="dirac_scenario_title">Preestablecido de Escenario</string>
+    <string name="dirac_hifi_title">Fidelidad del Sonido</string>
+    <string name="dirac_hifi_enable_title">Modo de Alta Fidelidad</string>
     <string name="dirac_hifi_summary">Disminuya el ruido general y la distorsión de alto volumen mientras aumenta la calidad del audio</string>
 
     <!-- DIRAC AE - Headset Types (Xiaomi Headsets) -->
@@ -51,13 +52,20 @@
     <string name="dirac_preset_country">País</string>
     <string name="dirac_preset_dance">Bailar</string>
     <string name="dirac_preset_metal">Metal</string>
-    <string name="dirac_preset_bass_booster">Potenciador de bajo</string>
+    <string name="dirac_preset_bass_booster">Potenciador de Bajo</string>
     <string name="dirac_preset_live">Vivir</string>
     <string name="dirac_preset_balanced">Equilibrado</string>
-    <string name="dirac_preset_bass_reduction">Reducción de graves</string>
-    <string name="dirac_preset_treble_reduction">Reducción de agudos</string>
-    <string name="dirac_preset_soft_bass">Bajo suave</string>
-    <string name="dirac_preset_soft_treble">Agudos suaves</string>
+    <string name="dirac_preset_bass_reduction">Reducción de Graves</string>
+    <string name="dirac_preset_treble_reduction">Reducción de Agudos</string>
+    <string name="dirac_preset_soft_bass">Bajo Suave</string>
+    <string name="dirac_preset_soft_treble">Agudos Suaves</string>
+
+    <!-- DIRAC AE - Scenario Presets -->
+    <string name="dirac_scenario_default">Por Defecto</string>
+    <string name="dirac_scenario_intelligent">Elegante</string>
+    <string name="dirac_scenario_music">Música</string>
+    <string name="dirac_scenario_video">Video</string>
+    <string name="dirac_scenario_voice">Voz</string>
 
     <!-- DIRAC AE - QS Tile -->
     <string name="dirac_qs_tile_title">Audio Dirac</string>

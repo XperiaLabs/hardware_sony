@@ -20,10 +20,11 @@
     <string name="app_name">Xperia DIRAC</string>
 
     <!-- DIRAC AE - Settings Page -->
-    <string name="dirac_settings_title">DIRAC ljudmotor</string>
+    <string name="dirac_settings_title">DIRAC Ljudmotor</string>
     <string name="dirac_enable">Använd DIRAC</string>
     <string name="dirac_headset_title">Förinställning för Headset</string>
     <string name="dirac_preset_title">Equalizer Förinställd</string>
+    <string name="dirac_scenario_title">Scenario Förinställd</string>
     <string name="dirac_hifi_title">Sound Fidelity</string>
     <string name="dirac_hifi_enable_title">Hi-Fi-Läge</string>
     <string name="dirac_hifi_summary">Minska totalt brus och hög volymförvrängning samtidigt som ljudkvaliteten höjs</string>
@@ -73,6 +74,13 @@
     <string name="dirac_preset_treble_reduction">Diskantreduktion</string>
     <string name="dirac_preset_soft_bass">Mjuk Bas</string>
     <string name="dirac_preset_soft_treble">Mjuk Diskant</string>
+
+    <!-- DIRAC AE - Scenario Presets -->
+    <string name="dirac_scenario_default">Standard</string>
+    <string name="dirac_scenario_intelligent">Smart</string>
+    <string name="dirac_scenario_music">Musik</string>
+    <string name="dirac_scenario_video">Video</string>
+    <string name="dirac_scenario_voice">Röst</string>
 
     <!-- DIRAC AE - QS Tile -->
     <string name="dirac_qs_tile_title">DIRAC-Ljud</string>

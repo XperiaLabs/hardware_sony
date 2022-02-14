@@ -24,6 +24,7 @@
     <string name="dirac_enable">使用狄拉克</string>
     <string name="dirac_headset_title">耳机预设</string>
     <string name="dirac_preset_title">均衡器预设</string>
+    <string name="dirac_scenario_title">场景预设</string>
     <string name="dirac_hifi_title">声音保真度</string>
     <string name="dirac_hifi_enable_title">高保真模式</string>
     <string name="dirac_hifi_summary">降低整体噪音和高音量失真，同时提高音频质量</string>
@@ -73,7 +74,14 @@
     <string name="dirac_preset_treble_reduction">高音降低</string>
     <string name="dirac_preset_soft_bass">柔和的低音</string>
     <string name="dirac_preset_soft_treble">柔和的高音</string>
- 
+
+    <!-- DIRAC AE - Scenario Presets -->
+    <string name="dirac_scenario_default">默认</string>
+    <string name="dirac_scenario_intelligent">智能</string>
+    <string name="dirac_scenario_music">音乐</string>
+    <string name="dirac_scenario_video">视频</string>
+    <string name="dirac_scenario_voice">语音</string>
+
     <!-- DIRAC AE - QS Tile -->
     <string name="dirac_qs_tile_title">迪拉克音频</string>
 </resources>

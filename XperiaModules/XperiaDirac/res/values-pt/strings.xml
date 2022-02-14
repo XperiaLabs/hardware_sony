@@ -24,6 +24,7 @@
     <string name="dirac_enable">Usar DIRAC</string>
     <string name="dirac_headset_title">Predefinição de Fone de Ouvido</string>
     <string name="dirac_preset_title">Predefinição do Equalizador</string>
+    <string name="dirac_scenario_title">Predefinição de Cenário</string>
     <string name="dirac_hifi_title">Fidelidade de Som</string>
     <string name="dirac_hifi_enable_title">Modo Hi-Fi</string>
     <string name="dirac_hifi_summary">Diminua o ruído geral e a distorção de alto volume enquanto aumenta a qualidade do áudio</string>
@@ -73,6 +74,13 @@
     <string name="dirac_preset_treble_reduction">Redução de Agudos</string>
     <string name="dirac_preset_soft_bass">Baixo suave</string>
     <string name="dirac_preset_soft_treble">Agudos Suaves</string>
+
+    <!-- DIRAC AE - Scenario Presets -->
+    <string name="dirac_scenario_default">Padrão</string>
+    <string name="dirac_scenario_intelligent">Inteligente</string>
+    <string name="dirac_scenario_music">Música</string>
+    <string name="dirac_scenario_video">Vídeo</string>
+    <string name="dirac_scenario_voice">Voz</string>
 
     <!-- DIRAC AE - QS Tile -->
     <string name="dirac_qs_tile_title">Áudio DIRAC</string>

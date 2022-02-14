@@ -24,6 +24,7 @@
     <string name="dirac_enable">Gebruik DIRAC</string>
     <string name="dirac_headset_title">Voorinstelling Hoofdtelefoon</string>
     <string name="dirac_preset_title">Equalizer-Voorinstelling</string>
+    <string name="dirac_scenario_title">Scenario-Voorinstelling</string>
     <string name="dirac_hifi_title">Geluidsgetrouwheid</string>
     <string name="dirac_hifi_enable_title">HiFi-Modus</string>
     <string name="dirac_hifi_summary">Verminder de algehele ruis en vervorming van het hoge volume en verhoog tegelijkertijd de audiokwaliteit</string>
@@ -73,6 +74,13 @@
     <string name="dirac_preset_treble_reduction">Reductie van Hoge Tonen</string>
     <string name="dirac_preset_soft_bass">Zachte Bas</string>
     <string name="dirac_preset_soft_treble">Zachte Hoge Tonen</string>
+
+    <!-- DIRAC AE - Scenario Presets -->
+    <string name="dirac_scenario_default">Standaard</string>
+    <string name="dirac_scenario_intelligent">Slim</string>
+    <string name="dirac_scenario_music">Muziek</string>
+    <string name="dirac_scenario_video">Video</string>
+    <string name="dirac_scenario_voice">Stem</string>
 
     <!-- DIRAC AE - QS Tile -->
     <string name="dirac_qs_tile_title">DIRAC Audio</string>

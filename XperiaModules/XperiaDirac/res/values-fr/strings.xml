@@ -22,8 +22,9 @@
     <!-- DIRAC AE - Settings Page -->
     <string name="dirac_settings_title">Moteur Audio DIRAC</string>
     <string name="dirac_enable">Utiliser DIRAC</string>
-    <string name="dirac_headset_title">Préréglage du casque</string>
+    <string name="dirac_headset_title">Préréglage du Casque</string>
     <string name="dirac_preset_title">Préréglage de L\'égaliseur</string>
+    <string name="dirac_scenario_title">Scénario Prédéfini</string>
     <string name="dirac_hifi_title">Fidélité Sonore</string>
     <string name="dirac_hifi_enable_title">Mode Hi-Fi</string>
     <string name="dirac_hifi_summary">Réduisez le bruit global et la distorsion du volume élevé tout en augmentant la qualité audio</string>
@@ -73,6 +74,13 @@
     <string name="dirac_preset_treble_reduction">Réduction des Aigus</string>
     <string name="dirac_preset_soft_bass">Basse Douce</string>
     <string name="dirac_preset_soft_treble">Aigus Doux</string>
+
+    <!-- DIRAC AE - Scenario Presets -->
+    <string name="dirac_scenario_default">Défaut</string>
+    <string name="dirac_scenario_intelligent">Intelligent</string>
+    <string name="dirac_scenario_music">Musique</string>
+    <string name="dirac_scenario_video">Vidéo</string>
+    <string name="dirac_scenario_voice">Voix</string>
 
     <!-- DIRAC AE - QS Tile -->
     <string name="dirac_qs_tile_title">DIRAC Audio</string>

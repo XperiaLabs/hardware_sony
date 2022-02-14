@@ -24,6 +24,7 @@
     <string name="dirac_enable">DIRAC استعمال کریں۔</string>
     <string name="dirac_headset_title">ہیڈ سیٹ پیش سیٹ</string>
     <string name="dirac_preset_title">ایکویلائزر پیش سیٹ</string>
+    <string name="dirac_scenario_title">منظر نامہ پیش سیٹ</string>
     <string name="dirac_hifi_title">صوتی وفاداری۔</string>
     <string name="dirac_hifi_enable_title">ہائی فائی موڈ</string>
     <string name="dirac_hifi_summary">آڈیو کوالٹی میں اضافہ کرتے ہوئے مجموعی شور اور ہائی والیوم کی مسخ کو کم کریں۔</string>
@@ -73,6 +74,13 @@
     <string name="dirac_preset_treble_reduction">تگنا کمی</string>
     <string name="dirac_preset_soft_bass">نرم باس</string>
     <string name="dirac_preset_soft_treble">نرم ٹریبل</string>
+
+    <!-- DIRAC AE - Scenario Presets -->
+    <string name="dirac_scenario_default">ڈیفالٹ</string>
+    <string name="dirac_scenario_intelligent">اسمارٹ</string>
+    <string name="dirac_scenario_music">موسیقی</string>
+    <string name="dirac_scenario_video">ویڈیو</string>
+    <string name="dirac_scenario_voice">آواز</string>
 
     <!-- DIRAC AE - QS Tile -->
     <string name="dirac_qs_tile_title">DIRAC آڈیو</string>

@@ -24,6 +24,7 @@
     <string name="dirac_enable">Użyj DIRAC</string>
     <string name="dirac_headset_title">Ustawienie Słuchawek</string>
     <string name="dirac_preset_title">Wstępne Ustawienie Korektora</string>
+    <string name="dirac_scenario_title">Wstępnie Przygotowany Scenariusz</string>
     <string name="dirac_hifi_title">Wierność Dźwięku</string>
     <string name="dirac_hifi_enable_title">Tryb Hi-Fi</string>
     <string name="dirac_hifi_summary">Zmniejsz ogólny hałas i zniekształcenia przy dużej głośności, jednocześnie zwiększając jakość dźwięku</string>
@@ -73,6 +74,13 @@
     <string name="dirac_preset_treble_reduction">Redukcja Wysokich Tonów</string>
     <string name="dirac_preset_soft_bass">Miękki Bas</string>
     <string name="dirac_preset_soft_treble">Miękka Góra</string>
+
+    <!-- DIRAC AE - Scenario Presets -->
+    <string name="dirac_scenario_default">Domyślny</string>
+    <string name="dirac_scenario_intelligent">Mądry</string>
+    <string name="dirac_scenario_music">Muzyka</string>
+    <string name="dirac_scenario_video">Wideo</string>
+    <string name="dirac_scenario_voice">Głos</string>
 
     <!-- DIRAC AE - QS Tile -->
     <string name="dirac_qs_tile_title">Dźwięk DIRAC</string>

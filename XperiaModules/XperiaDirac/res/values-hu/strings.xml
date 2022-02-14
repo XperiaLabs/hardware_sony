@@ -20,12 +20,13 @@
     <string name="app_name">Xperia DIRAC</string>
 
     <!-- DIRAC AE - Settings Page -->
-    <string name="dirac_settings_title">DIRAC audio motor</string>
+    <string name="dirac_settings_title">DIRAC Audio Motor</string>
     <string name="dirac_enable">Használja a DIRAC-ot</string>
-    <string name="dirac_headset_title">Headset előre beállított</string>
-    <string name="dirac_preset_title">Equalizer előre beállított</string>
+    <string name="dirac_headset_title">Headset Előre Beállított</string>
+    <string name="dirac_preset_title">Equalizer Előre Beállított</string>
+    <string name="dirac_scenario_title">Előre Beállított Forgatókönyv</string>
     <string name="dirac_hifi_title">Hanghűség</string>
-    <string name="dirac_hifi_enable_title">Hi-Fi mód</string>
+    <string name="dirac_hifi_enable_title">Hi-Fi Mód</string>
     <string name="dirac_hifi_summary">Csökkentse az általános zajt és a nagy hangerő torzítását, miközben javítja a hangminőséget</string>
 
     <!-- DIRAC AE - Headset Types (Xiaomi Headsets) -->
@@ -73,6 +74,13 @@
     <string name="dirac_preset_treble_reduction">Magas Hangok Csökkentése</string>
     <string name="dirac_preset_soft_bass">Lágy Basszus</string>
     <string name="dirac_preset_soft_treble">Lágy Magashang</string>
+
+    <!-- DIRAC AE - Scenario Presets -->
+    <string name="dirac_scenario_default">Alapértelmezett</string>
+    <string name="dirac_scenario_intelligent">Okos</string>
+    <string name="dirac_scenario_music">Zene</string>
+    <string name="dirac_scenario_video">Videó</string>
+    <string name="dirac_scenario_voice">Hang</string>
 
     <!-- DIRAC AE - QS Tile -->
     <string name="dirac_qs_tile_title">DIRAC Audio</string>

@@ -24,6 +24,7 @@
     <string name="dirac_enable">ใช้ DIRAC</string>
     <string name="dirac_headset_title">ชุดหูฟังที่ตั้งไว้ล่วงหน้า</string>
     <string name="dirac_preset_title">อีควอไลเซอร์ที่ตั้งไว้ล่วงหน้า</string>
+    <string name="dirac_scenario_title">สถานการณ์ที่ตั้งไว้ล่วงหน้า</string>
     <string name="dirac_hifi_title">ความเที่ยงตรงของเสียง</string>
     <string name="dirac_hifi_enable_title">โหมดไฮไฟ</string>
     <string name="dirac_hifi_summary">ลดเสียงรบกวนโดยรวมและความเพี้ยนของระดับเสียงสูงพร้อมทั้งเพิ่มคุณภาพเสียง</string>
@@ -74,6 +75,13 @@
     <string name="dirac_preset_soft_bass">เบสนุ่ม</string>
     <string name="dirac_preset_soft_treble">เสียงแหลมนุ่ม</string>
  
+    <!-- DIRAC AE - Scenario Presets -->
+    <string name="dirac_scenario_default">ค่าเริ่มต้น</string>
+    <string name="dirac_scenario_intelligent">ฉลาด</string>
+    <string name="dirac_scenario_music">เพลง</string>
+    <string name="dirac_scenario_video">วิดีโอ</string>
+    <string name="dirac_scenario_voice">เสียง</string>
+
     <!-- DIRAC AE - QS Tile -->
     <string name="dirac_qs_tile_title">ดีแรค ออดิโอ</string>
 </resources>

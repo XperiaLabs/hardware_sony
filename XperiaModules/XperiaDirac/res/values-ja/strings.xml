@@ -24,6 +24,7 @@
     <string name="dirac_enable">DIRACを使用する</string>
     <string name="dirac_headset_title">ヘッドセットのプリセット</string>
     <string name="dirac_preset_title">イコライザープリセット</string>
+    <string name="dirac_scenario_title">シナリオプリセット</string>
     <string name="dirac_hifi_title">サウンドの忠実度</string>
     <string name="dirac_hifi_enable_title">Hi-Fiモード</string>
     <string name="dirac_hifi_summary">オーディオ品質を向上させながら、全体的なノイズと大音量の歪みを低減します。</string>
@@ -73,6 +74,13 @@
     <string name="dirac_preset_treble_reduction">高音の低減</string>
     <string name="dirac_preset_soft_bass">ソフトな低音</string>
     <string name="dirac_preset_soft_treble">ソフトトレブル</string>
+
+    <!-- DIRAC AE - Scenario Presets -->
+    <string name="dirac_scenario_default">デフォルト</string>
+    <string name="dirac_scenario_intelligent">頭いい</string>
+    <string name="dirac_scenario_music">音楽</string>
+    <string name="dirac_scenario_video">ビデオ</string>
+    <string name="dirac_scenario_voice">声</string>
 
     <!-- DIRAC AE - QS Tile -->
     <string name="dirac_qs_tile_title">ディラックオーディオ</string>

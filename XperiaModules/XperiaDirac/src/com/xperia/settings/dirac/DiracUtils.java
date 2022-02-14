@@ -128,6 +128,10 @@ public class DiracUtils {
          mDiracSound.setHeadsetType(paramInt);
     }
 
+    public void setScenario(int paramInt) {
+        mDiracSound.setScenario(paramInt);
+    }
+
     public boolean getHifiMode() {
         AudioManager audioManager = mContext.getSystemService(AudioManager.class);
         return audioManager.getParameters("hifi_mode").contains("true");
