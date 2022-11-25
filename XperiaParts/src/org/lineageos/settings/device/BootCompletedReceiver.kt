@@ -10,11 +10,13 @@ import android.content.Context
 import android.content.Intent
 import android.util.Log
 import org.lineageos.settings.device.display.CreatorModeUtils
+import org.lineageos.settings.device.charger.ChargerUtils
 
 class BootCompletedReceiver : BroadcastReceiver() {
     override fun onReceive(context: Context, intent: Intent) {
         Log.d(TAG, "Starting")
         CreatorModeUtils(context).initialize()
+        ChargerUtils(context).applyOnBoot()
     }
 
     companion object {

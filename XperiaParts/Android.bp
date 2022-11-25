@@ -17,7 +17,8 @@ android_app {
         "org.lineageos.platform.internal",
         "vendor.semc.hardware.display-V2.0-java",
         "vendor.semc.hardware.display-V2.1-java",
-        "vendor.semc.hardware.display-V2.2-java"
+        "vendor.semc.hardware.display-V2.2-java",
+        "vendor.sony.charger-V1-java",
     ],
 
     optimize: {

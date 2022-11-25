@@ -11,4 +11,20 @@
     <string name="cm_switch_description">Enables the BT.2020 Color Gamut and 10-bit Color</string>
 
     <string name="cm_dashboard_summary">Creator Mode setting</string>
+
+    <!-- Charger Related Settings -->
+    <string name="charger_setting_header">Advanced Charging Settings</string>
+    <string name="charger_setting_summary">Adjust charging related settings</string>
+
+    <!-- Charger preference screen strings -->
+    <string name="advanced_charger_title">@string/charger_setting_header</string>
+    <string name="advanced_charger_setting_summary">Disable charging and set up battery charging limit</string>
+    <string name="charger_setting_main_enable_title">Customize charging settings</string>
+    <string name="device_charging_enable_title">Enable charging</string>
+    <string name="device_charging_enable_summary">Turn off this setting will disable charging</string>
+    <string name="device_charging_control_title">Custom battery charging limit</string>
+    <string name="charger_setting_explained">If you enable this setting, charging will only be enabled when the following two requirements are met:\n  1. You have enabled charging by toggling \"Enable charging\"\n  2. Your device\'s battery level is lower than the limit you have set</string>
+
+    <!-- Charger QS Tile -->
+    <string name="charger_qs_tile_title">Pause Charging</string>
 </resources>
