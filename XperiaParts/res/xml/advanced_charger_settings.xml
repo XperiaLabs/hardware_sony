@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:title="@string/advanced_charger_title">
+
+    <com.android.settingslib.widget.TopIntroPreference
+        android:key="charger_top_intro"
+        android:title="@string/advanced_charger_setting_summary"/>
+
+    <com.android.settingslib.widget.MainSwitchPreference
+        android:defaultValue="false"
+        android:key="charger_setting_main_enable"
+        android:title="@string/charger_setting_main_enable_title" />
+
+    <SwitchPreference
+        android:key="device_charging_enable"
+        android:title="@string/device_charging_enable_title"
+        android:summary="@string/device_charging_enable_summary"
+        android:persistent="false"
+        android:dependency="charger_setting_main_enable" />
+
+    <org.lineageos.settings.device.widgets.CustomSeekBarPreference
+        android:key="device_charging_control"
+        android:title="@string/device_charging_control_title"
+        android:defaultValue="@integer/charging_control_default"
+        android:max="@integer/charging_control_max"
+        android:min="@integer/charging_control_min"
+        android:dependency="charger_setting_main_enable"
+        app:showSeekBarValue="true"
+        app:defaultValueText="No Limit" />
+
+    <com.android.settingslib.widget.FooterPreference
+        android:key="charger_setting_footer"
+        android:title="@string/charger_setting_explained"
+        android:selectable="false" />
+
+</PreferenceScreen>
