@@ -7,6 +7,9 @@
     <string name="display_setting_header">Image Quality Settings</string>
     <string name="display_setting_summary">Adjust various display settings</string>
 
+    <!-- Display Related QS Tile -->
+    <string name="display_qs_tile_title">Creator Mode</string>
+
     <!-- Creator Mode Related Settings -->
     <string name="cm_display_header">Color gamut and contrast</string>
     <string name="cm_switch_title">Creator Mode</string>
