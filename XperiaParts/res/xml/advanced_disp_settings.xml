@@ -3,12 +3,12 @@
 
     <PreferenceCategory
         app:iconSpaceReserved="false"
-        app:summary="@string/cm_switch_description"
         app:title="@string/cm_display_header">
 
         <SwitchPreference app:key="switchCreatorMode"
                           app:iconSpaceReserved="false"
                           app:title="@string/cm_switch_title"
+                          app:summary="@string/cm_switch_description"
         />
     </PreferenceCategory>
 
