@@ -1,20 +1,21 @@
 <resources>
     <string name="app_name" translatable="false">XperiaParts</string>
+    <string name="app_summary" translatable="false">Adjust Various Xperia Settings</string>
 
     <!-- Display Related Settings -->
-    <string name="display_setting_header">Advanced Display Setting</string>
+    <string name="display_title">Display</string>
+    <string name="display_setting_header">Image Quality Settings</string>
     <string name="display_setting_summary">Adjust various display settings</string>
 
-    <!-- Creator Mode Related Settings -->
-    <string name="cm_display_header">Creator Mode Settings</string>
-    <string name="cm_switch_title">Enable/Disable Creator Mode</string>
-    <string name="cm_switch_description">Enables the BT.2020 Color Gamut and 10-bit Color</string>
-
-    <string name="cm_dashboard_summary">Creator Mode Setting</string>
-
-    <!-- Charger Related Settings -->
-    <string name="charger_setting_header">Advanced Charging Settings</string>
+    <!-- Charging Related Settings -->
+    <string name="charging_title">Charging</string>
+    <string name="charger_setting_header">Battery Care</string>
     <string name="charger_setting_summary">Adjust charging related settings</string>
+
+    <!-- Creator Mode Related Settings -->
+    <string name="cm_display_header">Color gamut and contrast</string>
+    <string name="cm_switch_title">Creator Mode</string>
+    <string name="cm_switch_description">Provide a faithful reproduction of the creator\'s intended vision through high definition display and specially developed image processing compatible with BT.2020 color gamut and 10-bit color of HDR specification.</string>
 
     <!-- Charger preference screen strings -->
     <string name="advanced_charger_title">@string/charger_setting_header</string>

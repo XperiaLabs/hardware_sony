@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2022 The LineageOS Project
+ * SPDX-License-Identifier: Apache-2.0
+-->
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:title="@string/app_name">
+
+    <PreferenceCategory
+        android:key="d"
+        android:title="@string/display_title">
+
+        <Preference
+            android:key="advanced_disp_settings"
+            android:summary="@string/display_setting_summary"
+            android:icon="@drawable/ic_display_enhance"
+            android:title="@string/display_setting_header">
+            <intent
+                android:action="android.intent.action.MAIN"
+                android:targetPackage="org.lineageos.settings.device"
+                android:targetClass="org.lineageos.settings.device.display.DisplaySettingsActivity" />
+        </Preference>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="c"
+        android:title="@string/charging_title">
+
+        <Preference
+            android:key="advanced_charger_settings"
+            android:summary="@string/charger_setting_summary"
+            android:icon="@drawable/ic_qs_pause_charging"
+            android:title="@string/charger_setting_header">
+            <intent
+                android:action="android.intent.action.MAIN"
+                android:targetPackage="org.lineageos.settings.device"
+                android:targetClass="org.lineageos.settings.device.charger.ChargerSettingsActivity" />
+        </Preference>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
