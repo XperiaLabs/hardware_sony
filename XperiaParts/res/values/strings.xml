@@ -11,4 +11,16 @@
     <string name="cm_display_header">Color gamut and contrast</string>
     <string name="cm_switch_title">Creator Mode</string>
     <string name="cm_switch_description">Provide a faithful reproduction of the creator\'s intended vision through high definition display and specially developed image processing compatible with BT.2020 color gamut and 10-bit color of HDR specification.</string>
+
+    <!-- Content description of the previous button to bring user to the previous preview page. -->
+    <string name="previous_page_content_description">Previous</string>
+
+    <!-- Content description of the next button to bring user to the next preview page. -->
+    <string name="next_page_content_description">Next</string>
+    
+    <!-- Color mode image maximum size -->
+    <dimen name="color_mode_preview_height">320dp</dimen>
+
+    <!-- Content description of preview pager in colors preview -->
+    <string name="colors_viewpager_content_description">Color preview</string>
 </resources>
