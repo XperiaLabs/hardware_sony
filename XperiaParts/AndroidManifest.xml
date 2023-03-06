@@ -60,8 +60,7 @@
                 android:theme="@style/Theme.SubSettingsBase"
                 android:label="@string/charger_setting_header">
             <intent-filter>
-                <category android:name="android.intent.category.DEFAULT" />
-                <action android:name="android.intent.action.MAIN" />
+                <action android:name="com.android.settings.action.IA_SETTINGS"/>
                 <action android:name="android.service.quicksettings.action.QS_TILE_PREFERENCES"/>
             </intent-filter>
         </activity>
@@ -72,8 +71,7 @@
                 android:theme="@style/Theme.SubSettingsBase"
                 android:label="@string/display_setting_header">
             <intent-filter>
-                <category android:name="android.intent.category.DEFAULT" />
-                <action android:name="android.intent.action.MAIN" />
+                <action android:name="com.android.settings.action.IA_SETTINGS"/>
                 <action android:name="android.service.quicksettings.action.QS_TILE_PREFERENCES"/>
             </intent-filter>
         </activity>

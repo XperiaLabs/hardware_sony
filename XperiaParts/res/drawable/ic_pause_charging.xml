@@ -8,15 +8,7 @@
     android:tint="?attr/colorControlNormal">
     <path
         android:name="path"
-        android:pathData="M 9 11 L 9 16 L 11 16 L 11 11 L 9 11 M 13 11 L 13 16 L 15 16 L 15 11 L 13 11"
+        android:pathData="M12.67 4H11V2H5V4H3.33A1.34 1.34 0 0 0 2 5.33V20.67A1.34 1.34 0 0 0 3.33 22H12.67A1.34 1.34 0 0 0 14 20.67V5.33A1.34 1.34 0 0 0 12.67 4M19 16.17L18.42 15.64C16.36 13.77 15 12.54 15 11A2.18 2.18 0 0 1 17.2 8.8A2.4 2.4 0 0 1 19 9.63A2.4 2.4 0 0 1 20.8 8.8A2.18 2.18 0 0 1 23 11C23 12.5 21.64 13.74 19.58 15.61Z"
         android:fillAlpha="100"
         android:fillColor="@android:color/black"/>
-    <path
-        android:name="path_1"
-        android:fillAlpha="0"
-        android:strokeWidth="1.8"
-        android:strokeColor="@android:color/black"
-        android:pathData="M 9.5 4 L 9.5 2 L 14.5 2 L 14.5 4 L 17 4 C 17.5 4 18 4.5 18 5 L 18 21 C 18 21.5 17.5 22 17 22 L 7 22 C 6.5 22 6 21.5 6 21 L 6 5 C 6 4.5 6.5 4 7 4 Z"
-        android:fillColor="@android:color/transparent"/>
-
 </vector>

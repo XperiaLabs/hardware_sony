@@ -26,7 +26,19 @@
     <string name="device_charging_control_title">Custom battery charging limit</string>
     <string name="charger_setting_explained">If you enable this setting, charging will only be enabled when the following two requirements are met:\n  1. You have enabled charging by toggling \"Enable charging\"\n  2. Your device\'s battery level is lower than the limit you have set</string>
 
+    <!-- Content description of the previous button to bring user to the previous preview page. -->
+    <string name="previous_page_content_description">Previous</string>
+
+    <!-- Content description of the next button to bring user to the next preview page. -->
+    <string name="next_page_content_description">Next</string>
+    
+    <!-- Color mode image maximum size -->
+    <dimen name="color_mode_preview_height">320dp</dimen>
+
+    <!-- Content description of preview pager in colors preview -->
+    <string name="colors_viewpager_content_description">Color preview</string>
+
     <!-- Charger QS Tile -->
     <string name="charger_qs_tile_title">Pause Charging</string>
-    
+
 </resources>
