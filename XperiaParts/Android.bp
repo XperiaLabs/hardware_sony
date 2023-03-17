@@ -10,9 +10,15 @@ android_app {
     system_ext_specific: true,
     privileged: true,
 
+    libs: [
+        "framework",
+        "services",
+    ],
+
     static_libs: [
         "androidx.core_core",
         "androidx.preference_preference",
+        "androidx.core_core-ktx",
         "org.lineageos.settings.resources",
         "org.lineageos.platform.internal",
         "vendor.semc.hardware.display-V2.0-java",
