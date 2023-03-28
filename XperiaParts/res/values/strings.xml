@@ -13,18 +13,18 @@
     <string name="charger_setting_summary">Adjust charging related settings</string>
 
     <!-- Creator Mode Related Settings -->
-    <string name="cm_display_header">Color gamut and contrast</string>
+    <string name="cm_display_header">Color Gamut and Contrast</string>
     <string name="cm_switch_title">Creator Mode</string>
     <string name="cm_switch_description">Provide a faithful reproduction of the creator\'s intended vision through high definition display and specially developed image processing compatible with BT.2020 color gamut and 10-bit color of HDR specification.</string>
 
-    <!-- Charger preference screen strings -->
+    <!-- Charging Preferences Settings -->
     <string name="advanced_charger_title">@string/charger_setting_header</string>
-    <string name="advanced_charger_setting_summary">Disable charging and set up battery charging limit</string>
-    <string name="charger_setting_main_enable_title">Customize charging settings</string>
-    <string name="device_charging_enable_title">Enable charging</string>
-    <string name="device_charging_enable_summary">Turn off this setting will disable charging</string>
-    <string name="device_charging_control_title">Custom battery charging limit</string>
-    <string name="charger_setting_explained">If you enable this setting, charging will only be enabled when the following two requirements are met:\n  1. You have enabled charging by toggling \"Enable charging\"\n  2. Your device\'s battery level is lower than the limit you have set</string>
+    <string name="advanced_charger_setting_summary">Configure a custom charging limit and disable charging altogether</string>
+    <string name="charger_setting_main_enable_title">Use Battery Care</string>
+    <string name="device_charging_enable_title">Enable Charging</string>
+    <string name="device_charging_enable_summary">Turning this setting off will stop the device from charging</string>
+    <string name="device_charging_control_title">Charging Limit</string>
+    <string name="charger_setting_explained">If you enable this setting, the device will only start charging when the two following requirements are met:\n  1. You have enabled charging by toggling \"Enable Charging\"\n  2. Your device\'s battery level is lower than the charging limit you have set</string>
 
     <!-- Content description of the previous button to bring user to the previous preview page. -->
     <string name="previous_page_content_description">Previous</string>
@@ -36,9 +36,9 @@
     <dimen name="color_mode_preview_height">320dp</dimen>
 
     <!-- Content description of preview pager in colors preview -->
-    <string name="colors_viewpager_content_description">Color preview</string>
+    <string name="colors_viewpager_content_description">Color Preview</string>
 
-    <!-- Charger QS Tile -->
+    <!-- HS Charging QS Tile -->
     <string name="charger_qs_tile_title">Pause Charging</string>
 
 </resources>
