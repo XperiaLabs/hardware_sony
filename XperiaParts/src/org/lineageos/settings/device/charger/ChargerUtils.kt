@@ -54,14 +54,21 @@ class ChargerUtils(private val context: Context) {
     }
 
     fun applyOnBoot() {
+        val mainSwitch: Boolean =
+        Settings.Secure.getInt(context.contentResolver, CHARGER_MAIN_ENABLE, 0) > 0
+        
+        if (mainSwitch) {
         val chargingEnabled: Int =
             Settings.Secure.getInt(context.contentResolver, CHARGER_CHARGING_ENABLE, 0)
         val chargingLimit: Int =
             Settings.Secure.getInt(context.contentResolver, CHARGER_LIMIT_ENABLE, 100)
-
-        Log.i(TAG, "Charger: $chargingEnabled")
-        this.isChargingEnabled = chargingEnabled > 0
-        this.chargingLimit = chargingLimit
+        
+            Log.i(TAG, "Charger: $chargingEnabled")
+            this.isChargingEnabled = chargingEnabled > 0
+            this.chargingLimit = chargingLimit
+        } else {
+            Log.i(TAG, "Charger service is disabled. Skipping charging settings.")
+        }
     }
 
     companion object {

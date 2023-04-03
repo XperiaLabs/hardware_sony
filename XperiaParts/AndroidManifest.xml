@@ -61,7 +61,6 @@
                 android:label="@string/charger_setting_header">
             <intent-filter>
                 <action android:name="com.android.settings.action.IA_SETTINGS"/>
-                <action android:name="android.service.quicksettings.action.QS_TILE_PREFERENCES"/>
             </intent-filter>
         </activity>
 
