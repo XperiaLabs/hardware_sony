@@ -32,7 +32,7 @@
         <Preference
             android:key="advanced_charger_settings"
             android:summary="@string/charger_setting_summary"
-            android:icon="@drawable/ic_qs_pause_charging"
+            android:icon="@drawable/ic_battery_care"
             android:title="@string/charger_setting_header"
             android:fragment="org.lineageos.settings.device.charger.ChargerSettingsActivity">
             <intent
