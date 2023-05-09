@@ -10,7 +10,7 @@
     <!-- Creator Mode Related Settings -->
     <string name="cm_display_header">Color gamut and contrast</string>
     <string name="cm_switch_title">Creator Mode</string>
-    <string name="cm_switch_description">Provide a faithful reproduction of the creator\'s intended vision through high definition display and specially developed image processing compatible with BT.2020 color gamut and 10-bit color of HDR specification.</string>
+    <string name="cm_switch_description">Provide a faithful reproduction of the creator\'s intended vision through high definition display and specially developed image processing compatible with BT.2020 color gamut and 10-bit color of HDR specification</string>
 
     <!-- Content description of the previous button to bring user to the previous preview page. -->
     <string name="previous_page_content_description">Previous</string>
