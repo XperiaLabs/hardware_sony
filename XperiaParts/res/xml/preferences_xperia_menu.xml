@@ -43,4 +43,20 @@
 
     </PreferenceCategory>
 
+    <PreferenceCategory
+        android:key="dolby"
+        android:title="@string/dolby_category">
+
+       <Preference
+            android:key="audio_dolby_atmos"
+            android:icon="@drawable/ic_dolby"
+            android:title="@string/dolby_title"
+            android:summary="@string/dolby_summary"
+            android:persistent="false">
+            <intent
+                 android:targetPackage="com.motorola.dolby.dolbyui"
+                 android:targetClass="com.motorola.dolby.dolbyui.MotoMainActivity" />
+        </Preference>
+    </PreferenceCategory>
+
 </PreferenceScreen>

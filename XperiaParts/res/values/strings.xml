@@ -7,6 +7,11 @@
     <string name="display_setting_header">Image Quality Settings</string>
     <string name="display_setting_summary">Adjust various display settings</string>
 
+    <!-- Audio Related Settings -->
+    <string name="dolby_category">Audio</string>
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_summary">Adjust audio related settings</string>
+
     <!-- Charging Related Settings -->
     <string name="charging_title">Charging</string>
     <string name="charger_setting_header">Battery Care</string>
