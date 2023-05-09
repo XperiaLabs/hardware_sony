@@ -7,6 +7,10 @@
     <string name="display_setting_header">Image Quality Settings</string>
     <string name="display_setting_summary">Adjust various display settings</string>
 
+    <!-- External Monitor Related Settings -->
+    <string name="extmonitor_setting_header">External Monitor</string>
+    <string name="extmonitor_summary">Adjust the settings of your external camera and utilize your Xperia as a viewfinder</string>
+
     <!-- Audio Related Settings -->
     <string name="dolby_category">Audio</string>
     <string name="dolby_title">Dolby Atmos</string>

@@ -23,6 +23,17 @@
                 android:targetClass="org.lineageos.settings.device.display.DisplaySettingsActivity" />
         </Preference>
 
+       <Preference
+            android:key="external_monitor_settings"
+            android:summary="@string/extmonitor_summary"
+            android:icon="@drawable/ic_external_monitor"
+            android:title="@string/extmonitor_setting_header"
+            android:persistent="false">
+            <intent
+                 android:targetPackage="com.sonymobile.extmonitorapp"
+                 android:targetClass="com.sonymobile.extmonitorapp.MonitorProActivity" />
+        </Preference>
+
     </PreferenceCategory>
 
     <PreferenceCategory
