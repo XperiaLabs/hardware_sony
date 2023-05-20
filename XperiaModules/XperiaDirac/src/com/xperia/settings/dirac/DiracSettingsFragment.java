@@ -99,7 +99,7 @@ public class DiracSettingsFragment extends PreferenceFragment implements
                 }
                 return true;
             case PREF_PRESET:
-               mDiracUtils.setLevel(String.valueOf(newValue));
+                mDiracUtils.setLevel(String.valueOf(newValue));
                 return true;
             case PREF_SCENE:
                 mDiracUtils.setScenario(Integer.parseInt(newValue.toString()));

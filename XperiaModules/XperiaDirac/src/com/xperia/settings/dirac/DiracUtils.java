@@ -24,6 +24,7 @@ import android.os.UserHandle;
 import android.os.SystemClock;
 import android.view.KeyEvent;
 import android.media.AudioManager;
+import android.os.SystemProperties;
 import android.media.session.MediaController;
 import android.media.session.MediaSessionManager;
 import android.media.session.PlaybackState;
@@ -98,8 +99,13 @@ public class DiracUtils {
     }
 
     public void setEnabled(boolean enable) {
-        mDiracSound.setEnabled(enable);
-        mDiracSound.setMusic(enable ? 1 : 0);
+        if (enable) {
+            SystemProperties.set("persist.vendor.audio.misound.disable", "false");
+            mDiracSound.setMusic(1);
+        } else {
+            mDiracSound.setMusic(0);
+            SystemProperties.set("persist.vendor.audio.misound.disable", "true");
+        }
     }
 
     public boolean isDiracEnabled() {
@@ -125,7 +131,7 @@ public class DiracUtils {
     }
 
     public void setHeadsetType(int paramInt) {
-         mDiracSound.setHeadsetType(paramInt);
+        mDiracSound.setHeadsetType(paramInt);
     }
 
     public void setScenario(int paramInt) {
