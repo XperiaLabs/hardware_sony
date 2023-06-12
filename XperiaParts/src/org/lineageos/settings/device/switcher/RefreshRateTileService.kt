@@ -21,8 +21,10 @@ import android.provider.Settings
 import android.service.quicksettings.Tile
 import android.service.quicksettings.TileService
 import android.view.Display
-import java.lang.Math.max
-import java.util.*
+import java.util.ArrayList
+import java.util.Locale
+
+import org.lineageos.settings.device.R
 
 class RefreshRateTileService : TileService() {
     private val KEY_MIN_REFRESH_RATE = "min_refresh_rate"
@@ -41,7 +43,7 @@ class RefreshRateTileService : TileService() {
         val mode: Display.Mode = context.display.mode
         val modes: Array<Display.Mode> = context.display.supportedModes
         for (m in modes) {
-            val rate = Math.round(m.refreshRate)
+            val rate = m.refreshRate.toInt()
             if (m.physicalWidth == mode.physicalWidth && m.physicalHeight == mode.physicalHeight) {
                 availableRates.add(rate)
             }
@@ -50,9 +52,10 @@ class RefreshRateTileService : TileService() {
     }
 
     private fun getSettingOf(key: String): Int {
-        val rate = Settings.System.getFloat(context.contentResolver, key, 60f)
-        val active = max(availableRates.indexOf(Math.round(rate)), 0)
-        return maxOf(active, 0)
+        val defaultRate = resources.getInteger(R.integer.config_defaultRefreshRate)
+        val rate = Settings.System.getInt(context.contentResolver, key, defaultRate)
+        val active = availableRates.indexOf(rate)
+        return active.coerceAtLeast(0)
     }
 
     private fun syncFromSettings() {
@@ -61,15 +64,11 @@ class RefreshRateTileService : TileService() {
     }
 
     private fun cycleRefreshRate() {
-        if (activeRateMin < availableRates.size - 1) {
-            activeRateMin++
-        } else {
-            activeRateMin = 0
-        }
+        activeRateMin = (activeRateMin + 1) % availableRates.size
 
-        val rate = availableRates[activeRateMin].toFloat()
-        Settings.System.putFloat(context.contentResolver, KEY_MIN_REFRESH_RATE, rate)
-        Settings.System.putFloat(context.contentResolver, KEY_PEAK_REFRESH_RATE, rate)
+        val rate = availableRates[activeRateMin]
+        Settings.System.putInt(context.contentResolver, KEY_MIN_REFRESH_RATE, rate)
+        Settings.System.putInt(context.contentResolver, KEY_PEAK_REFRESH_RATE, rate)
     }
 
     private fun updateTileView() {

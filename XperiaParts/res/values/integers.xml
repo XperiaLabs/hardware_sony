@@ -18,4 +18,8 @@
     <integer name="charging_control_default">100</integer>
     <integer name="charging_control_max">100</integer>
     <integer name="charging_control_min">50</integer>
+
+    <!-- Min - Max refresh rate -->
+    <integer name="config_defaultRefreshRate">-1</integer>
+    <integer name="config_defaultPeakRefreshRate">0</integer>
 </resources>
