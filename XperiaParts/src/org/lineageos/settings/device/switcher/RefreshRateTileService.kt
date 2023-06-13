@@ -17,6 +17,7 @@
 package org.lineageos.settings.device.switcher
 
 import android.content.Context
+import android.content.pm.PackageManager
 import android.provider.Settings
 import android.service.quicksettings.Tile
 import android.service.quicksettings.TileService
@@ -88,12 +89,27 @@ class RefreshRateTileService : TileService() {
         tile = qsTile
         syncFromSettings()
         updateTileView()
+        checkRefreshRateAvailable()
+    }
+
+    private fun checkRefreshRateAvailable() {
+        val hasDefaultRefreshRate = resources.getInteger(R.integer.config_defaultRefreshRate)
+        val hasDefaultPeakRefreshRate = resources.getInteger(R.integer.config_defaultPeakRefreshRate)
+
+        if (hasDefaultRefreshRate != -1 || hasDefaultPeakRefreshRate != 0) {
+            stopSelf()
+            tile.state = Tile.STATE_UNAVAILABLE
+            tile.subtitle = "Not Supported"
+            tile.updateTile()
+        }
     }
 
     override fun onClick() {
         super.onClick()
-        cycleRefreshRate()
-        syncFromSettings()
-        updateTileView()
+        if (tile.state != Tile.STATE_UNAVAILABLE) {
+            cycleRefreshRate()
+            syncFromSettings()
+            updateTileView()
+        }
     }
 }
