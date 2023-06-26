@@ -16,6 +16,10 @@
     <string name="dolby_title">Dolby Atmos</string>
     <string name="dolby_summary">Adjust audio related settings</string>
 
+    <!-- Spatial Audio Related Settings -->
+    <string name="threesixtyra_setting_header">360 Reality Audio</string>
+    <string name="threesixtyra_summary">Adjust spatial audio related settings</string>
+
     <!-- Charging Related Settings -->
     <string name="charging_title">Charging</string>
     <string name="charger_setting_header">Battery Care</string>
