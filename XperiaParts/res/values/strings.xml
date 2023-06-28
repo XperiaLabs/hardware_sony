@@ -13,7 +13,7 @@
 
     <!-- Audio Related Settings -->
     <string name="dolby_category">Audio</string>
-    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_title">Dolby Sound</string>
     <string name="dolby_summary">Adjust audio related settings</string>
 
     <!-- Spatial Audio Related Settings -->
