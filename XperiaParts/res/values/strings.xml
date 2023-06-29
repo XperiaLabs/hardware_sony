@@ -1,59 +1,60 @@
 <resources>
-    <string name="app_name" translatable="false">XperiaParts</string>
+    <string name="app_name" translatable="false">Xperia Parts</string>
     <string name="app_summary" translatable="false">Adjust Various Xperia Settings</string>
 
-    <!-- Display Related Settings -->
+    <!-- Display Settings -->
     <string name="display_title">Display</string>
     <string name="display_setting_header">Image Quality Settings</string>
-    <string name="display_setting_summary">Adjust various display settings</string>
+    <string name="display_setting_summary">Adjust display settings</string>
 
-    <!-- External Monitor Related Settings -->
+    <!-- External Monitor -->
     <string name="extmonitor_setting_header">External Monitor</string>
     <string name="extmonitor_summary">Adjust the settings of your external camera and utilize your Xperia as a viewfinder</string>
 
-    <!-- Audio Related Settings -->
+    <!-- Audio Settings -->
     <string name="dolby_category">Audio</string>
     <string name="dolby_title">Dolby Sound</string>
     <string name="dolby_summary">Adjust audio related settings</string>
 
-    <!-- Spatial Audio Related Settings -->
+    <!-- Spatial Audio Settings -->
     <string name="threesixtyra_setting_header">360 Reality Audio</string>
     <string name="threesixtyra_summary">Adjust spatial audio related settings</string>
 
-    <!-- Charging Related Settings -->
+    <!-- Charging Settings -->
     <string name="charging_title">Charging</string>
     <string name="charger_setting_header">Battery Care</string>
     <string name="charger_setting_summary">Adjust charging related settings</string>
 
-    <!-- Creator Mode Related Settings -->
+    <!-- Creator Mode Settings -->
     <string name="cm_display_header">Color Gamut and Contrast</string>
     <string name="cm_switch_title">Creator Mode</string>
     <string name="cm_switch_description">Provide a faithful reproduction of the creator\'s intended vision through high definition display and specially developed image processing compatible with BT.2020 color gamut and 10-bit color of HDR specification</string>
 
-    <!-- Charging Preferences Settings -->
+    <!-- Charging Settings -->
     <string name="advanced_charger_title">@string/charger_setting_header</string>
-    <string name="advanced_charger_setting_summary">Configure a custom charging limit and disable charging altogether</string>
+    <string name="advanced_charger_setting_summary">Configure a custom charging limit or disable charging altogether</string>
     <string name="charger_setting_main_enable_title">Customize Charging Settings</string>
     <string name="device_charging_enable_title">Enable Charging</string>
-    <string name="device_charging_enable_summary">Turning this setting off will stop the device from charging</string>
+    <string name="device_charging_enable_summary">Disabling this setting will stop the device from charging</string>
     <string name="device_charging_control_title">Charging Limit</string>
-    <string name="charger_setting_explained">If you enable this setting, the device will only start charging when the two following requirements are met:\n  1. You have enabled charging by toggling \"Enable Charging\"\n  2. Your device\'s battery level is lower than the charging limit you have set</string>
+    <string name="charger_setting_explained">If Battery Care is enabled, the device will start charging only when the following requirements have been met:\n
+1. You have enabled charging by toggling \"Enable Charging\"\n  2. Your device\'s battery level is lower than the charging limit you have set</string>
 
-    <!-- Content description of the previous button to bring user to the previous preview page. -->
+    <!-- Creator Mode Previous Image Button -->
     <string name="previous_page_content_description">Previous</string>
 
-    <!-- Content description of the next button to bring user to the next preview page. -->
+    <!-- Creator Mode Next Image Button -->
     <string name="next_page_content_description">Next</string>
     
-    <!-- Color mode image maximum size -->
+    <!-- Creator Mode Images Size -->
     <dimen name="color_mode_preview_height">320dp</dimen>
 
-    <!-- Content description of preview pager in colors preview -->
+    <!-- Creator Mode Preview Images -->
     <string name="colors_viewpager_content_description">Color Preview</string>
 
-    <!-- HS Charging QS Tile -->
+    <!-- H.S (Heat Suppression) Power Control QS Tile -->
     <string name="charger_qs_tile_title">Pause Charging</string>
 
-    <!-- Refresh Rate Settings -->
+    <!-- Refresh Rate QS Tile -->
     <string name="refresh_rate_tile_title">Refresh Rate</string>
 </resources>
