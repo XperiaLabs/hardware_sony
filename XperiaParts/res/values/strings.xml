@@ -9,21 +9,21 @@
 
     <!-- External Monitor -->
     <string name="extmonitor_setting_header">External Monitor</string>
-    <string name="extmonitor_summary">Adjust the settings of your external camera and utilize your Xperia as a viewfinder</string>
+    <string name="extmonitor_summary">Adjust external camera settings and also utilize your Xperia's display as a viewfinder</string>
 
     <!-- Audio Settings -->
     <string name="dolby_category">Audio</string>
     <string name="dolby_title">Dolby Sound</string>
-    <string name="dolby_summary">Adjust audio related settings</string>
+    <string name="dolby_summary">Adjust audio settings</string>
 
     <!-- Spatial Audio Settings -->
     <string name="threesixtyra_setting_header">360 Reality Audio</string>
-    <string name="threesixtyra_summary">Adjust spatial audio related settings</string>
+    <string name="threesixtyra_summary">Adjust spatial audio settings</string>
 
-    <!-- Charging Settings -->
+    <!-- Charging Settings Main Menu -->
     <string name="charging_title">Charging</string>
     <string name="charger_setting_header">Battery Care</string>
-    <string name="charger_setting_summary">Adjust charging related settings</string>
+    <string name="charger_setting_summary">Adjust charging settings</string>
 
     <!-- Creator Mode Settings -->
     <string name="cm_display_header">Color Gamut and Contrast</string>
@@ -33,7 +33,7 @@
     <!-- Charging Settings -->
     <string name="advanced_charger_title">@string/charger_setting_header</string>
     <string name="advanced_charger_setting_summary">Configure a custom charging limit or disable charging altogether</string>
-    <string name="charger_setting_main_enable_title">Customize Charging Settings</string>
+    <string name="charger_setting_main_enable_title">Use Battery Care</string>
     <string name="device_charging_enable_title">Enable Charging</string>
     <string name="device_charging_enable_summary">Disabling this setting will stop the device from charging</string>
     <string name="device_charging_control_title">Charging Limit</string>
