@@ -1,24 +1,25 @@
 /*
- * Copyright (C) 2022 The LineageOS Project
+ * Copyright (C) 2023 The LineageOS Project
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.lineageos.settings.device
+package com.xperia.parts.charger
 
 import android.os.Bundle
+
 import com.android.settingslib.collapsingtoolbar.CollapsingToolbarBaseActivity
 import com.android.settingslib.widget.R
 
-class XperiaSettingsActivity : CollapsingToolbarBaseActivity() {
+class ChargerSettingsActivity : CollapsingToolbarBaseActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         fragmentManager
                 .beginTransaction()
-                .replace(R.id.content_frame, XperiaSettingsFragment(), TAG)
+                .replace(R.id.content_frame, ChargerSettingsFragment(), TAG)
                 .commit()
     }
 
     companion object {
-        private const val TAG = "XperiaSettingsActivity"
-    }   
+        private const val TAG = "AdvancedChargerSettingsActivity"
+    }
 }

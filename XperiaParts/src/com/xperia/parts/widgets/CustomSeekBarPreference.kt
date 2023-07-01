@@ -1,10 +1,10 @@
 /*
- * Copyright (C) 2016-2021 crDroid Android Project
- * Copyright (C) 2022 The LineageOS Project
+ * Copyright (C) 2016-2023 crDroid Android Project
+ * Copyright (C) 2023 The LineageOS Project
  *
  * SPDX-License-Identifier: Apache-2.0
  */
-package org.lineageos.settings.device.widgets
+package com.xperia.parts.widgets
 
 import android.content.Context
 import android.graphics.PorterDuff
@@ -19,7 +19,7 @@ import android.widget.Toast
 import androidx.core.content.res.TypedArrayUtils
 import androidx.preference.Preference
 import androidx.preference.PreferenceViewHolder
-import org.lineageos.settings.device.R
+import com.xperia.parts.R
 
 class CustomSeekBarPreference @JvmOverloads constructor(
     context: Context, attrs: AttributeSet? = null, defStyleAttr: Int = TypedArrayUtils.getAttr(

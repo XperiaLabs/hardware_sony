@@ -1,14 +1,14 @@
 /*
- * Copyright (C) 2022 The LineageOS Project
+ * Copyright (C) 2023 The LineageOS Project
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.lineageos.settings.device
+package com.xperia.parts
 
 import android.os.Bundle
 import androidx.preference.*
 
-import org.lineageos.settings.device.R
+import com.xperia.parts.R
 
 class XperiaSettingsFragment : PreferenceFragment() {
     override fun onCreatePreferences(savedInstanceState: Bundle?, rootKey: String?) {

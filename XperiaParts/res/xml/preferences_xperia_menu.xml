@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
- * Copyright (C) 2022 The LineageOS Project
+ * Copyright (C) 2023 The LineageOS Project
  * SPDX-License-Identifier: Apache-2.0
 -->
+
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:title="@string/app_name">
 
     <PreferenceCategory
-        android:key="d"
+        android:key="display"
         android:title="@string/display_title">
 
         <Preference
             android:key="advanced_disp_settings"
-            android:summary="@string/display_setting_summary"
             android:icon="@drawable/ic_display_enhance"
-            android:title="@string/display_setting_header">
+            android:title="@string/display_setting_header"
+            android:summary="@string/display_setting_summary">
             <intent
                 android:action="android.intent.action.MAIN"
-                android:targetPackage="org.lineageos.settings.device"
-                android:targetClass="org.lineageos.settings.device.display.DisplaySettingsActivity" />
+                android:targetPackage="com.xperia.parts"
+                android:targetClass="com.xperia.parts.display.DisplaySettingsActivity" />
         </Preference>
 
        <Preference
             android:key="external_monitor_settings"
-            android:summary="@string/extmonitor_summary"
             android:icon="@drawable/ic_external_monitor"
             android:title="@string/extmonitor_setting_header"
+            android:summary="@string/extmonitor_summary"
             android:persistent="false">
             <intent
                  android:targetPackage="com.sonymobile.extmonitorapp"
@@ -37,29 +38,11 @@
     </PreferenceCategory>
 
     <PreferenceCategory
-        android:key="c"
-        android:title="@string/charging_title">
-
-        <Preference
-            android:key="advanced_charger_settings"
-            android:summary="@string/charger_setting_summary"
-            android:icon="@drawable/ic_battery_care"
-            android:title="@string/charger_setting_header"
-            android:fragment="org.lineageos.settings.device.charger.ChargerSettingsActivity">
-            <intent
-                android:action="android.intent.action.MAIN"
-                android:targetPackage="org.lineageos.settings.device"
-                android:targetClass="org.lineageos.settings.device.charger.ChargerSettingsActivity" />
-        </Preference>
-
-    </PreferenceCategory>
-
-    <PreferenceCategory
-        android:key="dolby"
-        android:title="@string/dolby_category">
+        android:key="audio"
+        android:title="@string/audio_title">
 
        <Preference
-            android:key="audio_dolby_atmos"
+            android:key="audio_dolby_settings"
             android:icon="@drawable/ic_dolby"
             android:title="@string/dolby_title"
             android:summary="@string/dolby_summary"
@@ -70,14 +53,32 @@
         </Preference>
 
        <Preference
-            android:key="audio_threesixtyra"
-            android:summary="@string/threesixtyra_summary"
+            android:key="audio_threesixtyra_settings"
             android:icon="@drawable/ic_threesixtyra"
             android:title="@string/threesixtyra_setting_header"
+            android:summary="@string/threesixtyra_summary"
             android:persistent="false">
             <intent
                  android:targetPackage="jp.co.sony.threesixtyra.lite"
                  android:targetClass="ru.g000sha256.bass_booster.MainActivity" />
+        </Preference>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="c"
+        android:title="@string/charging_title">
+
+        <Preference
+            android:key="advanced_charger_settings"
+            android:icon="@drawable/ic_battery_care"
+            android:title="@string/charger_setting_header"
+            android:summary="@string/charger_setting_summary"
+            android:fragment="com.xperia.parts.charger.ChargerSettingsActivity">
+            <intent
+                android:action="android.intent.action.MAIN"
+                android:targetPackage="com.xperia.parts"
+                android:targetClass="com.xperia.parts.charger.ChargerSettingsActivity" />
         </Preference>
 
     </PreferenceCategory>

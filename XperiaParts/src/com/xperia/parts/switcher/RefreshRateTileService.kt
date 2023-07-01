@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2022 - LineageOS Project
+ * Copyright (C) 2023 - LineageOS Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.lineageos.settings.device.switcher
+package com.xperia.parts.switcher
 
 import android.content.Context
 import android.content.pm.PackageManager
@@ -25,7 +25,7 @@ import android.view.Display
 import java.util.ArrayList
 import java.util.Locale
 
-import org.lineageos.settings.device.R
+import com.xperia.parts.R
 
 class RefreshRateTileService : TileService() {
     private val KEY_MIN_REFRESH_RATE = "min_refresh_rate"

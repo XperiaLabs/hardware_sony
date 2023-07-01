@@ -1,9 +1,9 @@
 /*
- * Copyright (C) 2022 The LineageOS Project
+ * Copyright (C) 2023 The LineageOS Project
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.lineageos.settings.device.display
+package com.xperia.parts.display
 
 import android.os.Bundle
 import android.util.ArraySet
@@ -22,7 +22,7 @@ import com.android.settingslib.widget.LayoutPreference
 import java.util.*
 import kotlin.collections.ArrayList
 
-import org.lineageos.settings.device.R
+import com.xperia.parts.R
 
 const val CREATOR_MODE_KEY = "switchCreatorMode"
 

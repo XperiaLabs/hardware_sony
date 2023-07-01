@@ -1,9 +1,9 @@
 /*
- * Copyright (C) 2022 The LineageOS Project
+ * Copyright (C) 2023 The LineageOS Project
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.lineageos.settings.device.charger
+package com.xperia.parts.charger
 
 import android.util.Log
 
@@ -13,8 +13,8 @@ import androidx.preference.*
 import com.android.settingslib.widget.MainSwitchPreference
 import com.android.settingslib.widget.OnMainSwitchChangeListener
 
-import org.lineageos.settings.device.R
-import org.lineageos.settings.device.widgets.CustomSeekBarPreference
+import com.xperia.parts.R
+import com.xperia.parts.widgets.CustomSeekBarPreference
 
 const val CHARGER_SETTING_ENABLE_KEY = "charger_setting_main_enable"
 const val CHARGER_CHARGING_ENABLE_KEY = "device_charging_enable"

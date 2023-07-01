@@ -1,36 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <resources>
     <string name="app_name" translatable="false">Xperia Parts</string>
-    <string name="app_summary" translatable="false">Adjust Various Xperia Settings</string>
+    <string name="app_summary" translatable="false">Configure device specific settings</string>
 
     <!-- Display Settings -->
     <string name="display_title">Display</string>
     <string name="display_setting_header">Image Quality Settings</string>
-    <string name="display_setting_summary">Adjust display settings</string>
+    <string name="display_setting_summary">Choose between brilliant colors or a faithful reproduction of the creator\'s intended vision to create an unforgettable visual experience</string>
 
     <!-- External Monitor -->
     <string name="extmonitor_setting_header">External Monitor</string>
-    <string name="extmonitor_summary">Adjust external camera settings and also utilize your Xperia's display as a viewfinder</string>
+    <string name="extmonitor_summary">Modify external camera settings and utilize your Xperia\'s display as a reliable and accurate viewfinder for capturing vibrant, true-to-life colors</string>
 
-    <!-- Audio Settings -->
-    <string name="dolby_category">Audio</string>
+    <!-- Dolby Sound -->
+    <string name="audio_title">Audio</string>
     <string name="dolby_title">Dolby Sound</string>
-    <string name="dolby_summary">Adjust audio settings</string>
+    <string name="dolby_summary">Adjust Dolby Sound settings to experience immersive, multidimensional sound that envelops you, bringing movies, music, and games to life</string>
 
-    <!-- Spatial Audio Settings -->
+    <!-- 360 Reality Audio -->
     <string name="threesixtyra_setting_header">360 Reality Audio</string>
-    <string name="threesixtyra_summary">Adjust spatial audio settings</string>
+    <string name="threesixtyra_summary">Personalize spatial sound settings and transform ordinary stereo audio sources into captivating auditory experiences</string>
 
-    <!-- Charging Settings Main Menu -->
+    <!-- Charging Settings -->
     <string name="charging_title">Charging</string>
     <string name="charger_setting_header">Battery Care</string>
-    <string name="charger_setting_summary">Adjust charging settings</string>
+    <string name="charger_setting_summary">Optimize battery longevity by adjusting the maximum charging percentage and fine-tuning other charging settings</string>
 
-    <!-- Creator Mode Settings -->
+    <!-- Creator Mode -->
     <string name="cm_display_header">Color Gamut and Contrast</string>
     <string name="cm_switch_title">Creator Mode</string>
     <string name="cm_switch_description">Provide a faithful reproduction of the creator\'s intended vision through high definition display and specially developed image processing compatible with BT.2020 color gamut and 10-bit color of HDR specification</string>
 
-    <!-- Charging Settings -->
+    <!-- Battery Care -->
     <string name="advanced_charger_title">@string/charger_setting_header</string>
     <string name="advanced_charger_setting_summary">Configure a custom charging limit or disable charging altogether</string>
     <string name="charger_setting_main_enable_title">Use Battery Care</string>
@@ -38,7 +40,7 @@
     <string name="device_charging_enable_summary">Disabling this setting will stop the device from charging</string>
     <string name="device_charging_control_title">Charging Limit</string>
     <string name="charger_setting_explained">If Battery Care is enabled, the device will start charging only when the following requirements have been met:\n
-1. You have enabled charging by toggling \"Enable Charging\"\n  2. Your device\'s battery level is lower than the charging limit you have set</string>
+1. You have enabled charging by toggling \"Enable Charging\"\n  2. Your device\'s battery level is lower than the charging limit you\'ve set</string>
 
     <!-- Creator Mode Previous Image Button -->
     <string name="previous_page_content_description">Previous</string>
