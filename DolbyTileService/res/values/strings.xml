@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dolby Tile Off/On State -->
+    <string name="dolby_profile_tds">Toggle Off | On</string>
+    <string name="dolby_profile_dummy">Dummy</string>
+</resources>
