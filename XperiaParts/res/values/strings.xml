@@ -11,7 +11,7 @@
 
     <!-- External Monitor -->
     <string name="extmonitor_setting_header">External Monitor</string>
-    <string name="extmonitor_summary">Modify external camera settings and utilize your Xperia\'s display as a reliable and accurate viewfinder for capturing vibrant, true-to-life colors</string>
+    <string name="extmonitor_summary">Enable External Monitor to customize external camera settings and utilize your Xperia\'s display as a reliable and accurate viewfinder for capturing vibrant, true-to-life colors</string>
 
     <!-- Dolby Sound -->
     <string name="audio_title">Audio</string>
@@ -30,7 +30,7 @@
     <!-- Creator Mode -->
     <string name="cm_display_header">Color Gamut and Contrast</string>
     <string name="cm_switch_title">Creator Mode</string>
-    <string name="cm_switch_description">Provide a faithful reproduction of the creator\'s intended vision through high definition display and specially developed image processing compatible with BT.2020 color gamut and 10-bit color of HDR specification</string>
+    <string name="cm_switch_description">Provide a faithful reproduction of the creator\'s intended vision through high definition display and specially developed image processing compatible with BT.2020 color gamut and 10-bit color of HDR specification.</string>
 
     <!-- Battery Care -->
     <string name="advanced_charger_title">@string/charger_setting_header</string>
