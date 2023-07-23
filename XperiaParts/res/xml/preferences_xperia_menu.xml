@@ -24,17 +24,6 @@
                 android:targetClass="com.xperia.parts.display.DisplaySettingsActivity" />
         </Preference>
 
-       <Preference
-            android:key="external_monitor_settings"
-            android:icon="@drawable/ic_external_monitor"
-            android:title="@string/extmonitor_setting_header"
-            android:summary="@string/extmonitor_summary"
-            android:persistent="false">
-            <intent
-                 android:targetPackage="com.sonymobile.extmonitorapp"
-                 android:targetClass="com.sonymobile.extmonitorapp.settings.SettingsAppLauncherActivity" />
-        </Preference>
-
     </PreferenceCategory>
 
     <PreferenceCategory
@@ -79,6 +68,45 @@
                 android:action="android.intent.action.MAIN"
                 android:targetPackage="com.xperia.parts"
                 android:targetClass="com.xperia.parts.charger.ChargerSettingsActivity" />
+        </Preference>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="usb"
+        android:title="@string/usb_title">
+
+       <Preference
+            android:key="usb_extmon_settings"
+            android:icon="@drawable/ic_external_monitor"
+            android:title="@string/usb_extmon_setting_header"
+            android:summary="@string/usb_extmon_summary"
+            android:persistent="false">
+            <intent
+                 android:targetPackage="com.sonymobile.extmonitorapp"
+                 android:targetClass="com.sonymobile.extmonitorapp.settings.SettingsAppLauncherActivity" />
+        </Preference>
+
+        <Preference
+            android:key="usb_video_settings"
+            android:icon="@drawable/ic_usb_video"
+            android:title="@string/usbv_setting_header"
+            android:summary="@string/usbv_setting_summary"
+            android:persistent="false">
+            <intent
+                android:targetPackage="com.sonyericsson.usbux"
+                android:targetClass="com.sonyericsson.usbux.settings.DisplayPortSettingsActivity" />
+        </Preference>
+
+        <Preference
+            android:key="usb_audio_settings"
+            android:icon="@drawable/ic_usb_audio"
+            android:title="@string/usba_setting_header"
+            android:summary="@string/usba_setting_summary"
+            android:persistent="false">
+            <intent
+                android:targetPackage="jp.co.sony.mc.usbextoutaudio"
+                android:targetClass="jp.co.sony.mc.usbextoutaudio.AudioSettingsActivity" />
         </Preference>
 
     </PreferenceCategory>

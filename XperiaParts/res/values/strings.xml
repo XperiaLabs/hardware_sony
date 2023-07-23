@@ -9,10 +9,6 @@
     <string name="display_setting_header">Image Quality Settings</string>
     <string name="display_setting_summary">Choose between brilliant colors or a faithful reproduction of the creator\'s intended vision to create an unforgettable visual experience</string>
 
-    <!-- External Monitor -->
-    <string name="extmonitor_setting_header">External Monitor</string>
-    <string name="extmonitor_summary">Enable External Monitor to customize external camera settings and utilize your Xperia\'s display as a reliable and accurate viewfinder for capturing vibrant, true-to-life colors</string>
-
     <!-- Dolby Sound -->
     <string name="audio_title">Audio</string>
     <string name="dolby_title">Dolby Sound</string>
@@ -40,7 +36,20 @@
     <string name="device_charging_enable_summary">Disabling this setting will stop the device from charging</string>
     <string name="device_charging_control_title">Charging Limit</string>
     <string name="charger_setting_explained">If Battery Care is enabled, the device will start charging only when the following requirements have been met:\n
-1. You have enabled charging by toggling \"Enable Charging\"\n  2. Your device\'s battery level is lower than the charging limit you\'ve set</string>
+1. You have enabled charging by toggling \"Enable Charging\"\.n  2. Your device\'s battery level is lower than the charging limit you\'ve set.</string>
+
+    <!-- USB Section | External Monitor -->
+    <string name="usb_title">USB</string>
+    <string name="usb_extmon_setting_header">External Monitor</string>
+    <string name="usb_extmon_summary">Enable External Monitor to customize external camera settings and utilize your Xperia\'s display as a reliable and accurate viewfinder for capturing vibrant, true-to-life colors</string>
+
+    <!-- USB Video Output -->
+    <string name="usbv_setting_header">External Video Output</string>
+    <string name="usbv_setting_summary">Customize the video settings to your preference when outputting to an external device via the USB port</string>
+
+    <!-- USB Audio Output -->
+    <string name="usba_setting_header">External Audio Output</string>
+    <string name="usba_setting_summary">Adjust media, in-call or the microphone\'s audio volume when outputting sound to an external device via the USB port</string>
 
     <!-- Creator Mode Previous Image Button -->
     <string name="previous_page_content_description">Previous</string>
