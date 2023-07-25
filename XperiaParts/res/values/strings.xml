@@ -36,12 +36,15 @@
     <string name="device_charging_enable_summary">Disabling this setting will stop the device from charging</string>
     <string name="device_charging_control_title">Charging Limit</string>
     <string name="charger_setting_explained">If Battery Care is enabled, the device will start charging only when the following requirements have been met:\n
-1. You have enabled charging by toggling \"Enable Charging\"\.n  2. Your device\'s battery level is lower than the charging limit you\'ve set.</string>
+1. You have enabled charging by toggling \"Enable Charging\".
+\n
+\n
+2. Your device\'s battery level is lower than the charging limit you\'ve set.</string>
 
     <!-- USB Section | External Monitor -->
     <string name="usb_title">USB</string>
     <string name="usb_extmon_setting_header">External Monitor</string>
-    <string name="usb_extmon_summary">Enable External Monitor to customize external camera settings and utilize your Xperia\'s display as a reliable and accurate viewfinder for capturing vibrant, true-to-life colors</string>
+    <string name="usb_extmon_summary">Enable the External Monitor app to customize external camera settings and utilize your Xperia\'s display as a reliable and accurate viewfinder for capturing vibrant, true-to-life colors</string>
 
     <!-- USB Video Output -->
     <string name="usbv_setting_header">External Video Output</string>
