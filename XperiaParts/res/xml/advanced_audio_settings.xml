@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:title="@string/audio_menu_title">
+
+    <com.android.settingslib.widget.TopIntroPreference
+        android:key="audio_top_intro"
+        android:title="@string/audio_menu_header"/>
+
+    <PreferenceCategory>
+
+        <Preference
+            android:key="audio_dolby_sound"
+            android:icon="@drawable/ic_dolby"
+            android:title="@string/dolby_setting_header"
+            android:summary="@string/dolby_setting_summary"
+            android:persistent="false">
+            <intent
+                android:targetPackage="com.dolby.daxappui2"
+                android:targetClass="com.dolby.daxappui2.MainActivity" />
+        </Preference>
+
+        <Preference
+            android:key="audio_threesixtyra"
+            android:icon="@drawable/ic_threesixtyra"
+            android:title="@string/threesixtyra_setting_header"
+            android:summary="@string/threesixtyra_setting_summary"
+            android:persistent="false">
+            <intent
+                android:targetPackage="jp.co.sony.threesixtyra.lite"
+                android:targetClass="ru.g000sha256.bass_booster.MainActivity" />
+        </Preference>
+
+        <Preference
+            android:key="audio_effectpriority"
+            android:title="@string/effectpriority_setting_header"
+            android:summary="@string/effectpriority_setting_summary"
+            android:selectable="false"
+            android:persistent="false">
+        </Preference>
+
+    </PreferenceCategory>
+
+    <com.android.settingslib.widget.FooterPreference
+        android:key="audio_setting_footer"
+        android:title="@string/audio_setting_explained"
+        android:selectable="false" />
+
+</PreferenceScreen>

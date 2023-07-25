@@ -27,29 +27,18 @@
     </PreferenceCategory>
 
     <PreferenceCategory
-        android:key="audio"
-        android:title="@string/audio_title">
+        android:key="sound"
+        android:title="@string/sound_title">
 
-       <Preference
-            android:key="audio_dolby_settings"
-            android:icon="@drawable/ic_dolby"
-            android:title="@string/dolby_title"
-            android:summary="@string/dolby_summary"
-            android:persistent="false">
+        <Preference
+            android:key="advanced_audio_settings"
+            android:icon="@drawable/ic_audio_settings"
+            android:title="@string/audio_setting_header"
+            android:summary="@string/audio_setting_summary">
             <intent
-                 android:targetPackage="com.dolby.daxappui2"
-                 android:targetClass="com.dolby.daxappui2.MainActivity" />
-        </Preference>
-
-       <Preference
-            android:key="audio_threesixtyra_settings"
-            android:icon="@drawable/ic_threesixtyra"
-            android:title="@string/threesixtyra_setting_header"
-            android:summary="@string/threesixtyra_summary"
-            android:persistent="false">
-            <intent
-                 android:targetPackage="jp.co.sony.threesixtyra.lite"
-                 android:targetClass="ru.g000sha256.bass_booster.MainActivity" />
+                android:action="android.intent.action.MAIN"
+                android:targetPackage="com.xperia.parts"
+                android:targetClass="com.xperia.parts.sound.AudioSettingsActivity" />
         </Preference>
 
     </PreferenceCategory>
