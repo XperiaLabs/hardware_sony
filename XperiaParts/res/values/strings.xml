@@ -70,7 +70,7 @@
     <string name="next_page_content_description">Next</string>
     
     <!-- Creator Mode Images Size -->
-    <dimen name="color_mode_preview_height">320dp</dimen>
+    <dimen name="color_mode_preview_height">405dp</dimen>
 
     <!-- Creator Mode Preview Images -->
     <string name="colors_viewpager_content_description">Color Preview</string>

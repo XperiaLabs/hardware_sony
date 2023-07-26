@@ -27,7 +27,10 @@
             android:id="@+id/image3"
             android:layout_width="match_parent"
             android:layout_height="@dimen/color_mode_preview_height"
-            android:scaleType="centerCrop"
+            android:scaleType="centerInside"
+            android:adjustViewBounds="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
             android:cropToPadding="true"
             android:src="@drawable/color_mode_preview3"
             android:contentDescription="@null" />
