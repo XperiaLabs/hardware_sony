@@ -7,19 +7,24 @@ package org.lineageos.settings.device.charger
 
 import android.os.Bundle
 
+import androidx.appcompat.app.AppCompatActivity
 import com.android.settingslib.collapsingtoolbar.CollapsingToolbarBaseActivity
-import com.android.settingslib.widget.R
+import org.lineageos.settings.device.R
 
 class ChargerSettingsActivity : CollapsingToolbarBaseActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        fragmentManager
-                .beginTransaction()
-                .replace(R.id.content_frame, ChargerSettingsFragment(), TAG)
+        setContentView(R.layout.battery_care_preview)
+
+        if (savedInstanceState == null) {
+            supportFragmentManager.beginTransaction()
+                .replace(R.id.content_frame, ChargerSettingsFragment())
                 .commit()
+        }
     }
 
     companion object {
-        private const val TAG = "AdvancedChargerSettingsActivity"
+        private const val TAG = "ChargerSettingsActivity"
     }
 }

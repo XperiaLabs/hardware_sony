@@ -31,13 +31,16 @@
     <!-- Charger preference screen strings -->
     <string name="charging_title">Charging</string>
     <string name="advanced_charger_title">@string/charger_setting_header</string>
-    <string name="advanced_charger_setting_summary">Disable charging and set up battery charging limit</string>
+    <string name="advanced_charger_setting_summary"></string>
     <string name="charger_setting_main_enable_title">Customize charging settings</string>
     <string name="device_charging_enable_title">Enable charging</string>
     <string name="device_charging_enable_summary">Turn off this setting will disable charging</string>
     <string name="device_charging_control_title">Custom battery charging limit</string>
-    <string name="charger_setting_explained">If you enable this setting, charging will only be enabled when the following two requirements are met:\n  1. You have enabled charging by toggling \"Enable charging\"\n  2. Your device\'s battery level is lower than the limit you have set</string>
+    <string name="charger_setting_explained">If you enable this setting, charging will only be enabled when the following two requirements are met:\n  1. You have enabled charging by toggling \"Enable charging\"\n  2. Your device\'s battery level is lower than the limit you have set\n\n\nCharging stops when a specified percentage is reached to increase the lifespan of the battery.\nSetting that limit to 80% yields even better results.</string>
 
     <!-- Charger QS Tile -->
     <string name="charger_qs_tile_title">Pause Charging</string>
+
+    <!-- Battery Care Image Size -->
+    <dimen name="battery_care_preview_height">320dp</dimen>
 </resources>
