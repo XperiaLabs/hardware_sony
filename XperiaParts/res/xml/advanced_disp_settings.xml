@@ -21,4 +21,9 @@
         />
     </PreferenceCategory>
 
+    <com.android.settingslib.widget.FooterPreference
+        android:key="display_setting_footer"
+        android:title="@string/cm_setting_explained"
+        android:selectable="false" />
+
 </PreferenceScreen>
