@@ -38,7 +38,6 @@
 
     <!-- Battery Care -->
     <string name="advanced_charger_title">@string/charger_setting_header</string>
-    <string name="advanced_charger_setting_summary"></string>
     <string name="charger_setting_main_enable_title">Use Battery Care</string>
     <string name="device_charging_enable_title">Enable Charging</string>
     <string name="device_charging_enable_summary">Disabling this setting will stop the device from charging</string>
