@@ -12,7 +12,7 @@
     <!-- Sound Settings -->
     <string name="sound_title">Sound</string>
     <string name="audio_setting_header">Audio Settings</string>
-    <string name="audio_setting_summary">Elevate your auditory experience with the Dolby Sound EQ and the 360 Reality Audio app for remarkable and immersive audio playback</string>
+    <string name="audio_setting_summary">Elevate your sound quality with the Dolby Sound and 360 Upmix EQ for a remarkable and immersive audio playback experience</string>
 
     <!-- Charging Settings -->
     <string name="charging_title">Charging</string>
