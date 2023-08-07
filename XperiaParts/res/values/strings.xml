@@ -50,10 +50,6 @@
     <string name="usb_extmon_setting_header">External Monitor</string>
     <string name="usb_extmon_summary">Enable the External Monitor app to customize external camera settings and utilize your Xperia\'s display as a reliable and accurate viewfinder for capturing vibrant, true-to-life colors</string>
 
-    <!-- USB Video Output -->
-    <string name="usbv_setting_header">External Video Output</string>
-    <string name="usbv_setting_summary">Customize the video settings to your preference when outputting to an external device via the USB port</string>
-
     <!-- USB Audio Output -->
     <string name="usba_setting_header">External Audio Output</string>
     <string name="usba_setting_summary">Adjust media, in-call or the microphone\'s audio volume when outputting sound to an external device via the USB port</string>

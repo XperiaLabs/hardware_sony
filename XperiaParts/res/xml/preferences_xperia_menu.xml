@@ -77,17 +77,6 @@
         </Preference>
 
         <Preference
-            android:key="usb_video_settings"
-            android:icon="@drawable/ic_usb_video"
-            android:title="@string/usbv_setting_header"
-            android:summary="@string/usbv_setting_summary"
-            android:persistent="false">
-            <intent
-                android:targetPackage="com.sonyericsson.usbux"
-                android:targetClass="com.sonyericsson.usbux.settings.DisplayPortSettingsActivity" />
-        </Preference>
-
-        <Preference
             android:key="usb_audio_settings"
             android:icon="@drawable/ic_usb_audio"
             android:title="@string/usba_setting_header"
