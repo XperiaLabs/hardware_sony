@@ -90,8 +90,8 @@
     </PreferenceCategory>
 
     <PreferenceCategory
-        android:key="gc"
-        android:title="@string/gc_title">
+        android:key="gaming"
+        android:title="@string/gaming_title">
 
        <Preference
             android:key="gc_dsm_settings"
