@@ -28,6 +28,17 @@
             android:summary="@string/threesixtyra_setting_summary"
             android:persistent="false">
             <intent
+                android:targetPackage="jp.co.sony.threesixtyra.settings"
+                android:targetClass="jp.co.sony.threesixtyra.settings.introduction.Introduction360raActivity" />
+        </Preference>
+
+        <Preference
+            android:key="audio_threesixtyupmix"
+            android:icon="@drawable/ic_threesixtyupmix"
+            android:title="@string/threesixtyupmix_setting_header"
+            android:summary="@string/threesixtyupmix_setting_summary"
+            android:persistent="false">
+            <intent
                 android:targetPackage="jp.co.sony.threesixtyra.lite"
                 android:targetClass="ru.g000sha256.bass_booster.MainActivity" />
         </Preference>
