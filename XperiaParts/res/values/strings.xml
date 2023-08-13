@@ -29,6 +29,7 @@
     <string name="charger_setting_summary">Adjust charging related settings</string>
 
     <!-- Charger preference screen strings -->
+    <string name="charging_title">Charging</string>
     <string name="advanced_charger_title">@string/charger_setting_header</string>
     <string name="advanced_charger_setting_summary">Disable charging and set up battery charging limit</string>
     <string name="charger_setting_main_enable_title">Customize charging settings</string>
