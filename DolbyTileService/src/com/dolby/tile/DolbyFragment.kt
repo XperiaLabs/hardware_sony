@@ -64,9 +64,8 @@ class DolbyFragment : PreferenceFragment(), OnMainSwitchChangeListener {
         const val PREF_DOLBY_ENABLE = "dolby_enable"
 
         val PREF_DOLBY_MODES = mapOf(
-                "dolby_profile_tds" to DolbyCore.PROFILE_TDS,
-                "dolby_profile_dummy" to DolbyCore.PROFILE_DUMMY,
-
+                "dolby_profile_0" to DolbyCore.PROFILE_0,
+                "dolby_profile_1" to DolbyCore.PROFILE_1,
         )
     }
 }
