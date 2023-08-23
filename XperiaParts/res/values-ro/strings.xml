@@ -24,11 +24,6 @@
     <string name="display_setting_header">Setari pentru Calitatea Imaginii</string>
     <string name="display_setting_summary">Alegeți între culori strălucitoare sau o reproducere fidelă a viziunii creatorului pentru a crea o experiență vizuală de neuitat</string>
 
-    <!-- Sound Settings -->
-    <string name="sound_title">Sunet</string>
-    <string name="audio_setting_header">Setari Audio</string>
-    <string name="audio_setting_summary">Ridicați calitatea sunetului cu EQ-ul Dolby Sound și 360 Reality Audio Upmix pentru o experiență audio remarcabilă și captivantă</string>
-
     <!-- Charging Settings -->
     <string name="charging_title">Încărcare</string>
     <string name="charger_setting_header">Îngrijirea Bateriei</string>
@@ -42,19 +37,6 @@
     <!-- Display Settings Footer  -->
     <string name="display_setting_explained">Aplicațiile care suportă o gamă largă de culori vor fi afișate automat în culorile lor originale.\n\n\nVideoclipurile HDR în modul ecran complet vor fi afișate automat în Mod Creator.</string>
 
-    <!-- Audio Settings -->
-    <string name="audio_menu_title">@string/audio_setting_header</string>
-    <string name="audio_menu_header">Calitatea Sunetului</string>
-    <string name="dolby_setting_header">Dolby Sound</string>
-    <string name="dolby_setting_summary">Ajustați setările Dolby pentru a experienţă un sunet captivant, multidimensional, care vă va învăluie, dând viață filmelor, muzicii și jocurilor</string>
-    <string name="threesixtyra_setting_header">360 Reality Audio</string>
-    <string name="threesixtyra_setting_summary">Atingeți aici pentru a personaliza calitatea sunetului</string>
-    <string name="threesixtyupmix_setting_header">360 Upmix</string>
-    <string name="threesixtyupmix_setting_summary">Cu tehnologia 360 Reality Audio Upmix (360 Upmix) al lui Sony, vă puteți bucura de sunet spațial și captivant cu surse stereo\nApăsați pe 360 Reality Audio pentru mai multe detalii.</string>
-    <string name="effectpriority_setting_header">Prioritatea Efecturilor</string>
-    <string name="effectpriority_setting_summary">Aplicația 360 Upmix întotdeauna va avea prioritate față de celelalte efecte pe care le-ați activat (fie Dolby Sound cu 360 Upmix, fie doar 360 Upmix în sine) pentru sunetul media al aplicațiilor.</string>
-    <string name="audio_setting_explained">În timp ce este redat conținut Dolby Sound sau 360 Reality Audio, informațiile conținutului vor avea prioritate față de setările de pe acest ecran. Conținutul de înaltă rezoluție poate fi redat corect și atunci când Dolby Sound și 360 Upmix sunt dezactivate.\n\n\n\nDespre Audio Spatial\nPentru a activa funcția 360 Reality Audio, activați Spatial Sound.\nAudio care este redat cu Dolby Sound poate fi redat în tandem și cu Audio Spatial.</string>
-
     <!-- Battery Care -->
     <string name="advanced_charger_title">@string/charger_setting_header</string>
     <string name="charger_setting_main_enable_title">Utilizați Îngrijirea Bateriei</string>
@@ -62,20 +44,6 @@
     <string name="device_charging_enable_summary">Dezactivarea acestei setări nu v-a lăsa dispozitivul să se încarce</string>
     <string name="device_charging_control_title">Limită Încărcării</string>
     <string name="charger_setting_explained">După activarea Îngrijirea Bateriei, dispozitivul va începe să se încarce numai când următoarele cerințe sunt îndeplinite:\n 1. Ați activat opțiunea \"Încărcați Dispozitivul\".\n 2. Nivelul bateriei dispozitivului dvs. este sub limita de încărcare pe care ați setat-o.\n\n\nÎncărcarea se oprește atunci când este atins procentul setat de dvs. pentru a crește durata de viață a bateriei.\nSetarea acestei limite la 80% produce rezultate și mai bune.</string>
-
-    <!-- USB Section | External Monitor -->
-    <string name="usb_title">USB</string>
-    <string name="usb_extmon_setting_header">Monitor Extern</string>
-    <string name="usb_extmon_summary">Activați aplicația Monitor Extern pentru a personaliza setările camerei externe și utilizați display-ul dispozitivului Xperia ca un vizor precis pentru a captura culori vibrante, realiste</string>
-
-    <!-- USB Audio Output -->
-    <string name="usba_setting_header">Ieșire Externă USB</string>
-    <string name="usba_setting_summary">Reglați volumul media, volumul apelului sau al microfonului atunci când redați sunet către un dispozitiv extern prin portul USB</string>
-
-    <!-- DSM (DualShock/Sense Manager) -->
-    <string name="gaming_title">Jocuri</string>
-    <string name="gc_dsm_setting_header">Controler Wireless pentru PS5 și PS4</string>
-    <string name="gc_dsm_setting_summary">Conectați controlere PlayStation© la dispozitivul dvs. Xperia pentru a le utiliza pentru jocuri mobile</string>
 
     <!-- Creator Mode Previous Image Button -->
     <string name="previous_page_content_description">Anteriorul</string>

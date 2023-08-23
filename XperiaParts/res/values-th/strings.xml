@@ -24,11 +24,6 @@
     <string name="display_setting_header">การตั้งค่าคุณภาพของภาพ</string>
     <string name="display_setting_summary">เลือกระหว่างสีสันที่สดใสหรือการจำลองวิสัยทัศน์ของผู้สร้างสรรค์อย่างสมจริง เพื่อสร้างประสบการณ์การรับชมภาพอันน่าจดจำ</string>
 
-    <!-- Sound Settings -->
-    <string name="sound_title">เสียง</string>
-    <string name="audio_setting_header">การตั้งค่าเสียง</string>
-    <string name="audio_setting_summary">ยกระดับคุณภาพเสียงของคุณด้วย Dolby Sound EQ และ 360 Reality Audio Upmix เพื่อประสบการณ์การเล่นเสียงที่น่าทึ่งและดื่มด่ำ</string>
-
     <!-- Charging Settings -->
     <string name="charging_title">กำลังชาร์จ</string>
     <string name="charger_setting_header">การดูแลแบตเตอรี่</string>
@@ -42,19 +37,6 @@
     <!-- Display Settings Footer  -->
     <string name="display_setting_explained">แอปที่รองรับขอบเขตสีที่กว้างจะแสดงเป็นสีดั้งเดิมโดยอัตโนมัติ\n\n\nวิดีโอ HDR ในโหมดเต็มหน้าจอจะแสดงโดยอัตโนมัติด้วยโหมดผู้สร้าง</string>
 
-    <!-- Audio Settings -->
-    <string name="audio_menu_title">@string/audio_setting_header</string>
-    <string name="audio_menu_header">คุณภาพเสียง</string>
-    <string name="dolby_setting_header">เสียงดอลบี้</string>
-    <string name="dolby_setting_summary">ปรับการตั้งค่าเสียง Dolby เพื่อสัมผัสประสบการณ์เสียงที่ดื่มด่ำและหลากหลายมิติที่ล้อมรอบคุณ ทำให้ภาพยนตร์ เพลง และเกมมีชีวิตชีวา</string>
-    <string name="threesixtyra_setting_header">เสียงความเป็นจริง 360</string>
-    <string name="threesixtyra_setting_summary">แตะที่นี่เพื่อปรับแต่งคุณภาพเสียงในแบบของคุณ</string>
-    <string name="threesixtyupmix_setting_header">360 อัพมิกซ์</string>
-    <string name="threesixtyupmix_setting_summary">ด้วยเทคโนโลยี 360 Reality Audio Upmix (360 Upmix) ของ Sony คุณสามารถเพลิดเพลินกับเสียงเชิงพื้นที่และดื่มด่ำด้วยแหล่งเสียงสเตอริโอทั่วไป\nตรวจสอบ 360 Reality Audio เพื่อดูรายละเอียด.</string>
-    <string name="effectpriority_setting_header">ลำดับความสำคัญของเอฟเฟกต์</string>
-    <string name="effectpriority_setting_summary">แอป 360 Upmix จะมีลำดับความสำคัญเหนือเอฟเฟกต์อื่นๆ ที่คุณเปิดไว้เสมอ (ไม่ว่าจะเป็นเสียง Dolby พร้อม 360 Upmix หรือเพียง 360 Upmix เพียงอย่างเดียว) สำหรับเสียงสื่อของแอป</string>
-    <string name="audio_setting_explained">ขณะเล่นเนื้อหา Dolby Sound หรือเนื้อหา 360 Reality Audio ข้อมูลของเนื้อหาจะมีความสำคัญเหนือกว่าการตั้งค่าบนหน้าจอนี้ เนื้อหาที่มีความละเอียดสูงยังสามารถเล่นได้อย่างถูกต้องเมื่อปิดทั้ง Dolby Sound และ 360 Upmix\n\n\n\nเกี่ยวกับเสียงเชิงพื้นที่\nหากต้องการเปิดใช้งานคุณลักษณะ 360 Reality Audio ให้เปิดเสียงเชิงพื้นที่\nDolby Sound ไม่รองรับเสียงเชิงพื้นที่\nหากต้องการเปิดใช้งานคุณลักษณะ 360 Reality Audio ให้เปิดเสียงเชิงพื้นที่\nDolby Sound ไม่รองรับเสียงเชิงพื้นที่ .</string>
-
     <!-- Battery Care -->
     <string name="advanced_charger_title">@string/charger_setting_header</string>
     <string name="charger_setting_main_enable_title">ใช้การดูแลแบตเตอรี่</string>
@@ -62,20 +44,6 @@
     <string name="device_charging_enable_summary">การปิดใช้งานการตั้งค่านี้จะทำให้อุปกรณ์หยุดการชาร์จ</string>
     <string name="device_charging_control_title">ขีดจำกัดการชาร์จ</string>
     <string name="charger_setting_explained">หากเปิดใช้งานการถนอมแบตเตอรี่ อุปกรณ์จะเริ่มชาร์จเมื่อเป็นไปตามข้อกำหนดต่อไปนี้เท่านั้น:\n 1. คุณได้เปิดใช้งานการชาร์จโดยสลับ \"เปิดใช้งานการชาร์จ\."\n 2. ระดับแบตเตอรี่ของอุปกรณ์ของคุณต่ำลง เกินขีดจำกัดการชาร์จที่คุณตั้งไว้\n\n\nการชาร์จจะหยุดลงเมื่อถึงเปอร์เซ็นต์ที่ระบุเพื่อเพิ่มอายุการใช้งานของแบตเตอรี่\nการตั้งค่าขีดจำกัดนั้นไว้ที่ 80% จะให้ผลลัพธ์ที่ดียิ่งขึ้นไปอีก</string>
-
-    <!-- USB Section | External Monitor -->
-    <string name="usb_title">ยูเอสบี</string>
-    <string name="usb_extmon_setting_header">จอภาพภายนอก</string>
-    <string name="usb_extmon_summary">เปิดใช้งานแอปจอภาพภายนอกเพื่อปรับแต่งการตั้งค่ากล้องภายนอก และใช้จอแสดงผลของ Xperia เป็นช่องมองภาพที่เชื่อถือได้และแม่นยำ เพื่อจับภาพสีสันที่สดใสและสมจริง</string>
-
-    <!-- USB Audio Output -->
-    <string name="usba_setting_header">เอาต์พุตเสียงภายนอก</string>
-    <string name="usba_setting_summary">ปรับระดับเสียงของสื่อ การโทร หรือไมโครโฟนเมื่อส่งสัญญาณเสียงไปยังอุปกรณ์ภายนอกผ่านพอร์ต USB</string>
-
-    <!-- DSM (DualShock/Sense Manager) -->
-    <string name="gaming_title">การเล่นเกม</string>
-    <string name="gc_dsm_setting_header">คอนโทรลเลอร์ไร้สายสำหรับ PS5 และ PS4</string>
-    <string name="gc_dsm_setting_summary">เชื่อมต่อคอนโทรลเลอร์ PlayStation© ของคุณกับอุปกรณ์ Xperia เพื่อใช้เล่นเกม</string>
 
     <!-- Creator Mode Previous Image Button -->
     <string name="previous_page_content_description">ก่อนหน้า</string>

@@ -24,11 +24,6 @@
     <string name="display_setting_header">Képminőség Beállításai</string>
     <string name="display_setting_summary">Válasszon a ragyogó színek vagy az alkotó elképzelésének hű reprodukciója között, hogy felejthetetlen vizuális élményt teremtsen</string>
 
-    <!-- Sound Settings -->
-    <string name="sound_title">Hang</string>
-    <string name="audio_setting_header">Hangbeállítások</string>
-    <string name="audio_setting_summary">Javítsa hangminőségét a Dolby Sound kiegyenlítő és a 360 Reality Audio Upmix segítségével a figyelemre méltó és magával ragadó hanglejátszási élmény érdekében</string>
-
     <!-- Charging Settings -->
     <string name="charging_title">Töltés</string>
     <string name="charger_setting_header">Az Akkumulátor Gondozása</string>
@@ -42,19 +37,6 @@
     <!-- Display Settings Footer  -->
     <string name="display_setting_explained">A széles színskálát támogató alkalmazások automatikusan az eredeti színükben jelennek meg.\n\n\nA teljes képernyős módban lévő HDR videók automatikusan Alkotói módban jelennek meg.</string>
 
-    <!-- Audio Settings -->
-    <string name="audio_menu_title">@string/audio_setting_header</string>
-    <string name="audio_menu_header">Hangminőség</string>
-    <string name="dolby_setting_header">Dolby Sound</string>
-    <string name="dolby_setting_summary">Módosítsa a Dolby Sound beállításait, hogy magával ragadó, többdimenziós hangzást tapasztaljon, amely magával ragad, életre keltve a filmeket, zenét és játékokat.</string>
-    <string name="threesixtyra_setting_header">360 Reality Audio</string>
-    <string name="threesixtyra_setting_summary">Koppintson ide a hangminőség személyre szabásához.</string>
-    <string name="threesixtyupmix_setting_header">360 Upmix</string>
-    <string name="threesixtyupmix_setting_summary">A Sony 360 Reality Audio Upmix (360 Upmix) technológiájával térbeli és magával ragadó hangzást élvezhet hagyományos sztereó forrásokkal\nRészleteket a 360 Reality Audio oldalon találhat.</string>
-    <string name="effectpriority_setting_header">Hatás Prioritás</string>
-    <string name="effectpriority_setting_summary">A 360 Upmix alkalmazás mindig elsőbbséget élvez a többi bekapcsolt effektussal szemben (vagy Dolby Sound 360 Upmix-el, vagy csak 360 Upmix önmagában) az alkalmazások médiahangzásához.</string>
-    <string name="audio_setting_explained">Dolby Sound vagy 360 Reality Audio tartalom lejátszásakor a tartalom információi elsőbbséget élveznek a képernyőn megjelenő beállításokkal szemben. A nagy felbontású tartalom akkor is megfelelően lejátszható, ha a Dolby Sound és a 360 Upmix is ki van kapcsolva.\n\n\n\nA Spatial Audio funkcióról\nA 360 Reality Audio funkció engedélyezéséhez kapcsolja be a Spatial Sound funkciót.\nA Dolby Sound támogatja a Spatial Audio funkciót.</string>
-
     <!-- Battery Care -->
     <string name="advanced_charger_title">@string/charger_setting_header</string>
     <string name="charger_setting_main_enable_title">Használja a Az Akkumulátor Gondozása alkalmazást</string>
@@ -62,20 +44,6 @@
     <string name="device_charging_enable_summary">A beállítás letiltása leállítja az eszköz töltését</string>
     <string name="device_charging_control_title">Töltési korlát</string>
     <string name="charger_setting_explained">Ha a Az Akkumulátor Gondozása engedélyezve van, az eszköz csak akkor kezdi meg a töltést, ha a következő követelmények teljesülnek:\n 1. Engedélyezte a töltést a \"Töltés engedélyezése\" váltással.\n 2. Az eszköz akkumulátorának töltöttsége alacsonyabb. mint az Ön által beállított töltési korlát.\n\n\nA töltés leáll, ha elér egy bizonyos százalékot, hogy növelje az akkumulátor élettartamát.\nHa ezt a határt 80%-ra állítja, még jobb eredményeket érhet el.</string>
-
-    <!-- USB Section | External Monitor -->
-    <string name="usb_title">USB</string>
-    <string name="usb_extmon_setting_header">Külső Monitor</string>
-    <string name="usb_extmon_summary">Engedélyezze az Külső Monitor alkalmazást a külső kamera beállításainak testreszabásához, és használja Xperia kijelzőjét megbízható és pontos keresőként az élénk, élethű színek rögzítéséhez</string>
-
-    <!-- USB Audio Output -->
-    <string name="usba_setting_header">USB Hangkimenet</string>
-    <string name="usba_setting_summary">Állítsa be a média, a hívás közbeni vagy a mikrofon hangerejét, amikor hangot ad ki egy külső eszközre az USB-porton keresztül</string>
-
-    <!-- DSM (DualShock/Sense Manager) -->
-    <string name="gaming_title">Szerencsejáték</string>
-    <string name="gc_dsm_setting_header">Vezeték Nélküli Vezérlő PS5 és PS4</string>
-    <string name="gc_dsm_setting_summary">Csatlakoztassa PlayStation© kontrollereit Xperia eszközéhez, hogy játékra használja őket</string>
 
     <!-- Creator Mode Previous Image Button -->
     <string name="previous_page_content_description">Előző</string>

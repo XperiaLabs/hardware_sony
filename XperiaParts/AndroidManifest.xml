@@ -52,27 +52,6 @@
             </intent-filter>
         </activity>
 
-        <service
-            android:name=".switcher.RefreshRateTileService"
-            android:icon="@drawable/ic_qs_refresh_rate"
-            android:label="@string/refresh_rate_tile_title"
-            android:exported="true"
-            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
-            <intent-filter>
-                <action android:name="android.service.quicksettings.action.QS_TILE"/>
-            </intent-filter>
-        </service>
-
-        <activity
-                android:name=".sound.AudioSettingsActivity"
-                android:exported="false"
-                android:theme="@style/Theme.SubSettingsBase"
-                android:label="@string/audio_setting_header">
-            <intent-filter>
-                <action android:name="com.android.settings.action.IA_SETTINGS"/>
-            </intent-filter>
-        </activity> 
-
         <activity
                 android:name=".charger.ChargerSettingsActivity"
                 android:exported="false"
