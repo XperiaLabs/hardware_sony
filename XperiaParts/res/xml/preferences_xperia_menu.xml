@@ -24,25 +24,6 @@
                 android:targetClass="com.xperia.parts.display.DisplaySettingsActivity" />
         </Preference>
 
-    </PreferenceCategory>
-
-    <PreferenceCategory
-        android:key="sound"
-        android:title="@string/sound_title">
-
-        <Preference
-            android:key="advanced_audio_settings"
-            android:icon="@drawable/ic_audio_settings"
-            android:title="@string/audio_setting_header"
-            android:summary="@string/audio_setting_summary">
-            <intent
-                android:action="android.intent.action.MAIN"
-                android:targetPackage="com.xperia.parts"
-                android:targetClass="com.xperia.parts.sound.AudioSettingsActivity" />
-        </Preference>
-
-    </PreferenceCategory>
-
     <PreferenceCategory
         android:key="charging"
         android:title="@string/charging_title">
@@ -57,51 +38,6 @@
                 android:action="android.intent.action.MAIN"
                 android:targetPackage="com.xperia.parts"
                 android:targetClass="com.xperia.parts.charger.ChargerSettingsActivity" />
-        </Preference>
-
-    </PreferenceCategory>
-
-    <PreferenceCategory
-        android:key="usb"
-        android:title="@string/usb_title">
-
-       <Preference
-            android:key="usb_extmon_settings"
-            android:icon="@drawable/ic_external_monitor"
-            android:title="@string/usb_extmon_setting_header"
-            android:summary="@string/usb_extmon_summary"
-            android:persistent="false">
-            <intent
-                 android:targetPackage="com.sonymobile.extmonitorapp"
-                 android:targetClass="com.sonymobile.extmonitorapp.settings.SettingsAppLauncherActivity" />
-        </Preference>
-
-        <Preference
-            android:key="usb_audio_settings"
-            android:icon="@drawable/ic_usb_audio"
-            android:title="@string/usba_setting_header"
-            android:summary="@string/usba_setting_summary"
-            android:persistent="false">
-            <intent
-                android:targetPackage="jp.co.sony.mc.usbextoutaudio"
-                android:targetClass="jp.co.sony.mc.usbextoutaudio.AudioSettingsActivity" />
-        </Preference>
-
-    </PreferenceCategory>
-
-    <PreferenceCategory
-        android:key="gaming"
-        android:title="@string/gaming_title">
-
-       <Preference
-            android:key="gc_dsm_settings"
-            android:icon="@drawable/ic_gc_dsm"
-            android:title="@string/gc_dsm_setting_header"
-            android:summary="@string/gc_dsm_setting_summary"
-            android:persistent="false">
-            <intent
-                 android:targetPackage="com.sonymobile.dualshockmanager"
-                 android:targetClass="com.sonymobile.dualshockmanager.Ds4SetUpActivity" />
         </Preference>
 
     </PreferenceCategory>
