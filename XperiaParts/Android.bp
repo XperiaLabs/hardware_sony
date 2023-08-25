@@ -24,6 +24,9 @@ android_app {
         "vendor.semc.hardware.display-V2.0-java",
         "vendor.semc.hardware.display-V2.1-java",
         "vendor.semc.hardware.display-V2.2-java",
+        "vendor.semc.hardware.display-V2.3-java",
+        "vendor.semc.hardware.display-V2.4-java",
+        "vendor.semc.hardware.display-V2.5-java",
         "vendor.sony.charger-V1-java",
     ],
 
