@@ -39,8 +39,11 @@ object EuiccDisabler {
             PackageManager.COMPONENT_ENABLED_STATE_ENABLED
         }
 
-        for (pkg in EUICC_PACKAGES) {
-            pm.setApplicationEnabledSetting(pkg, flag, 0)
+        try {
+            for (pkg in EUICC_PACKAGES) {
+                pm.setApplicationEnabledSetting(pkg, flag, 0)
+            }
+        } catch (e: Exception) {
         }
     }
 }
