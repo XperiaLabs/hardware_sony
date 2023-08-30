@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.lineageos.euicc
+package com.sony.euicc
 
 import android.content.BroadcastReceiver
 import android.content.Context

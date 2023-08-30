@@ -19,23 +19,23 @@ android_app {
         proguard_flags_files: ["proguard.flags"],
     },
     required: [
-        "org.lineageos.euicc.xml",
-        "hidden-api-whiteliste-org.lineageos.euicc.xml",
+        "com.sony.euicc.xml",
+        "hidden-api-whiteliste-com.sony.euicc.xml",
     ],
 }
 
 prebuilt_etc {
     sub_dir: "permissions",
-    name: "org.lineageos.euicc.xml",
-    filename: "org.lineageos.euicc.xml",
-    src: "org.lineageos.euicc.xml",
+    name: "com.sony.euicc.xml",
+    filename: "com.sony.euicc.xml",
+    src: "com.sony.euicc.xml",
     product_specific: true,
 }
 
 prebuilt_etc {
     sub_dir: "sysconfig",
-    name: "hidden-api-whiteliste-org.lineageos.euicc.xml",
-    filename: "hidden-api-whiteliste-org.lineageos.euicc.xml",
-    src: "hidden-api-whiteliste-org.lineageos.euicc.xml",
+    name: "hidden-api-whiteliste-com.sony.euicc.xml",
+    filename: "hidden-api-whiteliste-com.sony.euicc.xml",
+    src: "hidden-api-whiteliste-com.sony.euicc.xml",
     product_specific: true,
 }
