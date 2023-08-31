@@ -23,7 +23,9 @@
     <string name="cm_display_header">Color Gamut and Contrast</string>
     <string name="cm_switch_title">Creator Mode</string>
     <string name="cm_switch_description">Provide a faithful reproduction of the creator\'s intended vision through high definition display and specially developed image processing compatible with BT.2020 color gamut and 10-bit color of HDR specification.</string>
-    <string name="cm_setting_explained">Apps that support a wide color gamut will automatically be shown in their original colors.</string>
+
+    <!-- Display Settings Footer  -->
+    <string name="display_setting_explained">Apps that support a wide color gamut will automatically be shown in their original colors.\n\n\nHDR videos in fullscreen mode will be automatically displayed with Creator Mode.</string>
 
     <!-- Audio Settings -->
     <string name="audio_menu_title">@string/audio_setting_header</string>
