@@ -7,6 +7,7 @@ package org.lineageos.settings.device.charger
 
 import android.util.Log
 
+import android.content.SharedPreferences
 import android.os.Bundle
 import android.view.View
 import android.view.ViewGroup
@@ -25,28 +26,34 @@ import org.lineageos.settings.device.widgets.CustomSeekBarPreference
 
 const val CHARGER_SETTING_ENABLE_KEY = "charger_setting_main_enable"
 const val CHARGER_CHARGING_ENABLE_KEY = "device_charging_enable"
+const val CHARGER_CHARGING_ENABLE_BACKUP = "device_charging_enable_backup"
 const val CHARGER_CHARGING_LIMIT_KEY = "device_charging_control"
- 
+const val CHARGER_CHARGING_LIMIT_BACKUP = "device_charging_control_backup"
+
 class ChargerSettingsFragment : PreferenceFragmentCompat(),
     Preference.OnPreferenceChangeListener, OnMainSwitchChangeListener {
 
     private lateinit var chargerUtils: ChargerUtils
 
+    private var mSwitch: MainSwitchPreference? = null
+    private var mChargingSwitch: SwitchPreference? = null
+    private var mChargingLimit: CustomSeekBarPreference? = null
+
     override fun onCreatePreferences(savedInstanceState: Bundle?, rootKey: String?) {
         setPreferencesFromResource(R.xml.advanced_charger_settings, rootKey)
         chargerUtils = ChargerUtils(requireContext())
 
-        findPreference<MainSwitchPreference>(CHARGER_SETTING_ENABLE_KEY)?.apply {
+        mSwitch = findPreference<MainSwitchPreference>(CHARGER_SETTING_ENABLE_KEY)?.apply {
             isChecked = chargerUtils.mainSwitch
             addOnSwitchChangeListener(this@ChargerSettingsFragment)
         }
 
-        findPreference<SwitchPreference>(CHARGER_CHARGING_ENABLE_KEY)?.apply {
+        mChargingSwitch = findPreference<SwitchPreference>(CHARGER_CHARGING_ENABLE_KEY)?.apply {
             isChecked = chargerUtils.isChargingEnabled
             onPreferenceChangeListener = this@ChargerSettingsFragment
         }
 
-        findPreference<CustomSeekBarPreference>(CHARGER_CHARGING_LIMIT_KEY)?.apply {
+        mChargingLimit = findPreference<CustomSeekBarPreference>(CHARGER_CHARGING_LIMIT_KEY)?.apply {
             value = chargerUtils.chargingLimit
             onPreferenceChangeListener = this@ChargerSettingsFragment
         }
@@ -69,10 +76,33 @@ class ChargerSettingsFragment : PreferenceFragmentCompat(),
     }
 
     override fun onSwitchChanged(switchView: Switch, isChecked: Boolean) {
+        mSwitch!!.setChecked(isChecked)
+
+        val sharedPreferences: SharedPreferences = 
+                PreferenceManager.getDefaultSharedPreferences(requireContext());
+
+        if (!sharedPreferences.getBoolean(CHARGER_SETTING_ENABLE_KEY, true)) {
+            val prefChargingEnabled = sharedPreferences.getBoolean(CHARGER_CHARGING_ENABLE_KEY, true)
+            val prefChargingLimit = sharedPreferences.getInt(CHARGER_CHARGING_LIMIT_KEY, 100)
+            sharedPreferences.edit().putBoolean(CHARGER_CHARGING_ENABLE_BACKUP, prefChargingEnabled).apply()
+            sharedPreferences.edit().putInt(CHARGER_CHARGING_LIMIT_BACKUP, prefChargingLimit).apply()
+
+            chargerUtils.isChargingEnabled = true
+            mChargingSwitch!!.setChecked(true)
+            chargerUtils.chargingLimit = 100
+            mChargingLimit!!.setValue(100, true)
+        } else {
+            val prefChargingEnabled = sharedPreferences.getBoolean(CHARGER_CHARGING_ENABLE_BACKUP, true)
+            val prefChargingLimit = sharedPreferences.getInt(CHARGER_CHARGING_LIMIT_BACKUP, 100)
+
+            chargerUtils.isChargingEnabled = prefChargingEnabled
+            mChargingSwitch!!.setChecked(prefChargingEnabled)
+            chargerUtils.chargingLimit = prefChargingLimit
+            mChargingLimit!!.setValue(prefChargingLimit, true)
+        }
+
         Log.i(TAG, "Main charger switch toggled to $isChecked")
-        chargerUtils.isChargingEnabled = !isChecked
-        chargerUtils.chargingLimit = 100
-        chargerUtils.mainSwitch = true
+        chargerUtils.mainSwitch = isChecked
     }
 
     companion object {
