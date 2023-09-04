@@ -24,6 +24,8 @@
                 android:targetClass="com.xperia.parts.display.DisplaySettingsActivity" />
         </Preference>
 
+    </PreferenceCategory>
+
     <PreferenceCategory
         android:key="charging"
         android:title="@string/charging_title">
