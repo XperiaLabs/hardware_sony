@@ -61,7 +61,7 @@
     <string name="device_charging_enable_title">Încărcați Dispozitivul</string>
     <string name="device_charging_enable_summary">Dezactivarea acestei setări nu v-a lăsa dispozitivul să se încarce</string>
     <string name="device_charging_control_title">Limită Încărcării</string>
-    <string name="charger_setting_explained">Dacă activarea Îngrijirea Bateriei, dispozitivul va începe să se încarce numai când următoarele cerințe sunt îndeplinite:\n 1. Ați activat opțiunea Încărcați Dispozitivul\”.\n 2. Nivelul bateriei dispozitivului dvs. este mai scăzut decât limita de încărcare pe care ați setat-o.\n\n\nÎncărcarea se oprește atunci când este atins un anumit procent pentru a crește durata de viață a bateriei.\nSetarea acestei limite la 80% produce rezultate și mai bune.</string>
+    <string name="charger_setting_explained">După activarea Îngrijirea Bateriei, dispozitivul va începe să se încarce numai când următoarele cerințe sunt îndeplinite:\n 1. Ați activat opțiunea \"Încărcați Dispozitivul\".\n 2. Nivelul bateriei dispozitivului dvs. este sub limita de încărcare pe care ați setat-o.\n\n\nÎncărcarea se oprește atunci când este atins procentul setat de dvs. pentru a crește durata de viață a bateriei.\nSetarea acestei limite la 80% produce rezultate și mai bune.</string>
 
     <!-- USB Section | External Monitor -->
     <string name="usb_title">USB</string>
@@ -75,7 +75,7 @@
     <!-- DSM (DualShock/Sense Manager) -->
     <string name="gaming_title">Jocuri</string>
     <string name="gc_dsm_setting_header">Controler Wireless pentru PS5 și PS4</string>
-    <string name="gc_dsm_setting_summary">Conectați controlerele PlayStation© la dispozitivul Xperia pentru a le utiliza pentru jocuri mobile</string>
+    <string name="gc_dsm_setting_summary">Conectați controlere PlayStation© la dispozitivul dvs. Xperia pentru a le utiliza pentru jocuri mobile</string>
 
     <!-- Creator Mode Previous Image Button -->
     <string name="previous_page_content_description">Anteriorul</string>
@@ -87,7 +87,7 @@
     <string name="colors_viewpager_content_description">Previzualizarea Culorii</string>
 
     <!-- H.S (Heat Suppression) Power Control QS Tile -->
-    <string name="charger_qs_tile_title">Opriți Încărcarea</string>
+    <string name="charger_qs_tile_title">Oprirea Încărcării</string>
 
     <!-- Refresh Rate QS Tile -->
     <string name="refresh_rate_tile_title">Rată de Reîmprospătare</string>

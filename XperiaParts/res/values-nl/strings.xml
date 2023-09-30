@@ -36,7 +36,7 @@
 
     <!-- Creator Mode -->
     <string name="cm_display_header">Kleurengamma en Contrast</string>
-    <string name="cm_switch_title">Creator-Modus</string>
+    <string name="cm_switch_title">Creator Modus</string>
     <string name="cm_switch_description">Zorg voor een getrouwe reproductie van de beoogde visie van de maker via high-definition weergave en speciaal ontwikkelde beeldverwerking die compatibel is met het BT.2020-kleurengamma en 10-bit kleur van HDR-specificatie.</string>
 
     <!-- Display Settings Footer  -->
