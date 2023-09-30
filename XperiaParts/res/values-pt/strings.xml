@@ -82,15 +82,9 @@
 
     <!-- Creator Mode Next Image Button -->
     <string name="next_page_content_description">Seguinte</string>
-    
-    <!-- Creator Mode Images Size -->
-    <dimen name="color_mode_preview_height">405dp</dimen>
 
     <!-- Creator Mode Preview Images -->
     <string name="colors_viewpager_content_description">Previsão de Cores</string>
-
-    <!-- Battery Care Image Size -->
-    <dimen name="battery_care_preview_height">405dp</dimen>
 
     <!-- H.S (Heat Suppression) Power Control QS Tile -->
     <string name="charger_qs_tile_title">Pausar Carga</string>

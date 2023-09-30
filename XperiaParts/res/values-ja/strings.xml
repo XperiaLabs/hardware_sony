@@ -76,21 +76,15 @@
     <string name="gaming_title">ゲーム</string>
     <string name="gc_dsm_setting_header">ワイヤレスコントローラーPS5およびPS4</string>
     <string name="gc_dsm_setting_summary">PlayStation© コントローラーを Xperia デバイスに接続してゲームに利用します</string>
-	  
+
     <!-- Creator Mode Previous Image Button -->
     <string name="previous_page_content_description">前の</string>
-	  
+
     <!-- Creator Mode Next Image Button -->
     <string name="next_page_content_description">次</string>
-	      
-    <!-- Creator Mode Images Size -->
-    <dimen name="color_mode_preview_height">405dp</dimen>
 
     <!-- Creator Mode Preview Images -->
     <string name="colors_viewpager_content_description">カラープレビュー</string>
-	  
-    <!-- Battery Care Image Size -->
-    <dimen name="battery_care_preview_height">405dp</dimen>
 
     <!-- H.S (Heat Suppression) Power Control QS Tile -->
     <string name="charger_qs_tile_title">充電を一時停止する</string>
