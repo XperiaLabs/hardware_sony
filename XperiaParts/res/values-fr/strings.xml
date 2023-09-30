@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name" translatable="true">Paramètres Xperia</string>
+    <string name="app_summary" translatable="true">Configurer les paramètres spécifiques à l\'appareil</string>
+
+    <!-- Display Settings -->
+    <string name="display_title">Afficher</string>
+    <string name="display_setting_header">Paramètres de Qualité d\'Image</string>
+    <string name="display_setting_summary">Choisissez entre des couleurs brillantes ou une reproduction fidèle de la vision prévue du créateur pour créer une expérience visuelle inoubliable</string>
+
+    <!-- Sound Settings -->
+    <string name="sound_title">Son</string>
+    <string name="audio_setting_header">Les paramètres Audio</string>
+    <string name="audio_setting_summary">Améliorez votre qualité sonore avec le Dolby Sound EQ et le 360 Reality Audio Upmix pour une expérience de lecture audio remarquable et immersive</string>
+
+    <!-- Charging Settings -->
+    <string name="charging_title">Mise en Charge</string>
+    <string name="charger_setting_header">Entretien de la batterie</string>
+    <string name="charger_setting_summary">Optimisez la longévité de la batterie en ajustant le pourcentage de charge maximum et en affinant d\'autres paramètres de charge</string>
+
+    <!-- Creator Mode -->
+    <string name="cm_display_header">Gamme de Couleurs et Contraste</string>
+    <string name="cm_switch_title">Mode Créateur</string>
+    <string name="cm_switch_description">Fournit une reproduction fidèle de la vision prévue du créateur grâce à un affichage haute définition et un traitement d\'image spécialement développé compatible avec la gamme de couleurs BT.2020 et les couleurs 10 bits de la spécification HDR.</string>
+
+    <!-- Display Settings Footer  -->
+    <string name="display_setting_explained">Les applications prenant en charge une large gamme de couleurs seront automatiquement affichées dans leurs couleurs d\'origine.\n\n\nLes vidéos HDR en mode plein écran seront automatiquement affichées avec le Mode Créateur.</string>
+
+    <!-- Audio Settings -->
+    <string name="audio_menu_title">@string/audio_setting_header</string>
+    <string name="audio_menu_header">Qualité sonore</string>
+    <string name="dolby_setting_header">Dolby Sound</string>
+    <string name="dolby_setting_summary">Ajustez les paramètres Dolby Sound pour profiter d\'un son immersif et multidimensionnel qui vous enveloppe, donnant vie aux films, à la musique et aux jeux</string>
+    <string name="threesixtyra_setting_header">360 Reality Audio</string>
+    <string name="threesixtyra_setting_summary">Appuyez ici pour personnaliser la qualité sonore</string>
+    <string name="threesixtyupmix_setting_header">360 Upmix</string>
+    <string name="threesixtyupmix_setting_summary">Grâce à la technologie 360 Reality Audio Upmix (360 Upmix) de Sony, vous pouvez profiter d\'un son spatial et immersif avec des sources stéréo classiques.\nConsultez 360 Reality Audio pour plus de détails.</string>
+    <string name="effectpriority_setting_header">Priorité d\'effet</string>
+    <string name="effectpriority_setting_summary">L\'application 360 Upmix aura toujours la priorité sur les autres effets que vous avez activés (soit Dolby Sound avec 360 Upmix, soit simplement 360 Upmix seul) pour le son multimédia des applications.</string>
+    <string name="audio_setting_explained">Lors de la lecture de contenu Dolby Sound ou de contenu 360 Reality Audio, les informations du contenu auront priorité sur les paramètres de cet écran. Le contenu haute résolution peut également être lu correctement lorsque Dolby Sound et 360 Upmix sont désactivés.\n\n\n\nÀ propos de Spatial Audio\nPour activer la fonctionnalité 360 Reality Audio, activez Spatial Sound.\nDolby Sound prend en charge Spatial Audio.</string>
+
+    <!-- Battery Care -->
+    <string name="advanced_charger_title">@string/charger_setting_header</string>
+    <string name="charger_setting_main_enable_title">Utiliser l\'entretien de la batterie</string>
+    <string name="device_charging_enable_title">Activer le Chargement</string>
+    <string name="device_charging_enable_summary">La désactivation de ce paramètre empêchera l\'appareil de se charger</string>
+    <string name="device_charging_control_title">Limite de Charge</string>
+    <string name="charger_setting_explained">Si Battery Care est activé, l\'appareil commencera à se charger uniquement lorsque les conditions suivantes seront remplies:\n 1. Vous avez activé le chargement en sélectionnant \"Activer le Chargement\".\n 2. Le niveau de la batterie de votre appareil est inférieur. que la limite de charge que vous avez définie.\n\n\nLa charge s\'arrête lorsqu\'un pourcentage spécifié est atteint pour augmenter la durée de vie de la batterie.\nRégler cette limite à 80% donne des résultats encore meilleurs.</string>
+
+    <!-- USB Section | External Monitor -->
+    <string name="usb_title">USB</string>
+    <string name="usb_extmon_setting_header">Moniteur Externe</string>
+    <string name="usb_extmon_summary">Activez l\'application Moniteur Externe pour personnaliser les paramètres de l\'appareil photo externe et utiliser l\'écran de votre Xperia comme viseur fiable et précis pour capturer des couleurs vives et réalistes</string>
+
+    <!-- USB Audio Output -->
+    <string name="usba_setting_header">Sortie Audio Externe</string>
+    <string name="usba_setting_summary">Ajustez le volume audio des médias, des appels entrants ou du microphone lors de la sortie du son vers un appareil externe via le port USB</string>
+
+    <!-- DSM (DualShock/Sense Manager) -->
+    <string name="gaming_title">Jeux</string>
+    <string name="gc_dsm_setting_header">Manette sans fil pour PS5 et PS4</string>
+    <string name="gc_dsm_setting_summary">Connectez vos manettes PlayStation© à votre appareil Xperia pour les utiliser pour jouer</string>
+
+    <!-- Creator Mode Previous Image Button -->
+    <string name="previous_page_content_description">Précédent</string>
+
+    <!-- Creator Mode Next Image Button -->
+    <string name="next_page_content_description">Suivant</string>
+
+    <!-- Creator Mode Images Size -->
+    <dimen name="color_mode_preview_height">405dp</dimen>
+
+    <!-- Creator Mode Preview Images -->
+    <string name="colors_viewpager_content_description">Aperçu des Couleurs</string>
+
+    <!-- Battery Care Image Size -->
+    <dimen name="battery_care_preview_height">405dp</dimen>
+
+    <!-- H.S (Heat Suppression) Power Control QS Tile -->
+    <string name="charger_qs_tile_title">Suspendre le Chargement</string>
+
+    <!-- Refresh Rate QS Tile -->
+    <string name="refresh_rate_tile_title">Fréquence de Rafraîchissement</string>
+</resources>

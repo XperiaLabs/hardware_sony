@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources> 
+    <string name="app_name" translatable="true">Xperia-Inställningar</string>
+    <string name="app_summary" translatable="true">Konfigurera enhetsspecifika inställningar</string>
+
+    <!-- Display Settings --> 
+    <string name="display_title">Visa</string>
+    <string name="display_setting_header">Inställningar för Bildkvalitet</string>
+    <string name="display_setting_summary">Välj mellan lysande färger eller en trogen återgivning av skaparens avsedda vision för att skapa en oförglömlig visuell upplevelse</string>
+
+    <!-- Sound Settings --> 
+    <string name="sound_title">Ljud</string>
+    <string name="audio_setting_header">Ljudinställningar</string>
+    <string name="audio_setting_summary">Höj din ljudkvalitet med Dolby Sound EQ och 360 Reality Audio Upmix för en anmärkningsvärd och uppslukande ljuduppspelningsupplevelse</string>
+
+    <!-- Charging Settings --> 
+    <string name="charging_title">Laddar</string>
+    <string name="charger_setting_header">Batterivård</string>
+    <string name="charger_setting_summary">Optimera batteriets livslängd genom att justera den maximala laddningsprocenten och finjustera andra laddningsinställningar</string>
+
+    <!-- Creator Mode --> 
+    <string name="cm_display_header">Färgomfång och Kontrast</string>
+    <string name="cm_switch_title">Skaparläge</string>
+    <string name="cm_switch_description">Ge en trogen återgivning av skaparens avsedda vision genom högupplöst display och specialutvecklad bildbehandling som är kompatibel med BT.2020-färgomfånget och 10-bitars färg enligt HDR-specifikationen.</string>
+
+    <!-- Display Settings Footer  --> 
+    <string name="display_setting_explained">Appar som stöder ett brett färgomfång kommer automatiskt att visas i sina ursprungliga färger.\n\n\nHDR-videor i helskärmsläge kommer automatiskt att visas med Skaparläge.</string>
+
+    <!-- Audio Settings --> 
+    <string name="audio_menu_title">@string/audio_setting_header</string>
+    <string name="audio_menu_header">Ljudkvalitet</string>
+    <string name="dolby_setting_header">Dolby Ljud</string>
+    <string name="dolby_setting_summary">Justera Dolby Sound-inställningarna för att uppleva ett uppslukande, flerdimensionellt ljud som omsluter dig och väcker filmer, musik och spel till liv</string>
+    <string name="threesixtyra_setting_header">360 Reality Audio</string>
+    <string name="threesixtyra_setting_summary">Tryck här för att anpassa ljudkvaliteten.</string>
+    <string name="threesixtyupmix_setting_header">360 Upmix</string>
+    <string name="threesixtyupmix_setting_summary">Med Sonys 360 Reality Audio Upmix (360 Upmix)-teknik kan du njuta av rumsligt och uppslukande ljud med vanliga stereokällor\nKontrollera 360 Reality Audio för detaljer.</string>
+    <string name="effectpriority_setting_header">Effektprioritet</string>
+    <string name="effectpriority_setting_summary">360 Upmix-appen kommer alltid att ha prioritet över de andra effekterna du har aktiverat (antingen Dolby Sound med 360 Upmix eller bara 360 Upmix i sig själv) för apparnas medialjud.</string>
+    <string name="audio_setting_explained">När du spelar upp Dolby Sound-innehåll eller 360 Reality Audio-innehåll kommer innehållets information att ha företräde framför inställningarna på den här skärmen. Högupplöst innehåll kan också spelas upp korrekt när både Dolby Sound och 360 Upmix är avstängda.\n\n\n\nOm Spatial Audio\nFör att aktivera 360 Reality Audio-funktionen, aktivera Spatial Sound.\nDolby Sound stöder Spatial Audio.</string>
+
+    <!-- Battery Care --> 
+    <string name="advanced_charger_title">@string/charger_setting_header</string>
+    <string name="charger_setting_main_enable_title">Använd batterivård</string>
+    <string name="device_charging_enable_title">Aktivera laddning</string>
+    <string name="device_charging_enable_summary">Om du inaktiverar den här inställningen stoppas enheten från att laddas</string>
+    <string name="device_charging_control_title">Laddningsgräns</string>
+    <string name="charger_setting_explained">Om Battery Care är aktiverat kommer enheten att börja ladda först när följande krav har uppfyllts:\n 1. Du har aktiverat laddning genom att växla mellan \"Aktivera laddning\".\n 2. Din enhets batterinivå är lägre än laddningsgränsen du har ställt in.\n\n\nLadningen avbryts när en angiven procentandel uppnås för att öka batteriets livslängd.\nAtt ställa in den gränsen till 80 % ger ännu bättre resultat.</string>
+
+    <!-- USB Section | External Monitor --> 
+    <string name="usb_title">USB</string>
+    <string name="usb_extmon_setting_header">Extern Monitor</string>
+    <string name="usb_extmon_summary">Aktivera External Monitor-appen för att anpassa externa kamerainställningar och använda din Xperias skärm som en pålitlig och exakt sökare för att fånga livfulla, verklighetstrogna färger</string>
+
+    <!-- USB Audio Output --> 
+    <string name="usba_setting_header">Extern ljudutgång</string>
+    <string name="usba_setting_summary">Justera media, in-call eller mikrofonens ljudvolym när ljud matas ut till en extern enhet via USB-porten</string>
+
+    <!-- DSM (DualShock/Sense Manager) --> 
+    <string name="gaming_title">Spelande</string>
+    <string name="gc_dsm_setting_header">Trådlös handkontroll för PS5 &amp; PS4</string>
+    <string name="gc_dsm_setting_summary">Anslut dina PlayStation©-kontroller till din Xperia-enhet för att använda dem för spel</string>
+
+    <!-- Creator Mode Previous Image Button --> 
+    <string name="previous_page_content_description">Tidigare</string>
+
+    <!-- Creator Mode Next Image Button --> 
+    <string name="next_page_content_description">Nästa</string>
+
+    <!-- Creator Mode Images Size --> 
+    <dimen name="color_mode_preview_height">405dp</dimen>
+
+    <!-- Creator Mode Preview Images --> 
+    <string name="colors_viewpager_content_description">Färgförhandsgranskning</string>
+
+    <!-- Battery Care Image Size --> 
+    <dimen name="battery_care_preview_height">405dp</dimen>
+
+    <!-- H.S (Heat Suppression) Power Control QS Tile --> 
+    <string name="charger_qs_tile_title">Pausa Laddning</string>
+
+    <!-- Refresh Rate QS Tile --> 
+    <string name="refresh_rate_tile_title">Uppdateringsfrekvens</string>
+</resources>

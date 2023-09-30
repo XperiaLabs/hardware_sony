@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name" translatable="true">엑스페리아 설정</string>
+    <string name="app_summary" translatable="true">장치별 설정 구성</string>
+
+    <!-- Display Settings -->
+    <string name="display_title">표시하다</string>
+    <string name="display_setting_header">이미지 품질 설정</string>
+    <string name="display_setting_summary">잊을 수 없는 시각적 경험을 선사하기 위해 화려한 색상이나 제작자의 의도된 비전을 충실하게 재현한 것 중에서 선택하세요.</string>
+
+    <!-- Sound Settings -->
+    <string name="sound_title">소리</string>
+    <string name="audio_setting_header">오디오 설정</string>
+    <string name="audio_setting_summary">놀랍고 몰입감 넘치는 오디오 재생 경험을 위해 Dolby Sound EQ 및 360 Reality Audio Upmix로 음질을 향상하세요.</string>
+
+    <!-- Charging Settings -->
+    <string name="charging_title">충전 중</string>
+    <string name="charger_setting_header">배터리 관리</string>
+    <string name="charger_setting_summary">최대 충전 비율을 조정하고 기타 충전 설정을 미세 조정하여 배터리 수명을 최적화하세요.</string>
+
+    <!-- Creator Mode -->
+    <string name="cm_display_header">색 영역 및 대비</string>
+    <string name="cm_switch_title">크리에이터 모드</string>
+    <string name="cm_switch_description">고화질 디스플레이와 BT.2020 색역 및 HDR 사양의 10비트 색상과 호환되는 특별히 개발된 이미지 처리를 통해 제작자가 의도한 비전을 충실하게 재현합니다.</string>
+
+    <!-- Display Settings Footer  -->
+    <string name="display_setting_explained">넓은 색 영역을 지원하는 앱은 자동으로 원래 색상으로 표시됩니다.\n\n\n전체 화면 모드의 HDR 동영상은 크리에이터 모드를 통해 자동으로 표시됩니다.</string>
+
+    <!-- Audio Settings -->
+    <string name="audio_menu_title">@string/audio_setting_header</string>
+    <string name="audio_menu_header">소리 품질</string>
+    <string name="dolby_setting_header">돌비 사운드</string>
+    <string name="dolby_setting_summary">Dolby Sound 설정을 조정하여 영화, 음악, 게임을 생생하게 전달하고 몰입감 넘치는 다차원 사운드를 경험해 보세요.</string>
+    <string name="threesixtyra_setting_header">360 리얼리티 오디오</string>
+    <string name="threesixtyra_setting_summary">음질을 맞춤설정하려면 여기를 탭하세요.</string>
+    <string name="threesixtyupmix_setting_header">360 업믹스</string>
+    <string name="threesixtyupmix_setting_summary">Sony의 360 Reality Audio Upmix (360 Upmix) 기술을 사용하면 일반 스테레오 소스로 공간감 있고 몰입감 넘치는 사운드를 즐길 수 있습니다\n자세한 내용은 360 Reality Audio를 확인하세요.</string>
+    <string name="effectpriority_setting_header">효과 우선순위</string>
+    <string name="effectpriority_setting_summary">360 Upmix 앱은 앱의 미디어 사운드에 대해 사용자가 켠 다른 효과(360 Upmix가 포함된 Dolby Sound 또는 360 Upmix 자체)보다 항상 우선순위를 갖습니다.</string>
+    <string name="audio_setting_explained">Dolby Sound 콘텐츠 또는 360 Reality Audio 콘텐츠를 재생하는 동안 콘텐츠 정보가 이 화면의 설정보다 우선적으로 적용됩니다. Dolby Sound와 360 Upmix가 모두 꺼진 경우 고해상도 콘텐츠도 제대로 재생할 수 있습니다.\n\n\n\n공간 오디오 정보\n360 현실 오디오 기능을 활성화하려면 공간 사운드를 켜십시오.\nDolby Sound는 공간 오디오를 지원합니다.</string>
+
+    <!-- Battery Care -->
+    <string name="advanced_charger_title">@string/charger_setting_header</string>
+    <string name="charger_setting_main_enable_title">배터리 관리 사용</string>
+    <string name="device_charging_enable_title">충전 활성화</string>
+    <string name="device_charging_enable_summary">이 설정을 비활성화하면 기기 충전이 중단됩니다.</string>
+    <string name="device_charging_control_title">충전 한도</string>
+    <string name="charger_setting_explained">배터리 관리가 활성화된 경우 다음 요구 사항이 충족된 경우에만 장치 충전이 시작됩니다.\n 1. \"충전 활성화\"를 전환하여 충전을 활성화했습니다.\n 2. 장치의 배터리 수준이 낮습니다. 설정한 충전 한도보다 높습니다.\n\n\n배터리 수명을 늘리기 위해 지정된 비율에 도달하면 충전이 중지됩니다.\n한도를 80%로 설정하면 더 나은 결과를 얻을 수 있습니다.</string>
+
+    <!-- USB Section | External Monitor -->
+    <string name="usb_title">USB</string>
+    <string name="usb_extmon_setting_header">외부 모니터</string>
+    <string name="usb_extmon_summary">외부 모니터 앱을 활성화하여 외부 카메라 설정을 맞춤화하고 Xperia의 디스플레이를 안정적이고 정확한 뷰파인더로 활용하여 생생하고 사실적인 색상을 캡처하세요</string>
+
+    <!-- USB Audio Output -->
+    <string name="usba_setting_header">외부 오디오 출력</string>
+    <string name="usba_setting_summary">USB 포트를 통해 외부 장치로 사운드를 출력할 때 미디어, 통화 중 또는 마이크 오디오 볼륨을 조정합니다</string>
+
+    <!-- DSM (DualShock/Sense Manager) -->
+    <string name="gaming_title">노름</string>
+    <string name="gc_dsm_setting_header">PS4용 무선 컨트롤러 PS5</string>
+    <string name="gc_dsm_setting_summary">PlayStation© 컨트롤러를 Xperia 기기에 연결하여 게임에 활용하세요</string>
+
+    <!-- Creator Mode Previous Image Button -->
+    <string name="previous_page_content_description">이전의</string>
+
+    <!-- Creator Mode Next Image Button -->
+    <string name="next_page_content_description">다음</string>
+
+    <!-- Creator Mode Images Size -->
+    <dimen name="color_mode_preview_height">405dp</dimen>
+
+    <!-- Creator Mode Preview Images -->
+    <string name="colors_viewpager_content_description">색상 미리보기</string>
+
+    <!-- Battery Care Image Size -->
+    <dimen name="battery_care_preview_height">405dp</dimen>
+
+    <!-- H.S (Heat Suppression) Power Control QS Tile -->
+    <string name="charger_qs_tile_title">충전 일시 중지</string>
+
+    <!-- Refresh Rate QS Tile -->
+    <string name="refresh_rate_tile_title">재생률</string>
+</resources>
