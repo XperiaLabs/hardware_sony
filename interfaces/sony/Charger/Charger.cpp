@@ -6,7 +6,6 @@
 
 #include "Charger.h"
 
-#include <android-base/logging.h>
 #include <android/binder_status.h>
 #include <cutils/properties.h>
 #include <cutils/uevent.h>
@@ -18,34 +17,39 @@ namespace vendor {
 namespace sony {
 namespace charger {
 
-#define LOG_TAG "vendor.sony.charger"
-
 enum SUPPORTED_BOARD {
     kona = 0,
     lahaina = 1,
-    kalama = 2,
+    taro = 2,
+    kalama = 3,
+    lagoon = 4,
 };
 
 static constexpr const char* kChgActivationPath[] = {
         "/sys/class/power_supply/battery_ext/smart_charging_activation",
         "/sys/class/battchg_ext/smart_charging_activation",
         "/sys/class/battchg_ext/smart_charging_activation",
+        "/sys/class/battchg_ext/smart_charging_activation",
+        "/sys/class/power_supply/battery_ext/smart_charging_activation",
 };
 
 static constexpr const char* kChgInterruptionPath[] = {
         "/sys/class/power_supply/battery_ext/smart_charging_interruption",
         "/sys/class/battchg_ext/smart_charging_interruption",
         "/sys/class/battchg_ext/smart_charging_interruption",
+        "/sys/class/battchg_ext/smart_charging_interruption",
+        "/sys/class/power_supply/battery_ext/smart_charging_interruption",
 };
 
 static constexpr const char* kBatCapacityPath[] = {
         "/sys/class/power_supply/battery/capacity",
         "/sys/class/power_supply/battery/capacity",
         "/sys/class/power_supply/battery/capacity",
+        "/sys/class/power_supply/battery/capacity",
+        "/sys/class/power_supply/battery/capacity",
 };
 
 Charger::Charger() {
-    LOG(INFO) << "Charger HAL Starting...";
     char board_name[PROPERTY_VALUE_MAX];
 
     property_get("ro.product.board", board_name, "null");
@@ -54,11 +58,12 @@ Charger::Charger() {
         chargerBoard = kona;
     } else if (strncmp(board_name, "lahaina", strlen("lahaina")) == 0) {
         chargerBoard = lahaina;
+    } else if (strncmp(board_name, "taro", strlen("taro")) == 0) {
+        chargerBoard = kalama;
     } else if (strncmp(board_name, "kalama", strlen("kalama")) == 0) {
         chargerBoard = kalama;
-    } else {
-        LOG(ERROR) << "Failed to get board number, default to kona";
-        chargerBoard = kona;
+    } else if (strncmp(board_name, "lagoon", strlen("lagoon")) == 0) {
+        chargerBoard = kalama;
     }
     chgLimit = 100;
     chgStopReason = 0;
@@ -72,7 +77,6 @@ bool Charger::updateChargingStatus() {
 }
 
 bool Charger::setChargingEnableInternal(bool enabled) {
-    LOG(INFO) << (enabled ? "Enable" : "Disable") << " charging";
     std::fstream activationFile(kChgActivationPath[chargerBoard]);
     std::fstream interruptionFile(kChgInterruptionPath[chargerBoard]);
     int activationResult = -1;
@@ -101,7 +105,6 @@ bool Charger::setChargingEnableInternal(bool enabled) {
     return true;
 
 error:
-    LOG(ERROR) << "Failed to read or write charging status: " << strerror(errno);
     return false;
 }
 
@@ -123,10 +126,7 @@ ndk::ScopedAStatus Charger::setChargingEnable(bool enabled) {
 }
 
 ndk::ScopedAStatus Charger::setChargingLimit(int32_t limit) {
-    LOG(INFO) << "Setting charging limit to " << limit;
     if (limit > 100 || limit < 50) {
-        LOG(ERROR) << "The charging limit " << limit << " is not supported!";
-        LOG(ERROR) << "  Please select between 50 and 100";
         return ndk::ScopedAStatus::fromExceptionCode(EX_UNSUPPORTED_OPERATION);
     }
 
@@ -140,7 +140,6 @@ ndk::ScopedAStatus Charger::checkBatCapacityAndApplyLimit() {
     int batCapNow = -1;
 
     batCapFile >> batCapNow;
-    LOG(INFO) << "Capacity: " << batCapNow << ". Limit: " << chgLimit;
 
     if (chgLimit == 100) {
         // We don't limit battery if the limit is 100
@@ -162,7 +161,6 @@ ndk::ScopedAStatus Charger::checkBatCapacityAndApplyLimit() {
         return ndk::ScopedAStatus::fromExceptionCode(EX_SERVICE_SPECIFIC);
 
 error:
-    LOG(ERROR) << "Failed to read charging status: " << strerror(errno);
     return ndk::ScopedAStatus::fromExceptionCode(EX_SERVICE_SPECIFIC);
 }
 
