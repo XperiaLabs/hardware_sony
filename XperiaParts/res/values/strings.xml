@@ -74,7 +74,7 @@
 
     <!-- DSM (DualShock/Sense Manager) -->
     <string name="gaming_title">Gaming</string>
-    <string name="gc_dsm_setting_header">Wireless Controller for PS5 &amp; PS4</string>
+    <string name="gc_dsm_setting_header">Wireless Controller for PS5 and PS4</string>
     <string name="gc_dsm_setting_summary">Connect your PlayStation© controllers to your Xperia device to utilize them for gaming</string>
 
     <!-- Creator Mode Previous Image Button -->

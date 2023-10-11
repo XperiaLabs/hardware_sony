@@ -74,7 +74,7 @@
 
     <!-- DSM (DualShock/Sense Manager) -->
     <string name="gaming_title">Jeux</string>
-    <string name="gc_dsm_setting_header">Manette sans fil pour PS5 et PS4</string>
+    <string name="gc_dsm_setting_header">Manette de jeu sans fil PS5 et PS4</string>
     <string name="gc_dsm_setting_summary">Connectez vos manettes PlayStation© à votre appareil Xperia pour les utiliser pour jouer</string>
 
     <!-- Creator Mode Previous Image Button -->

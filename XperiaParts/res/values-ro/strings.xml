@@ -69,7 +69,7 @@
     <string name="usb_extmon_summary">Activați aplicația Monitor Extern pentru a personaliza setările camerei externe și utilizați display-ul dispozitivului Xperia ca un vizor precis pentru a captura culori vibrante, realiste</string>
 
     <!-- USB Audio Output -->
-    <string name="usba_setting_header">Audio Extern USB</string>
+    <string name="usba_setting_header">Ieșire Externă USB</string>
     <string name="usba_setting_summary">Reglați volumul media, volumul apelului sau al microfonului atunci când redați sunet către un dispozitiv extern prin portul USB</string>
 
     <!-- DSM (DualShock/Sense Manager) -->
