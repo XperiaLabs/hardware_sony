@@ -37,7 +37,7 @@
     <!-- Creator Mode -->
     <string name="cm_display_header">Gama de Cores e Contraste</string>
     <string name="cm_switch_title">Modo de Criador</string>
-    <string name="cm_switch_description">Forneça uma reprodução fiel da visão pretendida pelo criador através do ecrã 4K e do processamento de imagens especialmente desenvolvido compatível com a gama de cores do BT.2020 e a cor de 10 bits da especificação HDR.</string>
+    <string name="cm_switch_description">Forneça uma reprodução fiel da visão pretendida pelo criador através do ecrã de alta definição e do processamento de imagens especialmente desenvolvido compatível com a gama de cores do BT.2020 e a cor de 10 bits da especificação HDR.</string>
 
     <!-- Display Settings Footer  -->
     <string name="display_setting_explained">As aplicações compatíveis com uma ampla gama de cores serão exibidos automaticamente nas cores originais.\n\n\nOs vídeos HDR no modo de ecrã inteiro serão exibidos automaticamente no Modo Criador.</string>
