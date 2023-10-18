@@ -8,6 +8,7 @@ aidl_interface {
     name: "vendor.sony.charger",
     vendor_available: true,
     srcs: ["vendor/sony/charger/*.aidl"],
+    owner: "sony",
     stability: "vintf",
 
     backend: {
