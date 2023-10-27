@@ -44,7 +44,7 @@
 
     <!-- Audio Settings -->
     <string name="audio_menu_title">@string/audio_setting_header</string>
-    <string name="audio_menu_header">Jakość dźwięku</string>
+    <string name="audio_menu_header">Jakość Dźwięku</string>
     <string name="dolby_setting_header">Dźwięk Dolby</string>
     <string name="dolby_setting_summary">Dostosuj ustawienia Dźwięku Dolby, aby doświadczyć wciągającego, wielowymiarowego dźwięku, który Cię otacza, ożywiając filmy, muzykę i gry</string>
     <string name="threesixtyra_setting_header">360 Reality Audio</string>

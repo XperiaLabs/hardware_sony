@@ -45,7 +45,7 @@
     <!-- Audio Settings -->
     <string name="audio_menu_title">@string/audio_setting_header</string>
     <string name="audio_menu_header">Geluidskwaliteit</string>
-    <string name="dolby_setting_header">Dolby-geluid</string>
+    <string name="dolby_setting_header">Dolby-Geluid</string>
     <string name="dolby_setting_summary">Pas de Dolby Sound-instellingen aan om meeslepend, multidimensionaal geluid te ervaren dat je omhult en films, muziek en games tot leven brengt</string>
     <string name="threesixtyra_setting_header">360 Reality-audio</string>
     <string name="threesixtyra_setting_summary">Tik hier om de geluidskwaliteit te personaliseren</string>
