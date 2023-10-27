@@ -45,8 +45,6 @@
     <!-- Audio Settings -->
     <string name="audio_menu_title">@string/audio_setting_header</string>
     <string name="audio_menu_header">Calidad del Sonido</string>
-    <string name="dolby_setting_header">Sonido Dolby</string>
-    <string name="dolby_setting_summary">Ajusta los ajustes de Sonido Dolby para experimentar un sonido inmersivo y multidimensional que te envuelve y da vida a películas, música y juegos</string>
     <string name="threesixtyra_setting_header">360 Reality Audio</string>
     <string name="threesixtyra_setting_summary">Toca aquí para personalizar la calidad del sonido</string>
     <string name="threesixtyupmix_setting_header">360 Upmix</string>

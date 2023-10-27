@@ -45,8 +45,6 @@
     <!-- Audio Settings -->
     <string name="audio_menu_title">@स्ट्रिंग/ऑडियो_सेटिंग_हेडर</string>
     <string name="audio_menu_header">आवाज़ की गुणवत्ता</string>
-    <string name="dolby_setting_header">डॉल्बी ध्वनि</string>
-    <string name="dolby_setting_summary">आपको घेरने वाली, फिल्मों, संगीत और गेम्स को जीवंत बनाने वाली, बहुआयामी ध्वनि का अनुभव करने के लिए डॉल्बी साउंड सेटिंग्स को समायोजित करें।</string>
     <string name="threesixtyra_setting_header">360 रियलिटी ऑडियो</string>
     <string name="threesixtyra_setting_summary">ध्वनि की गुणवत्ता को वैयक्तिकृत करने के लिए यहां टैप करें.</string>
     <string name="threesixtyupmix_setting_header">360 अपमिक्स</string>

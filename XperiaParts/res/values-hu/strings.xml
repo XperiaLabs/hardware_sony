@@ -45,8 +45,6 @@
     <!-- Audio Settings -->
     <string name="audio_menu_title">@string/audio_setting_header</string>
     <string name="audio_menu_header">Hangminőség</string>
-    <string name="dolby_setting_header">Dolby Sound</string>
-    <string name="dolby_setting_summary">Módosítsa a Dolby Sound beállításait, hogy magával ragadó, többdimenziós hangzást tapasztaljon, amely magával ragad, életre keltve a filmeket, zenét és játékokat.</string>
     <string name="threesixtyra_setting_header">360 Reality Audio</string>
     <string name="threesixtyra_setting_summary">Koppintson ide a hangminőség személyre szabásához.</string>
     <string name="threesixtyupmix_setting_header">360 Upmix</string>

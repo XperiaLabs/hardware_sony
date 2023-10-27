@@ -11,17 +11,6 @@
     <PreferenceCategory>
 
         <Preference
-            android:key="audio_dolby_sound"
-            android:icon="@drawable/ic_dolby"
-            android:title="@string/dolby_setting_header"
-            android:summary="@string/dolby_setting_summary"
-            android:persistent="false">
-            <intent
-                android:targetPackage="com.dolby.daxappui2"
-                android:targetClass="com.dolby.daxappui2.MainActivity" />
-        </Preference>
-
-        <Preference
             android:key="audio_threesixtyra"
             android:icon="@drawable/ic_threesixtyra"
             android:title="@string/threesixtyra_setting_header"

@@ -45,8 +45,6 @@
     <!-- Audio Settings -->
     <string name="audio_menu_title">@string/audio_setting_header</string>
     <string name="audio_menu_header">音の質</string>
-    <string name="dolby_setting_header">ドルビーサウンド</string>
-    <string name="dolby_setting_summary">ドルビー サウンドの設定を調整して、映画、音楽、ゲームに命を吹き込む、包み込まれるような臨場感あふれる多次元サウンドを体験してください。</string>
     <string name="threesixtyra_setting_header">360 リアリティオーディオ</string>
     <string name="threesixtyra_setting_summary">ここをタップして音質をカスタマイズします</string>
     <string name="threesixtyupmix_setting_header">360 アップミックス</string>

@@ -45,8 +45,6 @@
     <!-- Audio Settings -->
     <string name="audio_menu_title">@string/audio_setting_header</string>
     <string name="audio_menu_header">Calitatea Sunetului</string>
-    <string name="dolby_setting_header">Dolby Sound</string>
-    <string name="dolby_setting_summary">Ajustați setările Dolby pentru a experienţă un sunet captivant, multidimensional, care vă va învăluie, dând viață filmelor, muzicii și jocurilor</string>
     <string name="threesixtyra_setting_header">360 Reality Audio</string>
     <string name="threesixtyra_setting_summary">Atingeți aici pentru a personaliza calitatea sunetului</string>
     <string name="threesixtyupmix_setting_header">360 Upmix</string>

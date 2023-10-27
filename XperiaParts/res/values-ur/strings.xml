@@ -45,8 +45,6 @@
     <!-- Audio Settings -->
     <string name="audio_menu_title">@string/audio_setting_header</string>
     <string name="audio_menu_header">آواز کا معیار</string>
-    <string name="dolby_setting_header">ڈولبی ساؤنڈ</string>
-    <string name="dolby_setting_summary">ڈولبی ساؤنڈ سیٹنگز کو ایڈجسٹ کریں تاکہ عمیق، کثیر جہتی آواز کا تجربہ کریں جو آپ کو اپنے لپیٹ میں لے لے، فلموں، موسیقی اور گیمز کو زندہ کرے</string>
     <string name="threesixtyra_setting_header">360 ریئلٹی آڈیو</string>
     <string name="threesixtyra_setting_summary">آواز کے معیار کو ذاتی بنانے کے لیے یہاں تھپتھپائیں۔</string>
     <string name="threesixtyupmix_setting_header">360 اپمکس</string>

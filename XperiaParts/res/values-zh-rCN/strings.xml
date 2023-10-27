@@ -45,8 +45,6 @@
     <!-- Audio Settings -->
     <string name="audio_menu_title">@string/audio_setting_header</string>
     <string name="audio_menu_header">音质</string>
-    <string name="dolby_setting_header">杜比音效</string>
-    <string name="dolby_setting_summary">调整杜比音效设置，体验身临其境的多维声音，让电影、音乐和游戏栩栩如生</string>
     <string name="threesixtyra_setting_header">360 Reality Audio</string>
     <string name="threesixtyra_setting_summary">点击此处以设置</string>
     <string name="threesixtyupmix_setting_header">360 Upmix</string>
