@@ -11,14 +11,14 @@
     <PreferenceCategory>
 
         <Preference
-            android:key="audio_threesixtyra"
-            android:icon="@drawable/ic_threesixtyra"
-            android:title="@string/threesixtyra_setting_header"
-            android:summary="@string/threesixtyra_setting_summary"
+            android:key="audio_dirac"
+            android:icon="@drawable/ic_dirac"
+            android:title="@string/dirac_title"
+            android:summary="@string/dirac_summary"
             android:persistent="false">
             <intent
-                android:targetPackage="jp.co.sony.threesixtyra.settings"
-                android:targetClass="jp.co.sony.threesixtyra.settings.introduction.Introduction360raActivity" />
+                android:targetPackage="com.xperia.parts"
+                android:targetClass="com.xperia.parts.dirac.DiracActivity" />
         </Preference>
 
         <Preference
