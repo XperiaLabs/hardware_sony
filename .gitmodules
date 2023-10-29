@@ -1,0 +1,3 @@
+[submodule "KProfiles"]
+	path = KProfiles
+	url = https://github.com/KProfiles/android_packages_apps_Kprofiles
