@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name" translatable="true">Xperia Beállítások</string>
+    <string name="app_summary" translatable="true">Konfigurálja az eszközspecifikus beállításokat</string>
+
+    <!-- Display Settings -->
+    <string name="display_title">Kijelző</string>
+    <string name="display_settings_title">Képminőség Beállításai</string>
+    <string name="display_settings_summary">Válasszon a ragyogó színek vagy az alkotó elképzelésének hű reprodukciója között, hogy felejthetetlen vizuális élményt teremtsen</string>
+
+    <!-- Sound Settings -->
+    <string name="sound_title">Hang</string>
+    <string name="audio_settings_title">Hangbeállítások</string>
+    <string name="audio_settings_summary">Javítsa hangminőségét a Dolby Sound kiegyenlítő és a 360 Reality Audio Upmix segítségével a figyelemre méltó és magával ragadó hanglejátszási élmény érdekében</string>
+
+    <!-- Charging Settings -->
+    <string name="charging_title">Töltés</string>
+    <string name="charger_settings_title">Az Akkumulátor Gondozása</string>
+    <string name="charger_settings_summary">Optimalizálja az akkumulátor élettartamát a maximális töltési százalék beállításával és a többi töltési beállítás finomhangolásával</string>
+
+    <!-- USB Section | External Monitor -->
+    <string name="usb_title">USB</string>
+    <string name="usb_em_title">Külső Monitor</string>
+    <string name="usb_em_summary">Engedélyezze az Külső Monitor alkalmazást a külső kamera beállításainak testreszabásához, és használja Xperia kijelzőjét megbízható és pontos keresőként az élénk, élethű színek rögzítéséhez</string>
+
+    <!-- USB Audio Output -->
+    <string name="usba_settings_title">USB Hangkimenet</string>
+    <string name="usba_settings_summary">Állítsa be a média, a hívás közbeni vagy a mikrofon hangerejét, amikor hangot ad ki egy külső eszközre az USB-porton keresztül</string>
+
+    <!-- DSM (DualShock/Sense Manager) -->
+    <string name="gaming_title">Szerencsejáték</string>
+    <string name="dsm_settings_title">Vezeték Nélküli Vezérlő PS5 és PS4</string>
+    <string name="dsm_settings_summary">Csatlakoztassa PlayStation© kontrollereit Xperia eszközéhez, hogy játékra használja őket</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name" translatable="true">Xperia-Instellingen</string>
+    <string name="app_summary" translatable="true">Configureer apparaatspecifieke instellingen</string>
+
+    <!-- Display Settings -->
+    <string name="display_title">Weergave</string>
+    <string name="display_settings_title">Instellingen voor Beeldkwaliteit</string>
+    <string name="display_settings_summary">Kies tussen briljante kleuren of een getrouwe weergave van de visie van de maker om een onvergetelijke visuele ervaring te creëren</string>
+
+    <!-- Sound Settings -->
+    <string name="sound_title">Geluid</string>
+    <string name="audio_settings_title">Geluidsinstellingen</string>
+    <string name="audio_settings_summary">Verbeter uw geluidskwaliteit met Dolby Sound EQ en 360 Reality Audio Upmix voor een opmerkelijke en meeslepende audioafspeelervaring</string>
+
+    <!-- Charging Settings -->
+    <string name="charging_title">Opladen</string>
+    <string name="charger_settings_title">Batterijverzorging</string>
+    <string name="charger_settings_summary">Optimaliseer de levensduur van de batterij door het maximale oplaadpercentage aan te passen en andere oplaadinstellingen te verfijnen</string>
+
+    <!-- USB Section | External Monitor -->
+    <string name="usb_title">USB</string>
+    <string name="usb_em_title">Externe Monitor</string>
+    <string name="usb_em_summary">Schakel de app Externe Monitor in om de instellingen van de externe camera aan te passen en gebruik het scherm van uw Xperia als een betrouwbare en nauwkeurige zoeker voor het vastleggen van levendige, levensechte kleuren</string>
+
+    <!-- USB Audio Output -->
+    <string name="usba_settings_title">Externe Audio-Uitvoer</string>
+    <string name="usba_settings_summary">Pas het volume van de media, tijdens gesprekken of de microfoon aan wanneer u geluid via de USB-poort naar een extern apparaat uitvoert</string>
+
+    <!-- DSM (DualShock/Sense Manager) -->
+    <string name="gaming_title">Gamen</string>
+    <string name="dsm_settings_title">Draadloze Controller voor PS5 en PS4</string>
+    <string name="dsm_settings_summary">Sluit uw PlayStation©-controllers aan op uw Xperia-apparaat om ze te gebruiken voor gaming</string>
+</resources>

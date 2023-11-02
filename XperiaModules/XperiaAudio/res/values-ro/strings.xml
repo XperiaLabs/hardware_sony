@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">Audio Xperia</string>
+
+    <!-- Audio Settings -->
+    <string name="audio_menu_title">Setări Audio</string>
+    <string name="audio_menu_header">Calitatea Sunetului</string>
+    <string name="dolby_setting_header">Dolby Sound</string>
+    <string name="dolby_setting_summary">Ajustați setările Dolby pentru a experienţă un sunet captivant, multidimensional, care vă va învăluie, dând viață filmelor, muzicii și jocurilor</string>
+    <string name="dirac_title">Motor de Audio DIRAC</string>
+    <string name="dirac_summary">Motorul de Audio DIRAC optimizează calitatea sunetului prin îmbunătățirea clarității, echilibrului, preciziei spațiale și îmbunătățește experiența audio, permițându-vă să alegeți dintre mai multe presetări pentru căști dumneavoastra</string>
+    <string name="threesixtyupmix_settings_title">360 Upmix</string>
+    <string name="threesixtyupmix_settings_summary">Cu tehnologia 360 Reality Audio Upmix (360 Upmix) al lui Sony, vă puteți bucura de sunet spațial și captivant cu surse stereo</string>
+    <string name="effectpriority_title">Prioritatea Efectelor</string>
+    <string name="effectpriority_summary">Aplicația 360 Upmix întotdeauna va avea prioritate față de celelalte efecte pe care le-ați activat (fie oricare dintre celelalte setări de pe acest ecran cu 360 Upmix sau doar 360 Upmix în sine) pentru sunetul media al aplicațiilor.</string>
+    <string name="audio_settings_footer">În timpul redării conținutului audio cu îmbunătățiri de sunet, informațiile conținutului vor avea prioritate față de setările de pe acest ecran. Conținutul de înaltă rezoluție poate fi redat și atunci când îmbunătățirile de sunet sunt dezactivate.\n\n\n\nDespre Audio Spatial\nPentru a activa funcția 360 Reality Audio, activați Sunet Spațial.\nToate setările de pe acest ecran suportă Audio Spatial.</string>
+</resources>

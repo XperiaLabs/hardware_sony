@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">Carregador Xperia</string>
+
+    <!-- Battery Care -->
+    <string name="advanced_charger_title">Gerir Carga de Bateria</string>
+    <string name="charger_setting_main_enable_title">Usar Gerir Carga de Bateria</string>
+    <string name="device_charging_enable_title">Pausar Carga</string>
+    <string name="device_charging_enable_summary">Desativar a pausa de carregamento alimentará os sistemas telefônicos diretamente, em vez de carregar a bateria.\nIsso reduz o estresse térmico, ajudando a manter o desempenho dos jogos e a manter a bateria saudável por mais tempo.</string>
+    <string name="device_charging_control_title">Limite de Carga</string>
+    <string name="charger_setting_explained">Se a funcionalidade Gestão de Bateria estiver ativa, o aparelho vai começar a carregar apenas perante os seguintes requesitos:\n 1. A carga estiver ativa ao selecionar \"Pausar Carga\".\n 2. A percentagem de bateria atual for inferior ao limite de carga definido.\n\n\nO carregamento pára quando uma percentagem específica é alcançada para aumentar a duração da bateria.\nDefinir esse limite para 80% proporciona resultados ainda melhores.</string>
+
+    <!-- H.S (Heat Suppression) Power Control QS Tile -->
+    <string name="charger_qs_tile_title">Pausar Carga</string>
+</resources>

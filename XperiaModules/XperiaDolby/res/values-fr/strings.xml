@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">Xperia Dolby</string>
+
+    <!-- Dolby Sound -->
+    <string name="dolby_title">Dolby Sound</string>
+    <string name="dolby_summary">Dolby Sound crée une expérience audio incroyable avec un son multidimensionnel qui circule tout autour de vous</string>
+    <string name="dolby_enable">Utiliser le Dolby Sound</string>
+    <string name="dolby_profile_title">Profils Sonores</string>
+    <string name="dolby_preset">Préréglage de L\'égaliseur</string>
+    <string name="dolby_off">Désactivé</string>
+    <string name="dolby_on">Sur</string>
+    <string name="dolby_low">Faible</string>
+    <string name="dolby_medium">Moyen</string>
+    <string name="dolby_high">Haut</string>
+    <string name="dolby_max">Max.</string>
+    <string name="dolby_unknown">Inconnu</string>
+    <string name="dolby_on_with_profile">Le (%1$s)</string>
+    <string name="dolby_category_settings">Paramètres</string>
+    <string name="dolby_bass_enhancer">Amplificateur de Basses</string>
+    <string name="dolby_dialogue_enhancer">Renforceur de Dialogue</string>
+    <string name="dolby_virtualizer">Virtualiseur Surround</string>
+    <string name="dolby_volume_leveler">Niveleur de Volume</string>
+    <string name="dolby_connect_headphones">Connecter des Écouteurs</string>
+    <string name="dolby_reset_profile">Réinitialiser les paramètres par défaut</string>
+    <string name="dolby_reset_profile_toast">Réinitialisation réussie des paramètres du profil %1$s</string>
+    <string name="dolby_advanced_settings">Réglages Avancés</string>
+    <string name="dolby_advanced_settings_footer">Ajustez manuellement l’égaliseur ou d’autres paramètres</string>
+
+    <!-- Dolby Sound - Sound Profiles -->
+    <string name="dolby_profile_dynamic">Dynamique</string>
+    <string name="dolby_profile_video">Film</string>
+    <string name="dolby_profile_music">Musique</string>
+    <string name="dolby_profile_vocal">Voix</string>
+
+    <!-- Dolby Sound - Equalizer Presets -->
+    <string name="dolby_preset_default">Défaut</string>
+    <string name="dolby_preset_rock">Rocher</string>
+    <string name="dolby_preset_jazz">Jazz</string>
+    <string name="dolby_preset_pop">Populaire</string>
+    <string name="dolby_preset_classical">Classique</string>
+    <string name="dolby_preset_hiphop">Hip hop</string>
+    <string name="dolby_preset_blues">Bleus</string>
+    <string name="dolby_preset_electronic">Électronique</string>
+    <string name="dolby_preset_metal">Métal</string>
+</resources>

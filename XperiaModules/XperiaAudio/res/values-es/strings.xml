@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">Audio Xperia</string>
+
+    <!-- Audio Settings -->
+    <string name="audio_menu_title">Ajustes de Audio</string>
+    <string name="audio_menu_header">Calidad del Sonido</string>
+    <string name="dolby_setting_header">Dolby Sound</string>
+    <string name="dolby_setting_summary">Ajusta los ajustes de Dolby Sound para experimentar un sonido inmersivo y multidimensional que te envuelve y da vida a películas, música y juegos</string>
+    <string name="dirac_title">Motor de Audio DIRAC</string>
+    <string name="dirac_summary">El Motor de Audio DIRAC optimiza la calidad del sonido al mejorar la claridad, el equilibrio y la precisión espacial y mejora su experiencia de audio al permitirle elegir entre múltiples ajustes preestablecidos de auriculares</string>
+    <string name="threesixtyupmix_settings_title">360 Upmix</string>
+    <string name="threesixtyupmix_settings_summary">Con la tecnología de 360 Reality Audio Upmix (360 Upmix) de Sony, puedes disfrutar de un sonido espacial e inmersivo con fuentes estéreo regulares</string>
+    <string name="effectpriority_title">Prioridad de Efectos</string>
+    <string name="effectpriority_summary">La aplicación 360 Upmix siempre tendrá prioridad sobre los otros efectos que haya activado (ya sea cualquiera de las otras configuraciones en esta pantalla con 360 Upmix o solo 360 Upmix por sí solo) para el sonido multimedia de las aplicaciones.</string>
+    <string name="audio_settings_footer">Mientras se reproduce contenido de audio con mejoras de sonido, la información del contenido tendrá prioridad sobre la configuración de esta pantalla. El contenido de alta resolución también se puede reproducir correctamente cuando las mejoras de sonido están desactivadas.\n\n\n\nAcerca de Spatial Audio\ nPara habilitar la función 360 Reality Audio, active Suono Spaziale.\nTodas las configuraciones en esta pantalla admiten Audio Spaziale.</string>
+</resources>

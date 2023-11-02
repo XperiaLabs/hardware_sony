@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">Ecran Xperia</string>
+
+    <!-- Display Settings -->
+    <string name="display_settings_title">Setari pentru Calitatea Imaginii</string>
+    <string name="display_cm_header">Gama de Culori și de Contrast</string>
+    <string name="display_cm_enable">Mod Creator</string>
+    <string name="display_cm_summary">Oferă o reproducere fidelă a viziunii intenționate a creatorului prin afișaj de înaltă definiție și procesare a imaginii special dezvoltată, care este compatibilă cu gama de culori BT.2020 și culoarea pe 10 biți a specificației HDR.</string>
+    <string name="display_settings_footer">Aplicațiile care suportă o gamă largă de culori vor fi afișate automat în culorile lor originale.\n\n\nVideoclipurile HDR în modul ecran complet vor fi afișate automat în Mod Creator.</string>
+</resources>

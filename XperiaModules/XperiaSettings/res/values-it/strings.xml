@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name" translatable="true">Xperia Impostazioni</string>
+    <string name="app_summary" translatable="true">Configurare le impostazioni specifiche del dispositivo</string>
+
+    <!-- Display Settings -->
+    <string name="display_title">Schermo</string>
+    <string name="display_settings_title">Impostazioni della qualità dell\'immagine</string>
+    <string name="display_settings_summary">Scegli tra colori brillanti o una riproduzione fedele della visione prevista dal creatore per creare un\'esperienza visiva indimenticabile</string>
+
+    <!-- Sound Settings -->
+    <string name="sound_title">Suono</string>
+    <string name="audio_settings_title">Impostazioni Audio</string>
+    <string name="audio_settings_summary">Migliora la qualità del tuo suono con Dolby Sound EQ e 360 Reality Audio Upmix per un\'esperienza di riproduzione audio straordinaria e coinvolgente</string>
+
+    <!-- Charging Settings -->
+    <string name="charging_title">In Carica</string>
+    <string name="charger_settings_title">Cura Della Batteria</string>
+    <string name="charger_settings_summary">Ottimizza la longevità della batteria regolando la percentuale di ricarica massima e perfezionando altre impostazioni di ricarica</string>
+
+    <!-- USB Section | External Monitor -->
+    <string name="usb_title">USB</string>
+    <string name="usb_em_title">Monitor Esterno</string>
+    <string name="usb_em_summary">Abilita l\'app Monitor Esterno per personalizzare le impostazioni della fotocamera esterna e utilizzare il display del tuo Xperia come un mirino affidabile e preciso per catturare colori vibranti e realistici</string>
+
+    <!-- USB Audio Output -->
+    <string name="usba_settings_title">Uscita Audio Esterna</string>
+    <string name="usba_settings_summary">Regola il volume audio dei contenuti multimediali, delle chiamate o del microfono quando trasmetti l\'audio a un dispositivo esterno tramite la porta USB</string>
+
+    <!-- DSM (DualShock/Sense Manager) -->
+    <string name="gaming_title">Gioco</string>
+    <string name="dsm_settings_title">Controller Wireless per PS5 e PS4</string>
+    <string name="dsm_settings_summary">Collega i controller PlayStation© al tuo dispositivo Xperia per utilizzarli per giocare</string>
+</resources>

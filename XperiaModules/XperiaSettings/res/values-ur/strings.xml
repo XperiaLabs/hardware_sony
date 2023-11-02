@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name" translatable="true">کی ترتیبات Xperia</string>
+    <string name="app_summary" translatable="true">آلہ کی مخصوص ترتیبات کو ترتیب دیں۔</string>
+
+    <!-- Display Settings -->
+    <string name="display_title">ڈسپلے</string>
+    <string name="display_settings_title">تصویری معیار کی ترتیبات</string>
+    <string name="display_settings_summary">ایک ناقابل فراموش بصری تجربہ تخلیق کرنے کے لیے شاندار رنگوں یا تخلیق کار کے مطلوبہ وژن کی وفادار تولید میں سے انتخاب کریں۔</string>
+
+    <!-- Sound Settings -->
+    <string name="sound_title">آواز</string>
+    <string name="audio_settings_title">آڈیو کی ترتیبات</string>
+    <string name="audio_settings_summary">شاندار اور عمیق آڈیو پلے بیک کے تجربے کے لیے Dolby Sound EQ اور 360 Reality Audio Upmix کے ساتھ اپنی آواز کے معیار کو بلند کریں۔</string>
+
+    <!-- Charging Settings -->
+    <string name="charging_title">چارج ہو رہا ہے۔</string>
+    <string name="charger_settings_title">بیٹری کی دیکھ بھال</string>
+    <string name="charger_settings_summary">زیادہ سے زیادہ چارجنگ فیصد کو ایڈجسٹ کرکے اور چارجنگ کی دیگر ترتیبات کو ٹھیک کرکے بیٹری کی لمبی عمر کو بہتر بنائیں</string>
+
+    <!-- USB Section | External Monitor -->
+    <string name="usb_title">یو ایس بی</string>
+    <string name="usb_em_title">بیرونی مانیٹر</string>
+    <string name="usb_em_summary">بیرونی کیمرہ کی ترتیبات کو اپنی مرضی کے مطابق بنانے کے لیے External Monitor ایپ کو فعال کریں اور متحرک، حقیقی سے زندگی کے رنگوں کو کیپچر کرنے کے لیے اپنے Xperia کے ڈسپلے کو ایک قابل اعتماد اور درست ویو فائنڈر کے طور پر استعمال کریں۔</string>
+
+    <!-- USB Audio Output -->
+    <string name="usba_settings_title">بیرونی آڈیو آؤٹ پٹ</string>
+    <string name="usba_settings_summary">USB پورٹ کے ذریعے کسی بیرونی ڈیوائس پر آواز نکالتے وقت میڈیا، ان کال یا مائیکروفون کے آڈیو والیوم کو ایڈجسٹ کریں۔</string>
+
+    <!-- DSM (DualShock/Sense Manager) -->
+    <string name="gaming_title">گیمنگ</string>
+    <string name="dsm_settings_title">PS5 کے لیے وائرلیس کنٹرولر اور PS4</string>
+    <string name="dsm_settings_summary">اپنے PlayStation© کنٹرولرز کو گیمنگ کے لیے استعمال کرنے کے لیے اپنے Xperia ڈیوائس سے جوڑیں۔</string>
+</resources>

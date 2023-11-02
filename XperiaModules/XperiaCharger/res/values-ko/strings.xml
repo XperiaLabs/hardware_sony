@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">엑스페리아 충전기</string>
+
+    <!-- Battery Care -->
+    <string name="advanced_charger_title">배터리 관리</string>
+    <string name="charger_setting_main_enable_title">배터리 관리 사용</string>
+    <string name="device_charging_enable_title">충전 일시 중지</string>
+    <string name="device_charging_enable_summary">충전 일시 중지를 끄면 배터리를 충전하는 대신 전화 시스템에 직접 전원을 공급합니다.n\이는 열 스트레스를 줄여 게임 성능을 유지하고 배터리를 더 오랫동안 건강하게 유지하는 데 도움이 됩니다.</string>
+    <string name="device_charging_control_title">충전 한도</string>
+    <string name="charger_setting_explained">배터리 관리가 활성화된 경우 다음 요구 사항이 충족된 경우에만 장치 충전이 시작됩니다.\n 1. \"충전 일시 중지\"를 전환하여 충전을 활성화했습니다.\n 2. 장치의 배터리 수준이 낮습니다. 설정한 충전 한도보다 높습니다.\n\n\n배터리 수명을 늘리기 위해 지정된 비율에 도달하면 충전이 중지됩니다.\n한도를 80%로 설정하면 더 나은 결과를 얻을 수 있습니다.</string>
+
+    <!-- H.S (Heat Suppression) Power Control QS Tile -->
+    <string name="charger_qs_tile_title">충전 일시 중지</string>
+</resources>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Xperia DIRAC</string>
+ 
+    <!-- DIRAC AE - Settings Page -->
+    <string name="dirac_settings_title">DIRAC 音频引擎</string>
+    <string name="dirac_enable">使用狄拉克</string>
+    <string name="dirac_headset_title">耳机预设</string>
+    <string name="dirac_preset_title">均衡器预设</string>
+    <string name="dirac_hifi_title">声音保真度</string>
+    <string name="dirac_hifi_enable_title">高保真模式</string>
+    <string name="dirac_hifi_summary">降低整体噪音和高音量失真，同时提高音频质量</string>
+ 
+    <!-- DIRAC AE - Headset Types (Xiaomi Headsets) -->
+    <string name="dirac_headset_earbuds">小米耳机</string>
+    <string name="dirac_headset_in_ear_2013">小米入耳式耳机 (2013)</string>
+    <string name="dirac_headset_piston_1">米活塞-1</string>
+    <string name="dirac_headset_general_inear">普通入耳式</string>
+    <string name="dirac_headset_piston_basic">基础版</string>
+    <string name="dirac_headset_piston_2">米活塞-2</string>
+    <string name="dirac_headset_piston_standard">标准版</string>
+    <string name="dirac_headset_piston_youth">青春版</string>
+    <string name="dirac_headset_piston_color">彩色版</string>
+    <string name="dirac_headset_in_ear">小米入耳式</string>
+    <string name="dirac_headset_capsule">米胶囊</string>
+    <string name="dirac_headset_in_ear_pro">小米入耳式Pro</string>
+    <string name="dirac_headset_comfort">米舒适</string>
+    <string name="dirac_headset_reduction_noise">小米降噪Type-C</string>
+    <string name="dirac_headset_cancelling">小米降噪3.5mm</string>
+    <string name="dirac_headset_half_in_ear">小米半入耳式</string>
+    <string name="dirac_headset_in_ear2">小米入耳式耳机2</string>
+    <string name="dirac_headset_earphone_basic">小米耳机基础款</string>
+    <string name="dirac_headset_earphone">小米耳机</string>
+    <string name="dirac_headset_ear_four">小米四单元耳机</string>
+    <string name="dirac_headset_piston_typec">小米入耳式耳机（Type-C）</string>
+    <string name="dirac_headset_bluetooth_collar">小米蓝牙颈带</string>
+    <string name="dirac_headset_bluetooth_linefree">小米蓝牙耳机</string>
+    <string name="dirac_headset_redmi_earphones">红米耳机</string>
+ 
+    <!-- DIRAC AE - Equalizer Presets -->
+    <string name="dirac_preset_default">默认</string>
+    <string name="dirac_preset_rock">岩石</string>
+    <string name="dirac_preset_jazz">爵士乐</string>
+    <string name="dirac_preset_pop">流行音乐</string>
+    <string name="dirac_preset_classical">古典</string>
+    <string name="dirac_preset_hiphop">嘻哈</string>
+    <string name="dirac_preset_blues">布鲁斯</string>
+    <string name="dirac_preset_electronic">电子的</string>
+    <string name="dirac_preset_country">国家</string>
+    <string name="dirac_preset_dance">舞蹈</string>
+    <string name="dirac_preset_metal">金属</string>
+    <string name="dirac_preset_bass_booster">低音助推器</string>
+    <string name="dirac_preset_live">居住</string>
+    <string name="dirac_preset_balanced">均衡</string>
+    <string name="dirac_preset_bass_reduction">低音减弱</string>
+    <string name="dirac_preset_treble_reduction">高音降低</string>
+    <string name="dirac_preset_soft_bass">柔和的低音</string>
+    <string name="dirac_preset_soft_treble">柔和的高音</string>
+ 
+    <!-- DIRAC AE - QS Tile -->
+    <string name="dirac_qs_tile_title">迪拉克音频</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">کی ترتیبات Xperia</string>
+
+    <!-- Audio Settings -->
+    <string name="audio_menu_title">آڈیو کی ترتیبات</string>
+    <string name="audio_menu_header">آواز کا معیار</string>
+    <string name="dolby_setting_header">ڈولبی ساؤنڈ</string>
+    <string name="dolby_setting_summary">ڈولبی ساؤنڈ سیٹنگز کو ایڈجسٹ کریں تاکہ عمیق، کثیر جہتی آواز کا تجربہ کریں جو آپ کو اپنے لپیٹ میں لے لے، فلموں، موسیقی اور گیمز کو زندہ کرے</string>
+    <string name="dirac_title">ڈیریک آڈیو انجن</string>
+    <string name="dirac_summary">DIRAC آڈیو انجن صدا کی معیار کو بہتر بنانے کے لیے وضاحت، توازن، فضائی درستگی میں اضافہ کرتا ہے اور آپ کو مخصوص ہیڈسیٹ پریسٹس منتخب کرنے کی اجازت دیتا ہے۔</string>
+    <string name="threesixtyupmix_settings_title">360 اپمکس</string>
+    <string name="threesixtyupmix_settings_summary">Sony کی 360 Reality Audio Upmix (360 اپمکس) ٹیکنالوجی کے ساتھ، آپ باقاعدہ سٹیریو ذرائع کے ساتھ مقامی اور عمیق آواز سے لطف اندوز ہو سکتے ہیں</string>
+    <string name="effectpriority_title">اثر کی ترجیح</string>
+    <string name="effectpriority_summary">ایپس کی میڈیا ساؤنڈ کے لیے 360 اپمکس ایپ ہمیشہ ان دیگر اثرات پر ترجیح دے گی جو آپ نے آن کیے ہیں (یا تو اس اسکرین پر موجود دیگر ترتیبات میں سے کوئی بھی 360 Upmix کے ساتھ یا صرف 360 Upmix خود سے)۔</string>
+    <string name="audio_settings_footer">آواز کی بہتری کے ساتھ آڈیو مواد کو چلانے کے دوران، مواد کی معلومات کو اس اسکرین پر موجود ترتیبات پر فوقیت حاصل ہوگی۔ اعلی ریزولیوشن والے مواد کو اس وقت بھی صحیح طریقے سے چلایا جا سکتا ہے جب صوتی اضافہ بند ہو۔\n\n\n\nاسپیشل آڈیو کے بارے میں\n360 ریئلٹی آڈیو فیچر کو فعال کرنے کے لیے، اسپیشل ساؤنڈ کو آن کریں۔\nاس اسکرین پر موجود تمام سیٹنگز مقامی آڈیو کو سپورٹ کرتی ہیں۔</string>
+</resources>

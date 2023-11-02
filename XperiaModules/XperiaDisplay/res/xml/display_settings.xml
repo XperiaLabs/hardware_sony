@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:title="@string/display_settings_title">
+
+    <com.android.settingslib.widget.LayoutPreference
+        android:key="creator_mode_preview"
+        android:layout="@layout/creator_mode_preview"
+        android:selectable="false" />
+
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="@string/display_cm_header">
+
+        <SwitchPreference app:key="switchCreatorMode"
+                          app:iconSpaceReserved="false"
+                          app:title="@string/display_cm_enable"
+                          app:summary="@string/display_cm_summary"
+        />
+    </PreferenceCategory>
+
+    <com.android.settingslib.widget.FooterPreference
+        android:key="display_setting_footer"
+        android:title="@string/display_settings_footer"
+        android:selectable="false" />
+
+</PreferenceScreen>

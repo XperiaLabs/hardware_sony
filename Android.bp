@@ -1,2 +1,20 @@
+//
+// Copyright (C) 2023 XperiaLabs Project
+//
+// SPDX-License-Identifier: Apache-2.0
+//
+
 soong_namespace {
+}
+
+android_app_import {
+	name: "XperiaTSRA",
+	owner: "sony",
+	apk: "XperiaModules/XperiaTSRA/XperiaTSRA.apk",
+	certificate: "platform",
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	system_ext_specific: true,
 }

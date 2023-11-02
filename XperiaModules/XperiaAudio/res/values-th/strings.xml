@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">การตั้งค่าเอ็กซ์พีเรีย</string>
+
+    <!-- Audio Settings -->
+    <string name="audio_menu_title">เอ็กซ์พีเรียออดิโอ</string>
+    <string name="audio_menu_header">คุณภาพเสียง</string>
+    <string name="dolby_setting_header">Dolby Sound</string>
+    <string name="dolby_setting_summary">ปรับการตั้งค่าเสียง Dolby เพื่อสัมผัสประสบการณ์เสียงที่ดื่มด่ำและหลากหลายมิติที่ล้อมรอบคุณ ทำให้ภาพยนตร์ เพลง และเกมมีชีวิตชีวา</string>
+    <string name="dirac_title">กลไกเสียง DIRAC</string>
+    <string name="dirac_summary">กลไกเสียง DIRAC ปรับคุณภาพเสียงให้เหมาะสมโดยปรับปรุงความชัดเจน ความสมดุล และความแม่นยำของพื้นที่ และปรับปรุงประสบการณ์เสียงของคุณโดยให้คุณเลือกจากการตั้งค่าชุดหูฟังล่วงหน้าหลายรายการ</string>
+    <string name="threesixtyupmix_settings_title">360 อัพมิกซ์</string>
+    <string name="threesixtyupmix_settings_summary">ด้วยเทคโนโลยี อัพมิกซ์เสียง 360 Reality (360 อัพมิกซ์) ของ Sony คุณสามารถเพลิดเพลินกับเสียงเชิงพื้นที่และดื่มด่ำด้วยแหล่งเสียงสเตอริโอทั่วไป</string>
+    <string name="effectpriority_title">ลำดับความสำคัญของเอฟเฟกต์</string>
+    <string name="effectpriority_summary">แอป 360 Upmix จะมีลำดับความสำคัญเหนือเอฟเฟกต์อื่นๆ ที่คุณเปิดไว้เสมอ (ไม่ว่าจะเป็นการตั้งค่าอื่นๆ บนหน้าจอนี้ด้วย 360 Upmix หรือเพียง 360 Upmix เพียงอย่างเดียว) สำหรับเสียงสื่อของแอป</string>
+    <string name="audio_settings_footer">ขณะเล่นเนื้อหาเสียงที่มีการปรับปรุงเสียง ข้อมูลของเนื้อหาจะมีความสำคัญเหนือกว่าการตั้งค่าบนหน้าจอนี้ เนื้อหาที่มีความละเอียดสูงยังสามารถเล่นได้อย่างเหมาะสมเมื่อปิดการปรับปรุงเสียง\n\n\n\nเกี่ยวกับเสียงเชิงพื้นที่\nหากต้องการเปิดใช้ฟีเจอร์ 360 Reality Audio ให้เปิดเสียงเชิงพื้นที่\nการตั้งค่าทั้งหมดบนหน้าจอนี้รองรับเสียงเชิงพื้นที่</string>
+</resources>

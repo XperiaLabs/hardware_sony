@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name" translatable="true">การตั้งค่าเอ็กซ์พีเรีย</string>
+    <string name="app_summary" translatable="true">กำหนดการตั้งค่าเฉพาะอุปกรณ์</string>
+
+    <!-- Display Settings -->
+    <string name="display_title">แสดง</string>
+    <string name="display_settings_title">การตั้งค่าคุณภาพของภาพ</string>
+    <string name="display_settings_summary">เลือกระหว่างสีสันที่สดใสหรือการจำลองวิสัยทัศน์ของผู้สร้างสรรค์อย่างสมจริง เพื่อสร้างประสบการณ์การรับชมภาพอันน่าจดจำ</string>
+
+    <!-- Sound Settings -->
+    <string name="sound_title">เสียง</string>
+    <string name="audio_settings_title">การตั้งค่าเสียง</string>
+    <string name="audio_settings_summary">ยกระดับคุณภาพเสียงของคุณด้วย Dolby Sound EQ และ 360 Reality Audio Upmix เพื่อประสบการณ์การเล่นเสียงที่น่าทึ่งและดื่มด่ำ</string>
+
+    <!-- Charging Settings -->
+    <string name="charging_title">กำลังชาร์จ</string>
+    <string name="charger_settings_title">การดูแลแบตเตอรี่</string>
+    <string name="charger_settings_summary">เพิ่มประสิทธิภาพอายุการใช้งานแบตเตอรี่โดยการปรับเปอร์เซ็นต์การชาร์จสูงสุดและปรับแต่งการตั้งค่าการชาร์จอื่นๆ อย่างละเอียด</string>
+
+    <!-- USB Section | External Monitor -->
+    <string name="usb_title">ยูเอสบี</string>
+    <string name="usb_em_title">จอภาพภายนอก</string>
+    <string name="usb_em_summary">เปิดใช้งานแอปจอภาพภายนอกเพื่อปรับแต่งการตั้งค่ากล้องภายนอก และใช้จอแสดงผลของ Xperia เป็นช่องมองภาพที่เชื่อถือได้และแม่นยำ เพื่อจับภาพสีสันที่สดใสและสมจริง</string>
+
+    <!-- USB Audio Output -->
+    <string name="usba_settings_title">เอาต์พุตเสียงภายนอก</string>
+    <string name="usba_settings_summary">ปรับระดับเสียงของสื่อ การโทร หรือไมโครโฟนเมื่อส่งสัญญาณเสียงไปยังอุปกรณ์ภายนอกผ่านพอร์ต USB</string>
+
+    <!-- DSM (DualShock/Sense Manager) -->
+    <string name="gaming_title">การเล่นเกม</string>
+    <string name="dsm_settings_title">คอนโทรลเลอร์ไร้สายสำหรับ PS5 และ PS4</string>
+    <string name="dsm_settings_summary">เชื่อมต่อคอนโทรลเลอร์ PlayStation© ของคุณกับอุปกรณ์ Xperia เพื่อใช้เล่นเกม</string>
+</resources>

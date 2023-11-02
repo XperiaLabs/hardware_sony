@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">Xperia зарядное устройство</string>
+
+    <!-- Battery Care -->
+    <string name="advanced_charger_title">Уход за аккумулятором</string>
+    <string name="charger_setting_main_enable_title">Используйте уход за аккумулятором</string>
+    <string name="device_charging_enable_title">Пауза зарядки</string>
+    <string name="device_charging_enable_summary">Отключение функции «Пауза зарядки» обеспечит питание телефонных систем напрямую, а не зарядку аккумулятора.\nЭто снижает термическую нагрузку, помогает поддерживать производительность в играх и дольше сохранять работоспособность аккумулятора.</string>
+    <string name="device_charging_control_title">Лимит зарядки</string>
+    <string name="charger_setting_explained">Если функция «Уход за аккумулятором» включена, устройство начнет заряжаться только при выполнении следующих требований:\n 1. Вы включили зарядку, переключив «Пауза зарядки».\n 2. Уровень заряда батареи вашего устройства ниже. превышает установленный вами предел зарядки.\n\n\nЗарядка прекращается при достижении указанного процента, чтобы продлить срок службы аккумулятора.\nУстановка этого предела на 80% дает еще лучшие результаты.</string>
+
+    <!-- H.S (Heat Suppression) Power Control QS Tile -->
+    <string name="charger_qs_tile_title">Пауза зарядки</string>
+</resources>

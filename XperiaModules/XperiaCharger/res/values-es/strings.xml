@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">Cargador Xperia</string>
+
+    <!-- Battery Care -->
+    <string name="advanced_charger_title">Cuidado de la Batería</string>
+    <string name="charger_setting_main_enable_title">Usar Cuidado de la Batería</string>
+    <string name="device_charging_enable_title">Pausar Carga</string>
+    <string name="device_charging_enable_summary">Desactivar la Carga en Pausa alimentará directamente los sistemas del teléfono en lugar de cargar la batería. Esto reduce el estrés térmico, lo que ayuda a mantener el rendimiento del juego y a preservar la salud de la batería durante más tiempo.</string>
+    <string name="device_charging_control_title">Límite de Carga</string>
+    <string name="charger_setting_explained">Si el Cuidado de la Batería está habilitado, el dispositivo comenzará a cargarse solo cuando se cumplan los siguientes requisitos:\n1. Has habilitado la carga al activar "Pausar la Carga".\n2. El nivel de batería de tu dispositivo sea inferior al límite de carga que has establecido.\n\nLa carga se detiene cuando se alcanza un porcentaje especificado para aumentar la vida útil de la batería. Establecer ese límite en 80% produce resultados aún mejores.</string>
+
+    <!-- H.S (Heat Suppression) Power Control QS Tile -->
+    <string name="charger_qs_tile_title">Pausar Carga</string>
+</resources>

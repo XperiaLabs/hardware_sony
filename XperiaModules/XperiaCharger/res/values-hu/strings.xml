@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">Xperia Töltő</string>
+
+    <!-- Battery Care -->
+    <string name="advanced_charger_title">Az Akkumulátor Gondozása</string>
+    <string name="charger_setting_main_enable_title">Használja a Az Akkumulátor Gondozása alkalmazást</string>
+    <string name="device_charging_enable_title">Töltés Szüneteltetése</string>
+    <string name="device_charging_enable_summary">A töltés szüneteltetése kikapcsolja a telefonrendszert közvetlenül, az akkumulátor töltése helyett.\nEz csökkenti a hőterhelést, segít megőrizni a játékteljesítményt, és hosszabb ideig megőrzi az akkumulátor egészségét.</string>
+    <string name="device_charging_control_title">Töltési Korlát</string>
+    <string name="charger_setting_explained">Ha a Az Akkumulátor Gondozása engedélyezve van, az eszköz csak akkor kezdi meg a töltést, ha a következő követelmények teljesülnek:\n 1. Engedélyezte a töltést a \"Töltés Szüneteltetése\" váltással.\n 2. Az eszköz akkumulátorának töltöttsége alacsonyabb. mint az Ön által beállított töltési korlát.\n\n\nA töltés leáll, ha elér egy bizonyos százalékot, hogy növelje az akkumulátor élettartamát.\nHa ezt a határt 80%-ra állítja, még jobb eredményeket érhet el.</string>
+
+    <!-- H.S (Heat Suppression) Power Control QS Tile -->
+    <string name="charger_qs_tile_title">Töltés Szüneteltetése</string>
+</resources>

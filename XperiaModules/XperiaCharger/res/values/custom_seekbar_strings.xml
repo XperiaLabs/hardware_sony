@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
+  <string name="custom_seekbar_default_value">Default</string>
+  <string name="custom_seekbar_default_value_to_set">The default charging percentage is 100%.\nLong tap the button to reset to the default charging percentage</string>
+  <string name="custom_seekbar_default_value_is_set">The charging percentage has been reset</string>
+</resources>

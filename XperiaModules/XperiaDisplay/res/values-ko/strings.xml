@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">엑스페리아 디스플레이</string>
+
+    <!-- Display Settings -->
+    <string name="display_settings_title">이미지 품질 설정</string>
+    <string name="display_cm_enable">크리에이터 모드</string>
+    <string name="display_cm_header">색 영역 및 대비</string>
+    <string name="display_cm_summary">BT.2020 색영역 및 HDR 사양의 10비트 컬러와 호환되는 고해상도 디스플레이 및 특별히 개발된 이미지 처리를 통해 창조자의 의도한 비전을 충실히 재현합니다.</string>
+    <string name="display_settings_footer">넓은 색 영역을 지원하는 앱은 자동으로 원래 색상으로 표시됩니다.\n\n\n전체 화면 모드의 HDR 동영상은 크리에이터 모드를 통해 자동으로 표시됩니다.</string>
+</resources>

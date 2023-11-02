@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">Xperia Display</string>
+
+    <!-- Display Settings -->
+    <string name="display_settings_title">Image Quality Settings</string>
+    <string name="display_cm_header">Color Gamut and Contrast</string>
+    <string name="display_cm_enable">Creator Mode</string>
+    <string name="display_cm_summary">Provide a faithful reproduction of the creator\'s intended vision through high definition display and specially developed image processing compatible with BT.2020 color gamut and 10-bit color of HDR specification.</string>
+    <string name="display_settings_footer">Apps that support a wide color gamut will automatically be shown in their original colors.\n\n\nHDR videos in fullscreen mode will be automatically displayed with Creator Mode.</string>
+
+    <!-- Creator Mode Preview Images -->
+    <string name="creator_mode_content_description" translatable="false">Color Preview</string>
+
+    <!-- Creator Mode Previous Image Button -->
+    <string name="creator_mode_previous" translatable="false">Previous</string>
+
+    <!-- Creator Mode Next Image Button -->
+    <string name="creator_mode_next" translatable="false">Next</string>
+</resources>

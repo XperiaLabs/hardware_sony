@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">Wyświetlacz Xperia</string>
+
+    <!-- Display Settings -->
+    <string name="display_settings_title">Ustawienia Jakości Obrazu</string>
+    <string name="display_cm_header">Gama Kolorów i Kontrast</string>
+    <string name="display_cm_enable">Tryb Twórcy</string>
+    <string name="display_cm_summary">Zapewnia wierne odwzorowanie zamierzonej wizji twórcy dzięki wyświetlaczowi o wysokiej rozdzielczości i specjalnie opracowanemu przetwarzaniu obrazu zgodnemu z gamą kolorów BT.2020 i 10-bitową specyfikacją HDR.</string>
+    <string name="display_settings_footer">Aplikacje obsługujące szeroką gamę kolorów będą automatycznie wyświetlane w oryginalnych kolorach.\n\n\nFilmy HDR w trybie pełnoekranowym będą automatycznie wyświetlane w trybie twórcy.</string>
+</resources>

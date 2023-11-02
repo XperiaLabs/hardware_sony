@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2023 XperiaLabs Project
+ * SPDX-License-Identifier: Apache-2.0
+-->
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:title="@string/app_name">
+
+    <PreferenceCategory
+        android:key="display"
+        android:title="@string/display_title">
+
+        <Preference
+            android:key="display_settings"
+            android:icon="@drawable/ic_display_settings"
+            android:title="@string/display_settings_title"
+            android:summary="@string/display_settings_summary">
+            <intent
+                android:action="android.intent.action.MAIN"
+                android:targetPackage="com.xperia.settings.display"
+                android:targetClass="com.xperia.settings.display.DisplaySettingsActivity" />
+        </Preference>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="sound"
+        android:title="@string/sound_title">
+
+        <Preference
+            android:key="audio_settings"
+            android:icon="@drawable/ic_audio_settings"
+            android:title="@string/audio_settings_title"
+            android:summary="@string/audio_settings_summary">
+            <intent
+                android:action="android.intent.action.MAIN"
+                android:targetPackage="com.xperia.settings.audio"
+                android:targetClass="com.xperia.settings.audio.AudioSettingsActivity" />
+        </Preference>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="charger"
+        android:title="@string/charging_title">
+
+        <Preference
+            android:key="charging_settings"
+            android:icon="@drawable/ic_battery_care"
+            android:title="@string/charger_settings_title"
+            android:summary="@string/charger_settings_summary">
+            <intent
+                android:action="android.intent.action.MAIN"
+                android:targetPackage="com.xperia.settings.charger"
+                android:targetClass="com.xperia.settings.charger.ChargerSettingsActivity" />
+        </Preference>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="usb"
+        android:title="@string/usb_title">
+
+       <Preference
+            android:key="usb_extmon_settings"
+            android:icon="@drawable/ic_external_monitor"
+            android:title="@string/usb_em_title"
+            android:summary="@string/usb_em_summary"
+            android:persistent="false">
+            <intent
+                 android:targetPackage="com.sonymobile.extmonitorapp"
+                 android:targetClass="com.sonymobile.extmonitorapp.settings.SettingsAppLauncherActivity" />
+        </Preference>
+
+        <Preference
+            android:key="usb_audio_settings"
+            android:icon="@drawable/ic_usb_audio"
+            android:title="@string/usba_settings_title"
+            android:summary="@string/usba_settings_summary"
+            android:persistent="false">
+            <intent
+                android:targetPackage="jp.co.sony.mc.usbextoutaudio"
+                android:targetClass="jp.co.sony.mc.usbextoutaudio.AudioSettingsActivity" />
+        </Preference>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="gaming"
+        android:title="@string/gaming_title">
+
+       <Preference
+            android:key="dsm_settings"
+            android:icon="@drawable/ic_dualshock_manager"
+            android:title="@string/dsm_settings_title"
+            android:summary="@string/dsm_settings_summary"
+            android:persistent="false">
+            <intent
+                 android:targetPackage="com.sonymobile.dualshockmanager"
+                 android:targetClass="com.sonymobile.dualshockmanager.Ds4SetUpActivity" />
+        </Preference>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

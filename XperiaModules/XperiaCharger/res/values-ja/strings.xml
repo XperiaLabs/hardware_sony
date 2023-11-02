@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">エクスペリア 充電器</string>
+
+    <!-- Battery Care -->
+    <string name="advanced_charger_title">バッテリーのケア</string>
+    <string name="charger_setting_main_enable_title">バッテリーケアを使用する</string>
+    <string name="device_charging_enable_title">充電を一時停止する</string>
+    <string name="device_charging_enable_summary">充電の一時停止をオフにすると、バッテリーを充電するのではなく、電話システムに直接電力が供給されます。\nこれにより熱ストレスが軽減され、ゲームのパフォーマンスを維持し、バッテリーをより長く健全に保つことができます。</string>
+    <string name="device_charging_control_title">充電制限</string>
+    <string name="charger_setting_explained">バッテリー ケアが有効になっている場合、デバイスは次の要件が満たされた場合にのみ充電を開始します:\n 1. 「充電を一時停止する」を切り替えて充電を有効にしました。\n 2. デバイスのバッテリー レベルが低下しています。設定した充電制限を超えています。\n\n\nバッテリーの寿命を延ばすために、指定されたパーセントに達すると充電が停止します。\nその制限を 80% に設定すると、さらに良い結果が得られます。</string>
+	
+    <!-- H.S (Heat Suppression) Power Control QS Tile -->
+    <string name="charger_qs_tile_title">充電を一時停止する</string>
+</resources>

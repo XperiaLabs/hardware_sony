@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources> 
+    <string name="app_name" translatable="true">Xperia-Inställningar</string>
+    <string name="app_summary" translatable="true">Konfigurera enhetsspecifika inställningar</string>
+
+    <!-- Display Settings --> 
+    <string name="display_title">Visa</string>
+    <string name="display_settings_title">Inställningar för Bildkvalitet</string>
+    <string name="display_settings_summary">Välj mellan lysande färger eller en trogen återgivning av skaparens avsedda vision för att skapa en oförglömlig visuell upplevelse</string>
+
+    <!-- Sound Settings --> 
+    <string name="sound_title">Ljud</string>
+    <string name="audio_settings_title">Ljudinställningar</string>
+    <string name="audio_settings_summary">Höj din ljudkvalitet med Dolby Sound EQ och 360 Reality Audio Upmix för en anmärkningsvärd och uppslukande ljuduppspelningsupplevelse</string>
+
+    <!-- Charging Settings --> 
+    <string name="charging_title">Laddar</string>
+    <string name="charger_settings_title">Batterivård</string>
+    <string name="charger_settings_summary">Optimera batteriets livslängd genom att justera den maximala laddningsprocenten och finjustera andra laddningsinställningar</string>
+
+    <!-- USB Section | External Monitor --> 
+    <string name="usb_title">USB</string>
+    <string name="usb_em_title">Extern Monitor</string>
+    <string name="usb_em_summary">Aktivera External Monitor-appen för att anpassa externa kamerainställningar och använda din Xperias skärm som en pålitlig och exakt sökare för att fånga livfulla, verklighetstrogna färger</string>
+
+    <!-- USB Audio Output --> 
+    <string name="usba_settings_title">Extern ljudutgång</string>
+    <string name="usba_settings_summary">Justera media, in-call eller mikrofonens ljudvolym när ljud matas ut till en extern enhet via USB-porten</string>
+
+    <!-- DSM (DualShock/Sense Manager) --> 
+    <string name="gaming_title">Spelande</string>
+    <string name="dsm_settings_title">Trådlös handkontroll för PS5 &amp; PS4</string>
+    <string name="dsm_settings_summary">Anslut dina PlayStation©-kontroller till din Xperia-enhet för att använda dem för spel</string>
+</resources>

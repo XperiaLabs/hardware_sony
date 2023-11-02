@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">Xperia Charger</string>
+
+    <!-- Battery Care -->
+    <string name="charger_settings_title">Battery Care</string>
+    <string name="charger_bc_enable">Use Battery Care</string>
+    <string name="charger_hs_enable">Pause Charging</string>
+    <string name="charger_hs_summary">Turning Pause Charging off will power the phone systems directly rather than charging the battery.\nThis reduces thermal stress, helping to maintain gaming performance and keep your battery healthy for longer.</string>
+    <string name="charger_bc_limit">Charging Limit</string>
+    <string name="charger_settings_footer">If Battery Care is enabled, the device will start charging only when the following requirements have been met:\n 1. You have enabled charging by toggling \"Pause Charging\" on.\n 2. Your device\'s battery level is lower than the charging limit you\'ve set.\n\n\nCharging stops when a specified percentage is reached to increase the lifespan of the battery.\nSetting that limit to 80% yields even better results.</string>
+
+    <!-- H.S (Heat Suppression) Power Control QS Tile -->
+    <string name="charger_hs_tile">Pause Charging</string>
+</resources>

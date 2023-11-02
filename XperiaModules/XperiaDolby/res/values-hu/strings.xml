@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">Xperia Dolby</string>
+
+    <!-- Dolby Sound -->
+    <string name="dolby_title">Dolby Sound</string>
+    <string name="dolby_summary">A Dolby Sound lenyűgöző hangélményt biztosít többdimenziós hangzással, amely körbeáramlik</string>
+    <string name="dolby_enable">Dolby Sound Használata</string>
+    <string name="dolby_profile_title">Hangprofilok</string>
+    <string name="dolby_preset">Equalizer Előre Beállított</string>
+    <string name="dolby_off">Ki</string>
+    <string name="dolby_on">Tovább</string>
+    <string name="dolby_low">Alacsony</string>
+    <string name="dolby_medium">Közepes</string>
+    <string name="dolby_high">Magas</string>
+    <string name="dolby_max">Max</string>
+    <string name="dolby_unknown">Ismeretlen</string>
+    <string name="dolby_on_with_profile">Tovább (%1$s)</string>
+    <string name="dolby_category_settings">Beállítások</string>
+    <string name="dolby_bass_enhancer">Mélyhangkiemelő</string>
+    <string name="dolby_dialogue_enhancer">Párbeszéd Fokozó</string>
+    <string name="dolby_virtualizer">Surround Virtualizer</string>
+    <string name="dolby_volume_leveler">Hangerőszabályzó</string>
+    <string name="dolby_connect_headphones">Csatlakoztassa a Fejhallgatót</string>
+    <string name="dolby_reset_profile">Állítsa vissza az alapértelmezett értékeket</string>
+    <string name="dolby_reset_profile_toast">A beállítások sikeresen alaphelyzetbe állítva az %1$s profilhoz</string>
+    <string name="dolby_advanced_settings">További Beállítások</string>
+    <string name="dolby_advanced_settings_footer">Állítsa be kézzel az ekvalizert vagy más beállításokat</string>
+
+    <!-- Dolby Sound - Sound Profiles -->
+    <string name="dolby_profile_dynamic">Dinamikus</string>
+    <string name="dolby_profile_video">Film</string>
+    <string name="dolby_profile_music">Zene</string>
+    <string name="dolby_profile_vocal">Hang</string>
+
+    <!-- Dolby Sound - Equalizer Presets -->
+    <string name="dolby_preset_default">Alapértelmezett</string>
+    <string name="dolby_preset_rock">Szikla</string>
+    <string name="dolby_preset_jazz">Dzsessz</string>
+    <string name="dolby_preset_pop">Pop</string>
+    <string name="dolby_preset_classical">Klasszikus</string>
+    <string name="dolby_preset_hiphop">Hip Hop</string>
+    <string name="dolby_preset_blues">Blues</string>
+    <string name="dolby_preset_electronic">Elektronikus</string>
+    <string name="dolby_preset_metal">Fém</string>
+</resources>

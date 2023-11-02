@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">Chargeur Xperia</string>
+
+    <!-- Battery Care -->
+    <string name="advanced_charger_title">Entretien de la Batterie</string>
+    <string name="charger_setting_main_enable_title">Utiliser l\'entretien de la batterie</string>
+    <string name="device_charging_enable_title">Suspendre le Chargement</string>
+    <string name="device_charging_enable_summary">La désactivation de la mise en pause de la charge alimentera directement les systèmes du téléphone plutôt que de charger la batterie. Cela réduit le stress thermique, ce qui contribue à maintenir les performances de jeu et à préserver la santé de la batterie sur le long terme.</string>
+    <string name="device_charging_control_title">Limite de Charge</string>
+    <string name="charger_setting_explained">Si la gestion de la batterie est activée, l\'appareil ne commencera à se charger que lorsque les conditions suivantes auront été remplies:\n 1. Vous avez activé la charge en basculant sur \"Suspendre le Chargement\".\n 2. Le niveau de charge de la batterie de votre appareil est inférieur à la limite de charge que vous avez définie.\n\n\nLa charge s\'arrête lorsqu\'un pourcentage spécifié est atteint pour augmenter la durée de vie de la batterie.\nFixer cette limite à 80 % donne des résultats encore meilleurs.</string>
+
+    <!-- H.S (Heat Suppression) Power Control QS Tile -->
+    <string name="charger_qs_tile_title">Suspendre le Chargement</string>
+</resources>

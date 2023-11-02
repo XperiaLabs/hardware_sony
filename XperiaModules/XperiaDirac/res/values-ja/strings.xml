@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Xperia ディラック</string>
+
+    <!-- DIRAC AE - Settings Page -->
+    <string name="dirac_settings_title">DIRAC オーディオ エンジン</string>
+    <string name="dirac_enable">DIRACを使用する</string>
+    <string name="dirac_headset_title">ヘッドセットのプリセット</string>
+    <string name="dirac_preset_title">イコライザープリセット</string>
+    <string name="dirac_hifi_title">サウンドの忠実度</string>
+    <string name="dirac_hifi_enable_title">Hi-Fiモード</string>
+    <string name="dirac_hifi_summary">オーディオ品質を向上させながら、全体的なノイズと大音量の歪みを低減します。</string>
+
+    <!-- DIRAC AE - Headset Types (Xiaomi Headsets) -->
+    <string name="dirac_headset_earbuds">Mi イヤホン</string>
+    <string name="dirac_headset_in_ear_2013">ミ・イン・イヤー (2013)</string>
+    <string name="dirac_headset_piston_1">ミピストン-1</string>
+    <string name="dirac_headset_general_inear">一般的なインイヤー型</string>
+    <string name="dirac_headset_piston_basic">基本版</string>
+    <string name="dirac_headset_piston_2">ミピストン-2</string>
+    <string name="dirac_headset_piston_standard">標準版</string>
+    <string name="dirac_headset_piston_youth">青少年編</string>
+    <string name="dirac_headset_piston_color">カラー版</string>
+    <string name="dirac_headset_in_ear">ミ・インイヤー</string>
+    <string name="dirac_headset_capsule">ミカプセル</string>
+    <string name="dirac_headset_in_ear_pro">Mi インイヤー プロ</string>
+    <string name="dirac_headset_comfort">ミ コンフォート</string>
+    <string name="dirac_headset_reduction_noise">Mi ノイズキャンセリング Type-C</string>
+    <string name="dirac_headset_cancelling">Mi ノイズキャンセリング 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi ハーフインイヤー</string>
+    <string name="dirac_headset_in_ear2">Mi インイヤー 2</string>
+    <string name="dirac_headset_earphone_basic">Mi イヤホン ベーシック</string>
+    <string name="dirac_headset_earphone">Miイヤホン</string>
+    <string name="dirac_headset_ear_four">Mi クアッドドライバーイヤホン</string>
+    <string name="dirac_headset_piston_typec">Mi インイヤーヘッドフォン (Type-C)</string>
+    <string name="dirac_headset_bluetooth_collar">Mi Bluetooth ネックバンド</string>
+    <string name="dirac_headset_bluetooth_linefree">Mi Bluetooth イヤホン</string>
+    <string name="dirac_headset_redmi_earphones">Redmiイヤホン</string>
+
+    <!-- DIRAC AE - Equalizer Presets -->
+    <string name="dirac_preset_default">デフォルト</string>
+    <string name="dirac_preset_rock">ロック</string>
+    <string name="dirac_preset_jazz">ジャズ</string>
+    <string name="dirac_preset_pop">ポップ</string>
+    <string name="dirac_preset_classical">クラシック</string>
+    <string name="dirac_preset_hiphop">ヒップホップ</string>
+    <string name="dirac_preset_blues">ブルース</string>
+    <string name="dirac_preset_electronic">電子</string>
+    <string name="dirac_preset_country">国</string>
+    <string name="dirac_preset_dance">ダンス</string>
+    <string name="dirac_preset_metal">金属</string>
+    <string name="dirac_preset_bass_booster">バスブースター</string>
+    <string name="dirac_preset_live">ライブ</string>
+    <string name="dirac_preset_balanced">バランスの取れた</string>
+    <string name="dirac_preset_bass_reduction">低音リダクション</string>
+    <string name="dirac_preset_treble_reduction">高音の低減</string>
+    <string name="dirac_preset_soft_bass">ソフトな低音</string>
+    <string name="dirac_preset_soft_treble">ソフトトレブル</string>
+
+    <!-- DIRAC AE - QS Tile -->
+    <string name="dirac_qs_tile_title">ディラックオーディオ</string>
+</resources>

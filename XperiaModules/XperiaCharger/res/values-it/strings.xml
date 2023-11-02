@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">Caricabatterie Xperia</string>
+
+    <!-- Battery Care -->
+    <string name="advanced_charger_title">Cura Della Batteria</string>
+    <string name="charger_setting_main_enable_title">Utilizzare la Cura Della Batteria</string>
+    <string name="device_charging_enable_title">Mettere in Pausa la Ricarica</string>
+    <string name="device_charging_enable_summary">La disattivazione della pausa di ricarica alimenterà direttamente i sistemi telefonici anziché caricare la batteria.\nIn questo modo si riduce lo stress termico, contribuendo a mantenere le prestazioni di gioco e a mantenere la batteria in buone condizioni più a lungo.</string>
+    <string name="device_charging_control_title">Limite di Ricarica</string>
+    <string name="charger_setting_explained">Se la funzione Battery Care è abilitata, il dispositivo inizierà a caricarsi solo quando saranno soddisfatti i seguenti requisiti:\n 1. Hai abilitato la ricarica selezionando \"Mettere in Pausa la Ricarica\".\n 2. Il livello della batteria del tuo dispositivo è basso rispetto al limite di ricarica impostato.\n\n\nLa ricarica si interrompe quando viene raggiunta una percentuale specifica per aumentare la durata della batteria.\nImpostando tale limite all\'80%si ottengono risultati ancora migliori.</string>
+
+    <!-- H.S (Heat Suppression) Power Control QS Tile -->
+    <string name="charger_qs_tile_title">Mettere in Pausa la Ricarica</string>
+</resources>

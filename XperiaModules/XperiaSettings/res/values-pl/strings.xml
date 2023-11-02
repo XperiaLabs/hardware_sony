@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name" translatable="true">Ustawienia Xperii</string>
+    <string name="app_summary" translatable="true">Skonfiguruj ustawienia specyficzne dla urządzenia</string>
+
+    <!-- Display Settings -->
+    <string name="display_title">Wyświetlacz</string>
+    <string name="display_settings_title">Ustawienia Jakości Obrazu</string>
+    <string name="display_settings_summary">Wybierz pomiędzy jaskrawymi kolorami lub wierną reprodukcją zamierzonej wizji twórcy, aby stworzyć niezapomniane wrażenia wizualne</string>
+
+    <!-- Sound Settings -->
+    <string name="sound_title">Dźwięk</string>
+    <string name="audio_settings_title">Ustawienia Dźwięku</string>
+    <string name="audio_settings_summary">Podnieś jakość dźwięku dzięki Dolby Sound EQ i 360 Reality Audio Upmix, aby uzyskać niezwykłe i wciągające wrażenia z odtwarzania dźwięku</string>
+
+    <!-- Charging Settings -->
+    <string name="charging_title">Ładowanie</string>
+    <string name="charger_settings_title">Pielęgnacja Baterii</string>
+    <string name="charger_settings_summary">Zoptymalizuj żywotność baterii, dostosowując maksymalny procent ładowania i dostosowując inne ustawienia ładowania</string>
+
+    <!-- USB Section | External Monitor -->
+    <string name="usb_title">USB</string>
+    <string name="usb_em_title">Monitor Zewnętrzny</string>
+    <string name="usb_em_summary">Włącz aplikację Monitor Zewnętrzny, aby dostosować ustawienia aparatu zewnętrznego i wykorzystać wyświetlacz swojej Xperii jako niezawodny i dokładny wizjer do rejestrowania żywych, realistycznych kolorów</string>
+
+    <!-- USB Audio Output -->
+    <string name="usba_settings_title">Zewnętrzne Wyjście Audio</string>
+    <string name="usba_settings_summary">Dostosuj głośność multimediów, połączenia lub głośności mikrofonu podczas przesyłania dźwięku do urządzenia zewnętrznego przez port USB</string>
+
+    <!-- DSM (DualShock/Sense Manager) -->
+    <string name="gaming_title">Hazard</string>
+    <string name="dsm_settings_title">Kontroler Bezprzewodowy do PS5 i PS4</string>
+    <string name="dsm_settings_summary">Podłącz kontrolery PlayStation© do urządzenia Xperia, aby używać ich do grania</string>
+</resources>

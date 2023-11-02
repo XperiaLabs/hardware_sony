@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">एक्सपीरिया डिस्प्ले</string>
+
+    <!-- Display Settings -->
+    <string name="display_settings_title">छवि गुणवत्ता सेटिंग्स</string>
+    <string name="display_cm_header">रंग सरगम ​​और कंट्रास्ट</string>
+    <string name="display_cm_enable">निर्माता मोड</string>
+    <string name="display_cm_summary">बीटी.2020 रंग सरगम ​​और एचडीआर विनिर्देश के 10-बिट रंग के साथ संगत उच्च परिभाषा डिस्प्ले और विशेष रूप से विकसित छवि प्रसंस्करण के माध्यम से निर्माता की इच्छित दृष्टि का एक विश्वसनीय पुनरुत्पादन प्रदान करें।</string>
+    <string name="display_settings_footer">विस्तृत रंग सरगम ​​का समर्थन करने वाले ऐप्स स्वचालित रूप से अपने मूल रंगों में दिखाए जाएंगे।\n\n\nफुलस्क्रीन मोड में एचडीआर वीडियो क्रिएटर मोड के साथ स्वचालित रूप से प्रदर्शित होंगे।</string>
+</resources>

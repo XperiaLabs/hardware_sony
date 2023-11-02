@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name" translatable="true">Xperia 设置</string>
+    <string name="app_summary" translatable="true">配置设备特定设置</string>
+
+    <!-- Display Settings -->
+    <string name="display_title">显示</string>
+    <string name="display_settings_title">图像质量设置</string>
+    <string name="display_settings_summary">选择绚丽的色彩或忠实再现创作者的预期愿景，打造令人难忘的视觉体验</string>
+
+    <!-- Sound Settings -->
+    <string name="sound_title">声音</string>
+    <string name="audio_settings_title">音频设置</string>
+    <string name="audio_settings_summary">通过 Dolby Sound EQ 和 360 Reality Audio Upmix 提升音质，带来非凡的沉浸式音频播放体验</string>
+
+    <!-- Charging Settings -->
+    <string name="charging_title">充电</string>
+    <string name="charger_settings_title">电池保养</string>
+    <string name="charger_settings_summary">通过调整最大充电百分比和微调其他充电设置来延长电池寿命</string>
+
+    <!-- USB Section | External Monitor -->
+    <string name="usb_title">USB</string>
+    <string name="usb_em_title">外接显示器</string>
+    <string name="usb_em_summary">启用外部监视器应用程序来自定义外部摄像头设置，并将 Xperia 显示屏用作可靠且准确的取景器，以捕捉鲜艳、逼真的色彩</string>
+
+    <!-- USB Audio Output -->
+    <string name="usba_settings_title">外部音频输出</string>
+    <string name="usba_settings_summary">通过 USB 端口将声音输出到外部设备时调整媒体、通话或麦克风的音量</string>
+
+    <!-- DSM (DualShock/Sense Manager) -->
+    <string name="gaming_title">游戏</string>
+    <string name="dsm_settings_title">适用于 PS4 和 PS5 的无线控制器</string>
+    <string name="dsm_settings_summary">将 PlayStation© 控制器连接到 Xperia 设备以利用它们进行游戏</string>
+</resources>

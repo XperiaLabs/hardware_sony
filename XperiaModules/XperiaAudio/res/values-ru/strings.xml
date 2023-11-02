@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">Xperia Аудио</string>
+
+    <!-- Audio Settings -->
+    <string name="audio_menu_title">Настройки звука</string>
+    <string name="audio_menu_header">Качество звука</string>
+    <string name="dolby_setting_header">Dolby Sound</string>
+    <string name="dolby_setting_summary">Настройте параметры Dolby Sound, чтобы ощутить захватывающий многомерный звук, который окутывает вас, оживляя фильмы, музыку и игры</string>
+    <string name="dirac_title">Аудио-движок DIRAC</string>
+    <string name="dirac_summary">Аудио движок DIRAC оптимизирует качество звука, улучшая четкость, баланс, пространственную точность и улучшает ваше аудио восприятие, позволяя выбирать из нескольких предустановок наушников</string>
+    <string name="threesixtyupmix_settings_title">360 Апмикс</string>
+    <string name="threesixtyupmix_settings_summary">Благодаря технологии 360 Звуковое пространство (360 Апмикс) от Sony вы можете наслаждаться пространственным и захватывающим звуком с обычными стереоисточниками</string>
+    <string name="effectpriority_title">Приоритет эффекта</string>
+    <string name="effectpriority_summary">Приложение 360 Апмикс всегда будет иметь приоритет над другими включенными вами эффектами (любыми другими настройками на этом экране с 360 Upmix или просто 360 Upmix) для мультимедийного звука приложений.</string>
+    <string name="audio_settings_footer">При воспроизведении аудиоконтента с улучшением звука информация о контенте будет иметь приоритет над настройками на этом экране. Контент с высоким разрешением также может воспроизводиться правильно, если звуковые улучшения отключены.\n\n\n\nО пространственном звуке\nЧтобы включить функцию 360 Reality Audio, включите пространственный звук.\nВсе настройки на этом экране поддерживают пространственный звук.</string>
+</resources>

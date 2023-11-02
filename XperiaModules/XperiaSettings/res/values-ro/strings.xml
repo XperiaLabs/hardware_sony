@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name" translatable="true">Setări Xperia</string>
+    <string name="app_summary" translatable="true">Configurați setările specifice dispozitivului</string>
+
+    <!-- Display Settings -->
+    <string name="display_title">Afişaz</string>
+    <string name="display_settings_title">Setari pentru Calitatea Imaginii</string>
+    <string name="display_settings_summary">Alegeți între culori strălucitoare sau o reproducere fidelă a viziunii creatorului pentru a crea o experiență vizuală de neuitat</string>
+
+    <!-- Sound Settings -->
+    <string name="sound_title">Sunet</string>
+    <string name="audio_settings_title">Setari Audio</string>
+    <string name="audio_settings_summary">Ridicați calitatea sunetului cu EQ-ul Dolby Sound și 360 Reality Audio Upmix pentru o experiență audio remarcabilă și captivantă</string>
+
+    <!-- Charging Settings -->
+    <string name="charging_title">Încărcare</string>
+    <string name="charger_settings_title">Îngrijirea Bateriei</string>
+    <string name="charger_settings_summary">Optimizați longevitatea bateriei prin ajustarea procentului maxim de încărcare și reglarea fină a altor setări de încărcare</string>
+
+    <!-- USB Section | External Monitor -->
+    <string name="usb_title">USB</string>
+    <string name="usb_em_title">Monitor Extern</string>
+    <string name="usb_em_summary">Activați aplicația Monitor Extern pentru a personaliza setările camerei externe și utilizați display-ul dispozitivului Xperia ca un vizor pentru a captura culori vibrante și realiste</string>
+
+    <!-- USB Audio Output -->
+    <string name="usba_settings_title">Ieșire Externă USB</string>
+    <string name="usba_settings_summary">Reglați volumul media, volumul apelului sau al microfonului atunci când redați sunet către un dispozitiv extern prin portul USB</string>
+
+    <!-- DSM (DualShock/Sense Manager) -->
+    <string name="gaming_title">Jocuri</string>
+    <string name="dsm_settings_title">Controler Wireless pentru PS5 și PS4</string>
+    <string name="dsm_settings_summary">Conectați controlere PlayStation© la dispozitivul dvs. Xperia pentru a le utiliza pentru jocuri mobile</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">Xperia Laddare</string>
+
+    <!-- Battery Care -->
+    <string name="advanced_charger_title">Batterivård</string>
+    <string name="charger_setting_main_enable_title">Använd Batterivård</string>
+    <string name="device_charging_enable_title">Pausa Laddning</string>
+    <string name="device_charging_enable_summary">Om du stänger av Paus Laddning strömförsörjs telefonsystemen direkt istället för att ladda batteriet.\nDetta minskar termisk stress, hjälper till att bibehålla spelprestanda och hålla batteriet friskt längre.</string>
+    <string name="device_charging_control_title">Laddningsgräns</string>
+    <string name="charger_setting_explained">Om Battery Care är aktiverat kommer enheten att börja ladda först när följande krav har uppfyllts:\n 1. Du har aktiverat laddning genom att växla mellan \"Pausa Laddning\".\n 2. Din enhets batterinivå är lägre än laddningsgränsen du har ställt in.\n\n\nLadningen avbryts när en angiven procentandel uppnås för att öka batteriets livslängd.\nAtt ställa in den gränsen till 80% ger ännu bättre resultat.</string>
+
+    <!-- H.S (Heat Suppression) Power Control QS Tile -->
+    <string name="charger_qs_tile_title">Pausa Laddning</string>
+</resources>

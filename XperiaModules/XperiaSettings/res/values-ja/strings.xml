@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name" translatable="true">Xperia の設定</string>
+    <string name="app_summary" translatable="true">デバイス固有の設定を構成する</string>
+	  
+    <!-- Display Settings -->
+    <string name="display_title">画面</string>
+    <string name="display_settings_title">画質設定</string>
+    <string name="display_settings_summary">鮮やかな色か、クリエイターの意図したビジョンを忠実に再現したものを選択して、忘れられない視覚体験を作成してください</string>
+	  
+    <!-- Sound Settings -->
+    <string name="sound_title">音</string>
+    <string name="audio_settings_title">オーディオ設定</string>
+    <string name="audio_settings_summary">ドルビー サウンド EQ と 360 リアリティ オーディオ アップミックスで音質を向上させ、驚くべき臨場感あふれるオーディオ再生体験を実現します。</string>
+	  
+    <!-- Charging Settings -->
+    <string name="charging_title">充電</string>
+    <string name="charger_settings_title">バッテリーのケア</string>
+    <string name="charger_settings_summary">最大充電率を調整し、その他の充電設定を微調整することで、バッテリーの寿命を最適化します。</string>
+	  
+    <!-- USB Section | External Monitor -->
+    <string name="usb_title">USB</string>
+    <string name="usb_em_title">外部モニター</string>
+    <string name="usb_em_summary">外部モニター アプリを有効にして外部カメラの設定をカスタマイズし、Xperia のディスプレイを信頼性が高く正確なビューファインダーとして利用して、鮮やかで実物に近い色を撮影します</string>
+	  
+    <!-- USB Audio Output -->
+    <string name="usba_settings_title">外部オーディオ出力</string>
+    <string name="usba_settings_summary">USB ポート経由で外部デバイスにサウンドを出力するときに、メディア、通話中、またはマイクのオーディオ音量を調整します</string>
+	  
+    <!-- DSM (DualShock/Sense Manager) -->
+    <string name="gaming_title">ゲーム</string>
+    <string name="dsm_settings_title">ワイヤレスコントローラーPS5およびPS4</string>
+    <string name="dsm_settings_summary">PlayStation© コントローラーを Xperia デバイスに接続してゲームに利用します</string>
+</resources>

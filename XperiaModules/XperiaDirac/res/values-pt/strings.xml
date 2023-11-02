@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Xperia DIRAC</string>
+
+    <!-- DIRAC AE - Settings Page -->
+    <string name="dirac_settings_title">Motor de Áudio DIRAC</string>
+    <string name="dirac_enable">Usar DIRAC</string>
+    <string name="dirac_headset_title">Predefinição de Fone de Ouvido</string>
+    <string name="dirac_preset_title">Predefinição do Equalizador</string>
+    <string name="dirac_hifi_title">Fidelidade de Som</string>
+    <string name="dirac_hifi_enable_title">Modo Hi-Fi</string>
+    <string name="dirac_hifi_summary">Diminua o ruído geral e a distorção de alto volume enquanto aumenta a qualidade do áudio</string>
+
+    <!-- DIRAC AE - Headset Types (Xiaomi Headsets) -->
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general_inear">General In-Ear</string>
+    <string name="dirac_headset_piston_basic">Basic Edition</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Standard Edition</string>
+    <string name="dirac_headset_piston_youth">Youth Edition</string>
+    <string name="dirac_headset_piston_color">Color Edition</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling Type-C</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+    <string name="dirac_headset_ear_four">Mi Quadruple Driver Earphones</string>
+    <string name="dirac_headset_piston_typec">Mi In-Ear Headphones (Type-C)</string>
+    <string name="dirac_headset_bluetooth_collar">Mi Bluetooth Neckband</string>
+    <string name="dirac_headset_bluetooth_linefree">Mi Bluetooth Earphones</string>
+    <string name="dirac_headset_redmi_earphones">Redmi Earphones</string>
+
+    <!-- DIRAC AE - Equalizer Presets -->
+    <string name="dirac_preset_default">Padrão</string>
+    <string name="dirac_preset_rock">Pedra</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Clássico</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Eletrônico</string>
+    <string name="dirac_preset_country">País</string>
+    <string name="dirac_preset_dance">Dança</string>
+    <string name="dirac_preset_metal">Metal</string>
+    <string name="dirac_preset_bass_booster">Reforço de Graves</string>
+    <string name="dirac_preset_live">Ao Vivo</string>
+    <string name="dirac_preset_balanced">Equilibrado</string>
+    <string name="dirac_preset_bass_reduction">Redução de Graves</string>
+    <string name="dirac_preset_treble_reduction">Redução de Agudos</string>
+    <string name="dirac_preset_soft_bass">Baixo suave</string>
+    <string name="dirac_preset_soft_treble">Agudos Suaves</string>
+
+    <!-- DIRAC AE - QS Tile -->
+    <string name="dirac_qs_tile_title">Áudio DIRAC</string>
+</resources>

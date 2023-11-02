@@ -1,0 +1,21 @@
+//
+// Copyright (C) 2023 XperiaLabs Project
+//
+// SPDX-License-Identifier: Apache-2.0
+//
+
+android_app {
+    name: "XperiaAudio",
+    certificate: "platform",
+    srcs: [
+        "src/**/*.java",
+        "src/**/*.kt",
+    ],
+    platform_apis: true,
+    privileged: true,
+    system_ext_specific: true,
+    static_libs: [
+        "androidx.core_core",
+        "SettingsLib",
+    ],
+}

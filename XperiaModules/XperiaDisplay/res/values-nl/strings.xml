@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 XperiaLabs Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- App Name -->
+    <string name="app_name" translatable="true">Xperia-Scherm</string>
+
+    <!-- Display Settings -->
+    <string name="display_settings_title">Instellingen voor Beeldkwaliteit</string>
+    <string name="display_cm_header">Kleurengamma en Contrast</string>
+    <string name="display_cm_enable">Creator Modus</string>
+    <string name="display_cm_summary">Zorg voor een getrouwe reproductie van de beoogde visie van de maker via high-definition weergave en speciaal ontwikkelde beeldverwerking die compatibel is met het BT.2020-kleurengamma en 10-bit kleur van HDR-specificatie.</string>
+    <string name="display_settings_footer">Apps die een breed kleurengamma ondersteunen, worden automatisch in hun originele kleuren weergegeven.\n\n\nHDR-videos op volledig scherm worden automatisch weergegeven in de Creator-modus.</string>
+</resources>
