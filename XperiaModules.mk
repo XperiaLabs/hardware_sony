@@ -19,6 +19,7 @@ TARGET_SUPPORTS_CREATOR_MODE ?= true
 TARGET_SUPPORTS_HIGH_REFRESH_RATE ?= true
 TARGET_SUPPORTS_SOUND_ENHANCEMENT ?= true
 TARGET_SUPPORTS_BATTERY_CARE ?= true
+TARGET_SUPPORTS_EUICC ?= true
 
 # Soong Namespace
 PRODUCT_SOONG_NAMESPACES += \
@@ -47,4 +48,8 @@ endif
 ifeq ($(TARGET_SUPPORTS_BATTERY_CARE),true)
 include hardware/sony/sepolicy/qti/SEPolicy.mk
 	PRODUCT_PACKAGES += XperiaCharger
+endif
+
+ifeq ($(TARGET_SUPPORTS_EUICC),true)
+	PRODUCT_PACKAGES += XperiaEuicc
 endif

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2023 The LineageOS Project
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="carrier_list_json" />
+    <string name="default_smdp_override" />
+    <string name="sim_slot_mappings_json">{ \"sim-slot-mappings\":[ { \"devices\":[\"XQ-CC54\",\"XQ-CC72\",\"XQ-CC44\",\"SO-52C\",\"8G443Y4\",\"SOG07\",\"UAK\",\"A202SO\"], \"esim-slot-ids\":[1], \"psim-slot-ids\":[0] } ] }</string>
+</resources>
