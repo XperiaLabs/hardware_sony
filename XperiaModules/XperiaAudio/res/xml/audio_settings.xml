@@ -28,8 +28,8 @@
             android:summary="@string/dirac_summary"
             android:persistent="false">
             <intent
-                android:targetPackage="com.xperia.dirac"
-                android:targetClass="com.xperia.dirac.dirac.DiracActivity" />
+                android:targetPackage="com.xperia.settings.dirac"
+                android:targetClass="com.xperia.settings.dirac.DiracActivity" />
         </Preference>
 
         <Preference
@@ -39,8 +39,8 @@
             android:summary="@string/threesixtyupmix_settings_summary"
             android:persistent="false">
             <intent
-                android:targetPackage="com.xperia.threesixtyra"
-                android:targetClass="lite.MainActivity" />
+                android:targetPackage="jp.co.sony.threesixtyra.lite"
+                android:targetClass="ru.g000sha256.bass_booster.MainActivity" />
         </Preference>
 
         <Preference

@@ -22,7 +22,7 @@
         android:persistent="false"
         android:dependency="charger_main_enable" />
 
-    <com.sony.xperia.battery.widgets.CustomSeekBarPreference
+    <com.xperia.settings.charger.widgets.CustomSeekBarPreference
         android:key="device_charging_control"
         android:title="@string/charger_bc_limit"
         android:defaultValue="@integer/charging_control_default"

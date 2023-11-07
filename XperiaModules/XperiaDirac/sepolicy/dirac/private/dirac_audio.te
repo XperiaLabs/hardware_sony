@@ -1,0 +1,6 @@
+type dirac_audio_app, domain;
+typeattribute dirac_audio_app mlstrustedsubject;
+
+app_domain(dirac_audio_app)
+
+allow dirac_audio_app audioserver_service:service_manager find;
