@@ -30,7 +30,7 @@
     <string name="dirac_hifi_summary">Уменьшите общий шум и искажения высокой громкости, одновременно повысив качество звука.</string>
 
     <!-- DIRAC AE - Headset Types (Xiaomi Headsets) -->
-    <string name="dirac_headset_earbuds">Ми наушники</string>
+    <string name="dirac_headset_default">По умолчанию</string>
     <string name="dirac_headset_in_ear_2013">Ми-вкладыши (2013)</string>
     <string name="dirac_headset_piston_1">Ми Поршень-1</string>
     <string name="dirac_headset_general_inear">Общие внутриканальные наушники</string>

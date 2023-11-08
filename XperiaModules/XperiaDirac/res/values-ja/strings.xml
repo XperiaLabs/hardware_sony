@@ -30,7 +30,7 @@
     <string name="dirac_hifi_summary">オーディオ品質を向上させながら、全体的なノイズと大音量の歪みを低減します。</string>
 
     <!-- DIRAC AE - Headset Types (Xiaomi Headsets) -->
-    <string name="dirac_headset_earbuds">Mi イヤホン</string>
+    <string name="dirac_headset_default">デフォルト</string>
     <string name="dirac_headset_in_ear_2013">ミ・イン・イヤー (2013)</string>
     <string name="dirac_headset_piston_1">ミピストン-1</string>
     <string name="dirac_headset_general_inear">一般的なインイヤー型</string>

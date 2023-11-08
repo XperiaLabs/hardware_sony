@@ -30,7 +30,7 @@
     <string name="dirac_hifi_summary">Verminder de algehele ruis en vervorming van het hoge volume en verhoog tegelijkertijd de audiokwaliteit</string>
 
     <!-- DIRAC AE - Headset Types (Xiaomi Headsets) -->
-    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_default">Standaard</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
     <string name="dirac_headset_piston_1">Mi Piston-1</string>
     <string name="dirac_headset_general_inear">General In-Ear</string>

@@ -30,7 +30,7 @@
     <string name="dirac_hifi_summary">ลดเสียงรบกวนโดยรวมและความเพี้ยนของระดับเสียงสูงพร้อมทั้งเพิ่มคุณภาพเสียง</string>
  
     <!-- DIRAC AE - Headset Types (Xiaomi Headsets) -->
-    <string name="dirac_headset_earbuds">Mi เอียร์บัดส์</string>
+    <string name="dirac_headset_default">ค่าเริ่มต้น</string>
     <string name="dirac_headset_in_ear_2013">Mi อินเอียร์ (2013)</string>
     <string name="dirac_headset_piston_1">มิ ลูกสูบ-1</string>
     <string name="dirac_headset_general_inear">หูฟังชนิดใส่ในหูทั่วไป</string>

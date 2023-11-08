@@ -30,7 +30,7 @@
     <string name="dirac_hifi_summary">降低整体噪音和高音量失真，同时提高音频质量</string>
  
     <!-- DIRAC AE - Headset Types (Xiaomi Headsets) -->
-    <string name="dirac_headset_earbuds">小米耳机</string>
+    <string name="dirac_headset_default">默认</string>
     <string name="dirac_headset_in_ear_2013">小米入耳式耳机 (2013)</string>
     <string name="dirac_headset_piston_1">米活塞-1</string>
     <string name="dirac_headset_general_inear">普通入耳式</string>

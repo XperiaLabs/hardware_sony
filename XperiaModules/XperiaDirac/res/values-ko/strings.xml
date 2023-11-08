@@ -30,7 +30,7 @@
     <string name="dirac_hifi_summary">오디오 품질을 높이면서 전반적인 소음과 높은 볼륨 왜곡을 줄입니다.</string>
 
     <!-- DIRAC AE - Headset Types (Xiaomi Headsets) -->
-    <string name="dirac_headset_earbuds">미 이어버드</string>
+    <string name="dirac_headset_default">기본</string>
     <string name="dirac_headset_in_ear_2013">미인이어 (2013)</string>
     <string name="dirac_headset_piston_1">미 피스톤-1</string>
     <string name="dirac_headset_general_inear">일반 인이어</string>

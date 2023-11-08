@@ -30,7 +30,7 @@
     <string name="dirac_hifi_summary">آڈیو کوالٹی میں اضافہ کرتے ہوئے مجموعی شور اور ہائی والیوم کی مسخ کو کم کریں۔</string>
 
     <!-- DIRAC AE - Headset Types (Xiaomi Headsets) -->
-    <string name="dirac_headset_earbuds">ایم آئی ایئربڈز</string>
+    <string name="dirac_headset_default">طے شدہ</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
     <string name="dirac_headset_piston_1">ایم آئی پسٹن -1</string>
     <string name="dirac_headset_general_inear">کان میں جنرل</string>
@@ -76,7 +76,7 @@
     <string name="dirac_preset_soft_treble">نرم ٹریبل</string>
 
     <!-- DIRAC AE - Scenario Presets -->
-    <string name="dirac_scenario_default">ڈیفالٹ</string>
+    <string name="dirac_scenario_default">طے شدہ</string>
     <string name="dirac_scenario_intelligent">اسمارٹ</string>
     <string name="dirac_scenario_music">موسیقی</string>
     <string name="dirac_scenario_video">ویڈیو</string>

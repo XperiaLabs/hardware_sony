@@ -19,7 +19,7 @@
 <resources>
     <!-- Values for DIRAC headset preferences -->
     <string-array name="dirac_headset_pref_entries" translatable="false">
-        <item>@string/dirac_headset_earbuds</item>
+        <item>@string/dirac_headset_default</item>
         <item>@string/dirac_headset_in_ear_2013</item>
         <item>@string/dirac_headset_piston_1</item>
         <item>@string/dirac_headset_piston_basic</item>

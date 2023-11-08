@@ -30,7 +30,7 @@
     <string name="dirac_hifi_summary">ऑडियो गुणवत्ता बढ़ाते हुए समग्र शोर और उच्च वॉल्यूम विरूपण को कम करें</string>
 
     <!-- DIRAC AE - Headset Types (Xiaomi Headsets) -->
-    <string name="dirac_headset_earbuds">एमआई ईयरबड्स</string>
+    <string name="dirac_headset_default">गलती करना</string>
     <string name="dirac_headset_in_ear_2013">एमआई इन-ईयर (2013)</string>
     <string name="dirac_headset_piston_1">एमआई पिस्टन-1</string>
     <string name="dirac_headset_general_inear">सामान्य कान में</string>
