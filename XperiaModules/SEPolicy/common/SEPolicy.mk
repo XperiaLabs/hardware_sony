@@ -1,0 +1,13 @@
+#
+# Copyright (C) 2023 XperiaLabs Project
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+
+XPERIA_MODULES_SEPOLICY_DIR := hardware/sony/XperiaModules/SEPolicy/common
+
+SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS += $(XPERIA_MODULES_SEPOLICY_DIR)/private
+
+SYSTEM_EXT_PUBLIC_SEPOLICY_DIRS += $(XPERIA_MODULES_SEPOLICY_DIR)/public
+
+BOARD_VENDOR_SEPOLICY_DIRS += $(XPERIA_MODULES_SEPOLICY_DIR)/vendor

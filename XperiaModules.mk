@@ -28,6 +28,9 @@ PRODUCT_SOONG_NAMESPACES += \
 # Main Module
 PRODUCT_PACKAGES += XperiaSettings
 
+# Common SEPolicy
+include hardware/sony/XperiaModules/SEPolicy/common/SEPolicy.mk
+
 # Submodules
 ifeq ($(TARGET_SUPPORTS_CREATOR_MODE),true)
 	PRODUCT_PACKAGES += XperiaDisplay
