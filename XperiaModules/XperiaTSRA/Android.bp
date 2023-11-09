@@ -1,0 +1,19 @@
+//
+// Copyright (C) 2023 XperiaLabs Project
+// Copyright (C) 2017-2021 The LineageOS Project
+//           (C) 2023 Paranoid Android
+//
+// SPDX-License-Identifier: Apache-2.0
+//
+
+android_app_import {
+	name: "XperiaTSRA",
+	owner: "sony",
+	apk: "XperiaTSRA.apk",
+	certificate: "platform",
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	system_ext_specific: true,
+}
