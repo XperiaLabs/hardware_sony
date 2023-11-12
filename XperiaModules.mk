@@ -44,7 +44,6 @@ ifeq ($(TARGET_SUPPORTS_SOUND_ENHANCEMENT),true)
 include hardware/sony/XperiaModules/XperiaDirac/sepolicy/dirac/SEPolicy.mk
 	PRODUCT_PACKAGES += \
 	XperiaAudio \
-        XperiaDirac \
 	XperiaTSRA
 endif
 

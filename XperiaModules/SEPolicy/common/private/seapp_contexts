@@ -1,9 +1,10 @@
 user=system seinfo=platform name=com.xperia.settings domain=devicesettings_app type=system_app_data_file
 user=system seinfo=platform name=com.xperia.settings.audio domain=devicesettings_app type=system_app_data_file
 user=system seinfo=platform name=com.xperia.settings.charger domain=devicesettings_app type=system_app_data_file
-user=system seinfo=platform name=com.xperia.settings.dirac domain=devicesettings_app type=system_app_data_file
 user=system seinfo=platform name=com.xperia.settings.display domain=devicesettings_app type=system_app_data_file
 user=system seinfo=platform name=com.xperia.settings.dolby domain=devicesettings_app type=system_app_data_file
 user=system seinfo=platform name=com.xperia.settings.switcher domain=devicesettings_app type=system_app_data_file
 user=system seinfo=platform name=jp.co.sony.threesixtyra.lite domain=devicesettings_app type=system_app_data_file
 user=system seinfo=platform name=com.xperia.euicc domain=devicesettings_app type=system_app_data_file
+# user=system seinfo=platform name=com.xperia.settings.dirac domain=devicesettings_app type=system_app_data_file
+
