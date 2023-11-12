@@ -49,7 +49,8 @@
         android:entryValues="@array/dirac_scenario_pref_values"
         android:defaultValue="0"
         android:title="@string/dirac_scenario_title"
-        android:summary="%s" />
+        android:summary="%s" 
+        android:icon="@drawable/ic_scenario"/>
 
     <PreferenceCategory
         android:key="dirac_hifi"
@@ -59,7 +60,8 @@
             android:key="dirac_hifi_pref"
             android:defaultValue="false"
             android:title="@string/dirac_hifi_enable_title"
-            android:summary="@string/dirac_hifi_summary"/>
+            android:summary="@string/dirac_hifi_summary"
+            android:icon="@drawable/ic_hifi"/>
 
     </PreferenceCategory>
 
