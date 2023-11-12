@@ -23,7 +23,7 @@
     <string name="dolby_title">Dolby Sound</string>
     <string name="dolby_summary">Dolby Sound crea una increíble experiencia de audio con sonido multidimensional que fluye a tu alrededor</string>
     <string name="dolby_enable">Usar Dolby Sound</string>
-    <string name="dolby_profile_title">Perfiles de Sonido</string>
+    <string name="dolby_profile_title">Perfile de Sonido</string>
     <string name="dolby_preset">Preajuste del Ecualizador</string>
     <string name="dolby_off">Apagado</string>
     <string name="dolby_on">En</string>

@@ -23,7 +23,7 @@
     <string name="dolby_title">Dolby Sound</string>
     <string name="dolby_summary">Dolby Sound создает потрясающее звуковое впечатление с многомерным звуком, который струится вокруг вас.</string>
     <string name="dolby_enable">Используйте Dolby Sound</string>
-    <string name="dolby_profile_title">Звуковые профили</string>
+    <string name="dolby_profile_title">Звуковой профиль</string>
     <string name="dolby_preset">Предустановка эквалайзера</string>
     <string name="dolby_off">Выключенный</string>
     <string name="dolby_on">На</string>

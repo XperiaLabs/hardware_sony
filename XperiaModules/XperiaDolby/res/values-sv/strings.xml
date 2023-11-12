@@ -23,7 +23,7 @@
     <string name="dolby_title">Dolby Sound</string>
     <string name="dolby_summary">Dolby Sound skapar en fantastisk ljudupplevelse med flerdimensionellt ljud som flödar runt omkring dig</string>
     <string name="dolby_enable">Använd Dolby Sound</string>
-    <string name="dolby_profile_title">Ljudprofiler</string>
+    <string name="dolby_profile_title">Ljudprofil</string>
     <string name="dolby_preset">Equalizer förinställd</string>
     <string name="dolby_off">Av</string>
     <string name="dolby_on">På</string>

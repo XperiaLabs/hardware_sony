@@ -23,7 +23,7 @@
     <string name="dolby_title">Dolby Sound</string>
     <string name="dolby_summary">A Dolby Sound lenyűgöző hangélményt biztosít többdimenziós hangzással, amely körbeáramlik</string>
     <string name="dolby_enable">Dolby Sound Használata</string>
-    <string name="dolby_profile_title">Hangprofilok</string>
+    <string name="dolby_profile_title">Hangprofil</string>
     <string name="dolby_preset">Equalizer Előre Beállított</string>
     <string name="dolby_off">Ki</string>
     <string name="dolby_on">Tovább</string>

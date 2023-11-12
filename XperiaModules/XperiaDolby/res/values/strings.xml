@@ -23,7 +23,7 @@
     <string name="dolby_title">Dolby Sound</string>
     <string name="dolby_summary">Dolby Sound creates an amazing audio experience with multidimensional sound that flows all around you</string>
     <string name="dolby_enable">Use Dolby Sound</string>
-    <string name="dolby_profile_title">Sound Profiles</string>
+    <string name="dolby_profile_title">Sound Profile</string>
     <string name="dolby_preset">Equalizer Preset</string>
     <string name="dolby_off">Off</string>
     <string name="dolby_on">On</string>

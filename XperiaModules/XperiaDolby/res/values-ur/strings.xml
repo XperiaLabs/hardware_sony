@@ -23,7 +23,7 @@
     <string name="dolby_title">Dolby Sound</string>
     <string name="dolby_summary">Dolby Sound کثیر جہتی آواز کے ساتھ ایک حیرت انگیز آڈیو تجربہ تخلیق کرتا ہے جو آپ کے چاروں طرف بہتی ہے۔</string>
     <string name="dolby_enable">ڈولبی ساؤنڈ استعمال کریں۔</string>
-    <string name="dolby_profile_title">ساؤنڈ پروفائلز</string>
+    <string name="dolby_profile_title">ساؤنڈ پروفائل</string>
     <string name="dolby_preset">ایکویلائزر پیش سیٹ</string>
     <string name="dolby_off">بند</string>
     <string name="dolby_on">پر</string>

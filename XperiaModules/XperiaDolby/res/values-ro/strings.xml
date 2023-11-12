@@ -23,7 +23,7 @@
     <string name="dolby_title">Dolby Sound</string>
     <string name="dolby_summary">Dolby Sound creează o experiență audio uimitoare cu un sunet multidimensional în jurul tău</string>
     <string name="dolby_enable">Utilizați Dolby Sound</string>
-    <string name="dolby_profile_title">Profiluri de Sunet</string>
+    <string name="dolby_profile_title">Profil de Sunet</string>
     <string name="dolby_preset">Preset Egalizator</string>
     <string name="dolby_off">Off</string>
     <string name="dolby_on">Pornit</string>

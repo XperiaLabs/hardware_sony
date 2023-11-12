@@ -23,7 +23,7 @@
     <string name="dolby_title">Dolby Sound</string>
     <string name="dolby_summary">Dolby Sound zorgt voor een geweldige audio-ervaring met multidimensionaal geluid dat overal om je heen stroomt</string>
     <string name="dolby_enable">Gebruik Dolby Sound</string>
-    <string name="dolby_profile_title">Geluidsprofielen</string>
+    <string name="dolby_profile_title">Geluidsprofiel</string>
     <string name="dolby_preset">Equalize Voorinstelling</string>
     <string name="dolby_off">Uit</string>
     <string name="dolby_on">Op</string>

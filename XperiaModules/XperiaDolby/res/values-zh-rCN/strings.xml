@@ -23,7 +23,7 @@
     <string name="dolby_title">杜比音效</string>
     <string name="dolby_summary">杜比音效 (Dolby Sound) 通过在您周围流动的多维声音打造令人惊叹的音频体验</string>
     <string name="dolby_enable">使用杜比音效</string>
-    <string name="dolby_profile_title">声音配置文件</string>
+    <string name="dolby_profile_title">声音轮廓</string>
     <string name="dolby_preset">均衡器预设</string>
     <string name="dolby_off">离开</string>
     <string name="dolby_on">在</string>
