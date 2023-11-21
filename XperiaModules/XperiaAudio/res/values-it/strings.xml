@@ -24,6 +24,8 @@
     <string name="audio_menu_header">Qualità del Suono</string>
     <string name="dolby_setting_header">Dolby Sound</string>
     <string name="dolby_setting_summary">Regola le impostazioni Dolby Sound per sperimentare un suono coinvolgente e multidimensionale che ti avvolge, dando vita a film, musica e giochi</string>
+    <string name="dtsx_title">DTS:X Ultra</string>
+    <string name="dtsx_summary">DTS:X Ultra migliora la qualità audio con effetti spaziali tridimensionali e un equalizzatore regolabile dall\'utente, consentendo un ambiente di intrattenimento più coinvolgente</string>
     <string name="dirac_title">Motore Audio DIRAC</string>
     <string name="dirac_summary">Il Motore Audio DIRAC ottimizza la qualità del suono migliorando la chiarezza, il bilanciamento, la precisione spaziale e migliora la tua esperienza audio consentendoti di scegliere tra più preimpostazioni delle cuffie</string>
     <string name="threesixtyupmix_settings_title">360 Upmix</string>

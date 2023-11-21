@@ -24,6 +24,8 @@
     <string name="audio_menu_header">Jakość Dźwięku</string>
     <string name="dolby_setting_header">Dolby Sound</string>
     <string name="dolby_setting_summary">Dostosuj ustawienia Dolby Sound, aby doświadczyć wciągającego, wielowymiarowego dźwięku, który Cię otacza, ożywiając filmy, muzykę i gry</string>
+    <string name="dtsx_title">DTS:X Ultra</string>
+    <string name="dtsx_summary">DTS:X Ultra poprawia jakość dźwięku dzięki trójwymiarowym efektom przestrzennym i regulowanemu przez użytkownika korektorowi, umożliwiając bardziej wciągające środowisko rozrywki</string>
     <string name="dirac_title">Silnik Audio DIRAC</string>
     <string name="dirac_summary">Silnik Audio DIRAC optymalizuje jakość dźwięku, poprawiając klarowność, równowagę, dokładność przestrzenną i poprawia wrażenia dźwiękowe, umożliwiając wybór spośród wielu gotowych ustawień zestawu słuchawkowego</string>
     <string name="threesixtyupmix_settings_title">360 Upmix</string>

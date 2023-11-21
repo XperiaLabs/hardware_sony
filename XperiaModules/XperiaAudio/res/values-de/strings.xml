@@ -24,6 +24,8 @@
     <string name="audio_menu_header">Audio Qualität</string>
     <string name="dolby_setting_header">Dolby Sound</string>
     <string name="dolby_setting_summary">Passen Sie die Dolby Sound-Einstellungen an, um einen immersiven, mehrdimensionalen Klang zu erleben, der Sie einhüllt und Filme, Musik und Spiele zum Leben erweckt</string>
+    <string name="dtsx_title">DTS:X Ultra</string>
+    <string name="dtsx_summary">DTS:X Ultra verbessert die Audioqualität mit dreidimensionalen räumlichen Effekten und einem vom Benutzer einstellbaren Equalizer und ermöglicht so eine ansprechendere Unterhaltungsumgebung</string>
     <string name="dirac_title">DIRAC Audio Engine</string>
     <string name="dirac_summary">Die DIRAC Audio Engine optimiert die Klangqualität durch Verbesserung von Klarheit, Ausgewogenheit und räumlicher Genauigkeit und verbessert Ihr Audioerlebnis, indem sie Ihnen die Auswahl aus mehreren Headset-Voreinstellungen ermöglicht.</string>
     <string name="threesixtyupmix_settings_title">360 Upmix</string>

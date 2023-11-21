@@ -24,6 +24,8 @@
     <string name="audio_menu_header">คุณภาพเสียง</string>
     <string name="dolby_setting_header">Dolby Sound</string>
     <string name="dolby_setting_summary">ปรับการตั้งค่าเสียง Dolby เพื่อสัมผัสประสบการณ์เสียงที่ดื่มด่ำและหลากหลายมิติที่ล้อมรอบคุณ ทำให้ภาพยนตร์ เพลง และเกมมีชีวิตชีวา</string>
+    <string name="dtsx_title">DTS:X Ultra</string>
+    <string name="dtsx_summary">DTS:X Ultra ปรับปรุงคุณภาพเสียงด้วยเอฟเฟกต์เชิงพื้นที่สามมิติและอีควอไลเซอร์ที่ผู้ใช้ปรับได้ ช่วยให้สภาพแวดล้อมความบันเทิงน่าดึงดูดยิ่งขึ้น</string>
     <string name="dirac_title">กลไกเสียง DIRAC</string>
     <string name="dirac_summary">กลไกเสียง DIRAC ปรับคุณภาพเสียงให้เหมาะสมโดยปรับปรุงความชัดเจน ความสมดุล และความแม่นยำของพื้นที่ และปรับปรุงประสบการณ์เสียงของคุณโดยให้คุณเลือกจากการตั้งค่าชุดหูฟังล่วงหน้าหลายรายการ</string>
     <string name="threesixtyupmix_settings_title">360 อัพมิกซ์</string>

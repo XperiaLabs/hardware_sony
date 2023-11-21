@@ -24,6 +24,8 @@
     <string name="audio_menu_header">소리 품질</string>
     <string name="dolby_setting_header">Dolby Sound</string>
     <string name="dolby_setting_summary">Dolby Sound 설정을 조정하여 영화, 음악, 게임을 생생하게 전달하고 몰입감 넘치는 다차원 사운드를 경험해 보세요.</string>
+    <string name="dtsx_title">DTS:X Ultra</string>
+    <string name="dtsx_summary">DTS:X Ultra는 3차원 공간 효과와 사용자 조정 가능한 이퀄라이저로 오디오 품질을 향상시켜 더욱 매력적인 엔터테인먼트 환경을 제공합니다</string>
     <string name="dirac_title">DIRAC 오디오 엔진</string>
     <string name="dirac_summary">DIRAC 오디오 엔진은 선명도, 균형, 공간 정확도를 개선하여 음질을 최적화하고 다양한 헤드셋 사전 설정 중에서 선택할 수 있도록 하여 오디오 경험을 향상시킵니다</string>
     <string name="threesixty업믹스_settings_title">360 업믹스</string>

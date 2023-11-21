@@ -33,6 +33,17 @@
         </Preference -->
 
         <Preference
+            android:key="audio_dtsx"
+            android:icon="@drawable/ic_dtsx"
+            android:title="@string/dtsx_title"
+            android:summary="@string/dtsx_summary"
+            android:persistent="false">
+            <intent
+                android:targetPackage="com.asus.maxxaudio.audiowizard"
+                android:targetClass="com.asus.maxxaudio.audiowizard.MainActivity" />
+        </Preference>
+
+        <Preference
             android:key="audio_threesixtyupmix"
             android:icon="@drawable/ic_threesixtyupmix"
             android:title="@string/threesixtyupmix_settings_title"

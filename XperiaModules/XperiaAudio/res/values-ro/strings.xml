@@ -24,6 +24,8 @@
     <string name="audio_menu_header">Calitatea Sunetului</string>
     <string name="dolby_setting_header">Dolby Sound</string>
     <string name="dolby_setting_summary">Ajustați setările Dolby pentru a experienţă un sunet captivant, multidimensional, care vă va învăluie, dând viață filmelor, muzicii și jocurilor</string>
+    <string name="dtsx_title">DTS:X Ultra</string>
+    <string name="dtsx_summary">DTS:X Ultra îmbunătățește calitatea sunetului cu efecte spațiale tridimensionale și un egalizator reglabil de utilizator, permițând un mediu de divertisment mai captivant</string>
     <string name="dirac_title">Motor de Audio DIRAC</string>
     <string name="dirac_summary">Motorul de Audio DIRAC optimizează calitatea sunetului prin îmbunătățirea clarității, echilibrului, preciziei spațiale și îmbunătățește experiența audio, permițându-vă să alegeți dintre mai multe presetări pentru căști dumneavoastra</string>
     <string name="threesixtyupmix_settings_title">360 Upmix</string>

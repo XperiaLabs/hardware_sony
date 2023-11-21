@@ -22,8 +22,10 @@
     <!-- Audio Settings -->
     <string name="audio_menu_title">آڈیو کی ترتیبات</string>
     <string name="audio_menu_header">آواز کا معیار</string>
-    <string name="dolby_setting_header">ڈولبی ساؤنڈ</string>
+    <string name="dolby_setting_header">Dolby Sound</string>
     <string name="dolby_setting_summary">ڈولبی ساؤنڈ سیٹنگز کو ایڈجسٹ کریں تاکہ عمیق، کثیر جہتی آواز کا تجربہ کریں جو آپ کو اپنے لپیٹ میں لے لے، فلموں، موسیقی اور گیمز کو زندہ کرے</string>
+    <string name="dtsx_title">DTS:X Ultra</string>
+    <string name="dtsx_summary">ڈی ٹی ایس: ایکس الٹرا تین جہتی مقامی اثرات اور صارف کے لیے ایڈجسٹ ایبل برابری کے ساتھ آڈیو کوالٹی کو بہتر بناتا ہے، جس سے تفریحی ماحول کو مزید پرکشش بنایا جا سکتا ہے۔</string>
     <string name="dirac_title">ڈیریک آڈیو انجن</string>
     <string name="dirac_summary">DIRAC آڈیو انجن صدا کی معیار کو بہتر بنانے کے لیے وضاحت، توازن، فضائی درستگی میں اضافہ کرتا ہے اور آپ کو مخصوص ہیڈسیٹ پریسٹس منتخب کرنے کی اجازت دیتا ہے۔</string>
     <string name="threesixtyupmix_settings_title">360 اپمکس</string>

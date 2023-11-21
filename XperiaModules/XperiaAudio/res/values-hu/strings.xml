@@ -24,6 +24,8 @@
     <string name="audio_menu_header">Hangminőség</string>
     <string name="dolby_setting_header">Dolby Sound</string>
     <string name="dolby_setting_summary">Módosítsa a Dolby Sound beállításait, hogy magával ragadó, többdimenziós hangzást tapasztaljon, amely magával ragad, életre keltve a filmeket, zenét és játékokat.</string>
+    <string name="dtsx_title">DTS:X Ultra</string>
+    <string name="dtsx_summary">A DTS:X Ultra háromdimenziós térhatásokkal és a felhasználó által állítható hangszínszabályzóval javítja a hangminőséget, így vonzóbb szórakoztató környezetet biztosít</string>
     <string name="dirac_title">DIRAC Audio Engine</string>
     <string name="dirac_summary">A DIRAC Audio Engine optimalizálja a hangminőséget azáltal, hogy javítja a tisztaságot, az egyensúlyt és a térbeli pontosságot, és javítja a hangélményt azáltal, hogy több előre beállított fejhallgató közül választhat</string>
     <string name="threesixtyupmix_settings_title">360 Upmix</string>

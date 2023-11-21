@@ -24,6 +24,8 @@
     <string name="audio_menu_header">Качество звука</string>
     <string name="dolby_setting_header">Dolby Sound</string>
     <string name="dolby_setting_summary">Настройте параметры Dolby Sound, чтобы ощутить захватывающий многомерный звук, который окутывает вас, оживляя фильмы, музыку и игры</string>
+    <string name="dtsx_title">DTS:X Ultra</string>
+    <string name="dtsx_summary">DTS:X Ultra улучшает качество звука с помощью трехмерных пространственных эффектов и настраиваемого пользователем эквалайзера, создавая более увлекательную развлекательную среду</string>
     <string name="dirac_title">Аудио-движок DIRAC</string>
     <string name="dirac_summary">Аудио движок DIRAC оптимизирует качество звука, улучшая четкость, баланс, пространственную точность и улучшает ваше аудио восприятие, позволяя выбирать из нескольких предустановок наушников</string>
     <string name="threesixtyupmix_settings_title">360 Апмикс</string>
