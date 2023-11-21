@@ -22,15 +22,15 @@
     <!-- Audio Settings -->
     <string name="audio_menu_title">Geluidsinstellingen</string>
     <string name="audio_menu_header">Geluidskwaliteit</string>
-    <string name="dolby_setting_header">Dolby Sound</string>
-    <string name="dolby_setting_summary">Pas de Dolby Sound-instellingen aan om meeslepend, multidimensionaal geluid te ervaren dat je omhult en films, muziek en games tot leven brengt</string>
+    <string name="dolby_title">Dolby Sound</string>
+    <string name="dolby_summary">Pas de Dolby Sound-instellingen aan om meeslepend, multidimensionaal geluid te ervaren dat je omhult en films, muziek en games tot leven brengt</string>
     <string name="dtsx_title">DTS:X Ultra</string>
     <string name="dtsx_summary">DTS:X Ultra verbetert de audiokwaliteit met driedimensionale ruimtelijke effecten en een door de gebruiker aanpasbare equalizer, waardoor een boeiendere entertainmentomgeving mogelijk wordt</string>
     <string name="dirac_title">DIRAC Audio Engine</string>
     <string name="dirac_summary">De DIRAC Audio Engine optimaliseert de geluidskwaliteit door de helderheid, balans en ruimtelijke nauwkeurigheid te verbeteren en verbetert uw audio-ervaring doordat u kunt kiezen uit meerdere headset-presets</string>
-    <string name="threesixtyupmix_settings_title">360 Upmix</string>
-    <string name="threesixtyupmix_settings_summary">Met de 360 Reality Audio Upmix-technologie (360 Upmix) van Sony kunt u genieten van ruimtelijk en meeslepend geluid met gewone stereobronnen</string>
+    <string name="threesixtyupmix_title">360 Upmix</string>
+    <string name="threesixtyupmix_summary">Met de 360 Reality Audio Upmix-technologie (360 Upmix) van Sony kunt u genieten van ruimtelijk en meeslepend geluid met gewone stereobronnen</string>
     <string name="effectpriority_title">Effectprioriteit</string>
     <string name="effectpriority_summary">De 360 Upmix-app heeft altijd voorrang op de andere effecten die je hebt ingeschakeld (ofwel een van de andere instellingen op dit scherm met 360 Upmix of alleen 360 Upmix zelf) voor het mediageluid van apps.</string>
-    <string name="audio_settings_footer">Tijdens het afspelen van audiocontent met geluidsverbeteringen heeft de informatie over de content voorrang op de instellingen op dit scherm. Inhoud met hoge resolutie kan ook goed worden afgespeeld als de geluidsverbeteringen zijn uitgeschakeld.\n\n\n\nOver ruimtelijke audio\nOm de functie 360 Reality Audio in te schakelen, schakelt u ruimtelijk geluid in.\nAlle instellingen op dit scherm ondersteunen ruimtelijke audio.</string>
+    <string name="audio_menu_footer">Tijdens het afspelen van audiocontent met geluidsverbeteringen heeft de informatie over de content voorrang op de instellingen op dit scherm. Inhoud met hoge resolutie kan ook goed worden afgespeeld als de geluidsverbeteringen zijn uitgeschakeld.\n\n\n\nOver ruimtelijke audio\nOm de functie 360 Reality Audio in te schakelen, schakelt u ruimtelijk geluid in.\nAlle instellingen op dit scherm ondersteunen ruimtelijke audio.</string>
 </resources>

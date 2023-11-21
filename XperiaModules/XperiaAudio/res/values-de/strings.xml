@@ -22,15 +22,15 @@
     <!-- Audio Settings -->
     <string name="audio_menu_title">Audio Einstellungen</string>
     <string name="audio_menu_header">Audio Qualität</string>
-    <string name="dolby_setting_header">Dolby Sound</string>
-    <string name="dolby_setting_summary">Passen Sie die Dolby Sound-Einstellungen an, um einen immersiven, mehrdimensionalen Klang zu erleben, der Sie einhüllt und Filme, Musik und Spiele zum Leben erweckt</string>
+    <string name="dolby_title">Dolby Sound</string>
+    <string name="dolby_summary">Passen Sie die Dolby Sound-Einstellungen an, um einen immersiven, mehrdimensionalen Klang zu erleben, der Sie einhüllt und Filme, Musik und Spiele zum Leben erweckt</string>
     <string name="dtsx_title">DTS:X Ultra</string>
     <string name="dtsx_summary">DTS:X Ultra verbessert die Audioqualität mit dreidimensionalen räumlichen Effekten und einem vom Benutzer einstellbaren Equalizer und ermöglicht so eine ansprechendere Unterhaltungsumgebung</string>
     <string name="dirac_title">DIRAC Audio Engine</string>
     <string name="dirac_summary">Die DIRAC Audio Engine optimiert die Klangqualität durch Verbesserung von Klarheit, Ausgewogenheit und räumlicher Genauigkeit und verbessert Ihr Audioerlebnis, indem sie Ihnen die Auswahl aus mehreren Headset-Voreinstellungen ermöglicht.</string>
-    <string name="threesixtyupmix_settings_title">360 Upmix</string>
-    <string name="threesixtyupmix_settings_summary">Mit der 360 Reality Audio Upmix (360 Upmix)-Technologie von Sony können Sie räumlichen und immersiven Klang mit herkömmlichen Stereoquellen genießen</string>
+    <string name="threesixtyupmix_title">360 Upmix</string>
+    <string name="threesixtyupmix_summary">Mit der 360 Reality Audio Upmix (360 Upmix)-Technologie von Sony können Sie räumlichen und immersiven Klang mit herkömmlichen Stereoquellen genießen</string>
     <string name="effectpriority_title">Effektpriorität</string>
     <string name="effectpriority_summary">Die 360 Upmix App hat für den Mediensound von Apps immer Vorrang vor den anderen Effekten, die Sie aktiviert haben (entweder eine der anderen Einstellungen auf diesem Bildschirm mit 360 Upmix oder nur 360 Upmix allein).</string>
-    <string name="audio_settings_footer">Bei der Wiedergabe von Audioinhalten mit Tonverbesserungen haben die Inhaltsinformationen Vorrang vor den Einstellungen auf diesem Bildschirm. Hochauflösende Inhalte können auch dann ordnungsgemäß wiedergegeben werden, wenn die Tonverbesserungen deaktiviert sind.\n\n\n\nÜber Spatial Audio\nUm das zu aktivieren 360 Reality Audio-Funktion, schalten Sie Spatialer Klang ein.\nAlle Einstellungen auf diesem Bildschirm unterstützen Spatialer Audio.</string>
+    <string name="audio_menu_footer">Bei der Wiedergabe von Audioinhalten mit Tonverbesserungen haben die Inhaltsinformationen Vorrang vor den Einstellungen auf diesem Bildschirm. Hochauflösende Inhalte können auch dann ordnungsgemäß wiedergegeben werden, wenn die Tonverbesserungen deaktiviert sind.\n\n\n\nÜber Spatial Audio\nUm das zu aktivieren 360 Reality Audio-Funktion, schalten Sie Spatialer Klang ein.\nAlle Einstellungen auf diesem Bildschirm unterstützen Spatialer Audio.</string>
 </resources>

@@ -22,15 +22,15 @@
     <!-- Audio Settings -->
     <string name="audio_menu_title">Les Paramètres Audio</string>
     <string name="audio_menu_header">Qualité Sonore</string>
-    <string name="dolby_setting_header">Dolby Sound</string>
-    <string name="dolby_setting_summary">Ajustez les paramètres Dolby Sound pour profiter d\'un son immersif et multidimensionnel qui vous enveloppe, donnant vie aux films, à la musique et aux jeux</string>
+    <string name="dolby_title">Dolby Sound</string>
+    <string name="dolby_summary">Ajustez les paramètres Dolby Sound pour profiter d\'un son immersif et multidimensionnel qui vous enveloppe, donnant vie aux films, à la musique et aux jeux</string>
     <string name="dtsx_title">DTS:X Ultra</string>
     <string name="dtsx_summary">DTS:X Ultra améliore la qualité audio avec des effets spatiaux tridimensionnels et un égaliseur réglable par l\'utilisateur, permettant un environnement de divertissement plus attrayant</string>
     <string name="dirac_title">Moteur Audio DIRAC</string>
     <string name="dirac_summary">Le Moteur Audio DIRAC optimise la qualité sonore en améliorant la clarté, l\'équilibre et la précision spatiale et améliore votre expérience audio en vous permettant de choisir parmi plusieurs préréglages de casque.</string>
-    <string name="threesixtyupmix_settings_title">360 Upmix</string>
-    <string name="threesixtyupmix_settings_summary">Grâce à la technologie 360 Reality Audio Upmix (360 Upmix) de Sony, vous pouvez profiter d\'un son spatial et immersif avec des sources stéréo classiques</string>
+    <string name="threesixtyupmix_title">360 Upmix</string>
+    <string name="threesixtyupmix_summary">Grâce à la technologie 360 Reality Audio Upmix (360 Upmix) de Sony, vous pouvez profiter d\'un son spatial et immersif avec des sources stéréo classiques</string>
     <string name="effectpriority_title">Priorité D\'Effet</string>
     <string name="effectpriority_summary">L\'application 360 Upmix aura toujours la priorité sur les autres effets que vous avez activés (Soit l\'un des autres paramètres de cet écran avec 360 Upmix, soit simplement 360 Upmix seul) pour le son multimédia des applications.</string>
-    <string name="audio_settings_footer">Lors de la lecture de contenu audio avec des améliorations sonores, les informations sur le contenu auront priorité sur les paramètres de cet écran. Le contenu haute résolution peut également être lu correctement lorsque les améliorations sonores sont désactivées.\n\n\n\nÀ propos de Spatial Audio\nPour activer la fonctionnalité 360 Reality Audio, activez Son Spatial.\nTous les paramètres de cet écran prennent en charge Audio Spatial.</string>
+    <string name="audio_menu_footer">Lors de la lecture de contenu audio avec des améliorations sonores, les informations sur le contenu auront priorité sur les paramètres de cet écran. Le contenu haute résolution peut également être lu correctement lorsque les améliorations sonores sont désactivées.\n\n\n\nÀ propos de Spatial Audio\nPour activer la fonctionnalité 360 Reality Audio, activez Son Spatial.\nTous les paramètres de cet écran prennent en charge Audio Spatial.</string>
 </resources>

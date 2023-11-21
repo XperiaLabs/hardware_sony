@@ -22,15 +22,15 @@
     <!-- Audio Settings -->
     <string name="audio_menu_title">Impostazioni Audio</string>
     <string name="audio_menu_header">Qualità del Suono</string>
-    <string name="dolby_setting_header">Dolby Sound</string>
-    <string name="dolby_setting_summary">Regola le impostazioni Dolby Sound per sperimentare un suono coinvolgente e multidimensionale che ti avvolge, dando vita a film, musica e giochi</string>
+    <string name="dolby_title">Dolby Sound</string>
+    <string name="dolby_summary">Regola le impostazioni Dolby Sound per sperimentare un suono coinvolgente e multidimensionale che ti avvolge, dando vita a film, musica e giochi</string>
     <string name="dtsx_title">DTS:X Ultra</string>
     <string name="dtsx_summary">DTS:X Ultra migliora la qualità audio con effetti spaziali tridimensionali e un equalizzatore regolabile dall\'utente, consentendo un ambiente di intrattenimento più coinvolgente</string>
     <string name="dirac_title">Motore Audio DIRAC</string>
     <string name="dirac_summary">Il Motore Audio DIRAC ottimizza la qualità del suono migliorando la chiarezza, il bilanciamento, la precisione spaziale e migliora la tua esperienza audio consentendoti di scegliere tra più preimpostazioni delle cuffie</string>
-    <string name="threesixtyupmix_settings_title">360 Upmix</string>
-    <string name="threesixtyupmix_settings_summary">Con la tecnologia 360 Reality Audio Upmix (360 Upmix) di Sony, puoi goderti un suono spaziale e coinvolgente con le normali sorgenti stereo</string>
+    <string name="threesixtyupmix_title">360 Upmix</string>
+    <string name="threesixtyupmix_summary">Con la tecnologia 360 Reality Audio Upmix (360 Upmix) di Sony, puoi goderti un suono spaziale e coinvolgente con le normali sorgenti stereo</string>
     <string name="effectpriority_title">Priorità Degli Effetti</string>
     <string name="effectpriority_summary">L\'app 360 Upmix avrà sempre la priorità sugli altri effetti che hai attivato (una qualsiasi delle altre impostazioni su questa schermata con 360 Upmix o solo 360 Upmix da solo) per l\'audio multimediale delle app.</string>
-    <string name="audio_settings_footer">Durante la riproduzione di contenuto audio con miglioramenti del suono, le informazioni sul contenuto avranno la precedenza sulle impostazioni in questa schermata. I contenuti ad alta risoluzione possono essere riprodotti correttamente anche quando i miglioramenti audio sono disattivati.\n\n\n\nInformazioni sull\'audio spaziale\nPer abilitare la funzione 360 Reality Audio, attiva L\'Suono Spaziale.\nTutte le impostazioni in questa schermata supportano L\'Audio Spaziale.</string>
+    <string name="audio_menu_footer">Durante la riproduzione di contenuto audio con miglioramenti del suono, le informazioni sul contenuto avranno la precedenza sulle impostazioni in questa schermata. I contenuti ad alta risoluzione possono essere riprodotti correttamente anche quando i miglioramenti audio sono disattivati.\n\n\n\nInformazioni sull\'audio spaziale\nPer abilitare la funzione 360 Reality Audio, attiva L\'Suono Spaziale.\nTutte le impostazioni in questa schermata supportano L\'Audio Spaziale.</string>
 </resources>

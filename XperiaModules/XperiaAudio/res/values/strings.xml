@@ -22,15 +22,15 @@
     <!-- Audio Settings -->
     <string name="audio_menu_title">Audio Settings</string>
     <string name="audio_menu_header">Sound Quality</string>
-    <string name="dolby_setting_header">Dolby Sound</string>
-    <string name="dolby_setting_summary">Adjust Dolby Sound settings to experience immersive, multidimensional sound that envelops you, bringing movies, music, and games to life</string>
+    <string name="dolby_title">Dolby Sound</string>
+    <string name="dolby_summary">Adjust Dolby Sound settings to experience immersive, multidimensional sound that envelops you, bringing movies, music, and games to life</string>
     <string name="dtsx_title">DTS:X Ultra</string>
     <string name="dtsx_summary">DTS:X Ultra improves audio quality with three-dimensional spatial effects and a user-adjustable equalizer, allowing for a more engaging entertainment environment</string>
     <string name="dirac_title">DIRAC Audio Engine</string>
     <string name="dirac_summary">The DIRAC Audio Engine optimizes sound quality by improving clarity, balance, spatial accuracy and enhances your audio experience by allowing you to choose from multiple headset presets</string>
-    <string name="threesixtyupmix_settings_title">360 Upmix</string>
-    <string name="threesixtyupmix_settings_summary">With Sony\'s 360 Reality Audio Upmix (360 Upmix) technology, you can enjoy spatial and immersive sound with regular stereo sources</string>
+    <string name="threesixtyupmix_title">360 Upmix</string>
+    <string name="threesixtyupmix_summary">With Sony\'s 360 Reality Audio Upmix (360 Upmix) technology, you can enjoy spatial and immersive sound with regular stereo sources</string>
     <string name="effectpriority_title">Effect Priority</string>
     <string name="effectpriority_summary">The 360 Upmix app will always take priority over the other effects you\'ve turned on (either any of the other settings on this screen with 360 Upmix or just 360 Upmix by itself) for the media sound of apps.</string>
-    <string name="audio_settings_footer">While playing audio content with sound enhnacements, the content\'s information will take precedence over the settings on this screen. High resolution content can also be play properly when sound enhnacements are turned off.\n\n\n\nAbout Spatial Audio\nTo enable the 360 Reality Audio feature, turn on Spatial Sound.\nAll settings on this screen support Spatial Audio.</string>
+    <string name="audio_menu_footer">While playing audio content with sound enhnacements, the content\'s information will take precedence over the settings on this screen. High resolution content can also be play properly when sound enhnacements are turned off.\n\n\n\nAbout Spatial Audio\nTo enable the 360 Reality Audio feature, turn on Spatial Sound.\nAll settings on this screen support Spatial Audio.</string>
 </resources>

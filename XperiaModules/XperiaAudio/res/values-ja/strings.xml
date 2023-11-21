@@ -22,15 +22,15 @@
     <!-- Audio Settings -->
     <string name="audio_menu_title">オーディオ設定</string>
     <string name="audio_menu_header">音の質</string>
-    <string name="dolby_setting_header">Dolby Sound</string>
-    <string name="dolby_setting_summary">Dolby Sound の設定を調整して、映画、音楽、ゲームに命を吹き込む、包み込まれるような臨場感あふれる多次元サウンドを体験してください。</string>
+    <string name="dolby_title">Dolby Sound</string>
+    <string name="dolby_summary">Dolby Sound の設定を調整して、映画、音楽、ゲームに命を吹き込む、包み込まれるような臨場感あふれる多次元サウンドを体験してください。</string>
     <string name="dtsx_title">DTS:X Ultra</string>
     <string name="dtsx_summary">DTS:X Ultra は、3 次元空間効果とユーザー調整可能なイコライザーによりオーディオ品質を向上させ、より魅力的なエンターテイメント環境を可能にします</string>
     <string name="dirac_title">DIRAC オーディオ エンジン</string>
     <string name="dirac_summary">DIRAC オーディオ エンジンは、明瞭さ、バランス、空間精度を向上させることで音質を最適化し、複数のヘッドセット プリセットから選択できるようにすることでオーディオ エクスペリエンスを向上させます</string>
-    <string name="threesixtyupmix_settings_title">360 アップミックス</string>
-    <string name="threesixtyupmix_settings_summary">Sony の 360リアリティオーディオアップミックス (360 アップミックス) テクノロジーを使用すると、通常のステレオ ソースで空間的で臨場感のあるサウンドを楽しむことができます</string>
+    <string name="threesixtyupmix_title">360 アップミックス</string>
+    <string name="threesixtyupmix_summary">Sony の 360リアリティオーディオアップミックス (360 アップミックス) テクノロジーを使用すると、通常のステレオ ソースで空間的で臨場感のあるサウンドを楽しむことができます</string>
     <string name="effectpriority_title">効果の優先度</string>
     <string name="effectpriority_summary">360 アップミックス アプリは、アプリのメディア サウンドに関して、オンにした他のエフェクト (360 アップミックスを使用したこの画面の他の設定、または 360 アップミックス単独のいずれか) よりも常に優先されます。</string>
-    <string name="audio_settings_footer">サウンド強化されたオーディオ コンテンツの再生中は、コンテンツの情報がこの画面の設定より優先されます。 サウンド強化がオフの場合でも、高解像度のコンテンツは適切に再生できます。\n\n\n\n空間オーディオについて\n360 リアリティ オーディオ機能を有効にするには、空間サウンドをオンにしてください。\nこの画面のすべての設定は空間オーディオをサポートしています。</string>
+    <string name="audio_menu_footer">サウンド強化されたオーディオ コンテンツの再生中は、コンテンツの情報がこの画面の設定より優先されます。 サウンド強化がオフの場合でも、高解像度のコンテンツは適切に再生できます。\n\n\n\n空間オーディオについて\n360 リアリティ オーディオ機能を有効にするには、空間サウンドをオンにしてください。\nこの画面のすべての設定は空間オーディオをサポートしています。</string>
 </resources>

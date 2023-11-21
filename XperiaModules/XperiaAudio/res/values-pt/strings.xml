@@ -22,15 +22,15 @@
     <!-- Audio Settings -->
     <string name="audio_menu_title">Definições de Áudio</string>
     <string name="audio_menu_header">Qualidade de Áudio</string>
-    <string name="dolby_setting_header">Dolby Sound</string>
-    <string name="dolby_setting_summary">Ajuste definições de som Dolby para uma experiência de áudio imersiva e multidimensional</string>
+    <string name="dolby_title">Dolby Sound</string>
+    <string name="dolby_summary">Ajuste definições de som Dolby para uma experiência de áudio imersiva e multidimensional</string>
     <string name="dtsx_title">DTS:X Ultra</string>
     <string name="dtsx_summary">DTS:X Ultra melhora a qualidade do áudio com efeitos espaciais tridimensionais e um equalizador ajustável pelo usuário, permitindo um ambiente de entretenimento mais envolvente</string>
     <string name="dirac_title">Engine de Áudio DIRAC</string>
     <string name="dirac_summary">A Engine de Áudio DIRAC otimiza a qualidade do som, melhorando a clareza, o equilíbrio, a precisão espacial e aprimora sua experiência de áudio, permitindo que você escolha entre vários predefinições de headset</string>
-    <string name="threesixtyupmix_settings_title">360 Upmix</string>
-    <string name="threesixtyupmix_settings_summary">Com a exclusiva tecnologia 360 Realidade Áudio Upmix da Sony, pode desfrutar de som espacial e envolvente a partir de fontes de som estéreo normais</string>
+    <string name="threesixtyupmix_title">360 Upmix</string>
+    <string name="threesixtyupmix_summary">Com a exclusiva tecnologia 360 Realidade Áudio Upmix da Sony, pode desfrutar de som espacial e envolvente a partir de fontes de som estéreo normais</string>
     <string name="effectpriority_title">Prioridade de Efeitos</string>
     <string name="effectpriority_summary">O Aplicativo 360 Upmix sempre terá prioridade sobre os outros efeitos que você ativou (qualquer uma das outras configurações nesta tela com 360 Upmix ou apenas 360 Upmix por si só) para o som de mídia dos aplicativos.</string>
-    <string name="audio_settings_footer">Ao reproduzir conteúdo de áudio com melhorias de som, as informações do conteúdo terão precedência sobre as configurações nesta tela. O conteúdo de alta resolução também pode ser reproduzido corretamente quando os aprimoramentos de som estão desativados.\n\n\n\nSobre o Áudio Espacial\nPara ativar o recurso 360 Realidade Áudio, ative o Som Espacial.\nTodas as configurações nesta tela são compatíveis com o Áudio Espacial.</string>
+    <string name="audio_menu_footer">Ao reproduzir conteúdo de áudio com melhorias de som, as informações do conteúdo terão precedência sobre as configurações nesta tela. O conteúdo de alta resolução também pode ser reproduzido corretamente quando os aprimoramentos de som estão desativados.\n\n\n\nSobre o Áudio Espacial\nPara ativar o recurso 360 Realidade Áudio, ative o Som Espacial.\nTodas as configurações nesta tela são compatíveis com o Áudio Espacial.</string>
 </resources>
