@@ -41,6 +41,7 @@
                 android:theme="@style/Theme.SubSettingsBase"
                 android:label="@string/audio_menu_title">
             <intent-filter>
+                <action android:name="android.media.action.DISPLAY_AUDIO_EFFECT_CONTROL_PANEL"/>
                 <action android:name="com.android.settings.action.IA_SETTINGS"/>
             </intent-filter>
         </activity>
