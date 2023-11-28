@@ -26,10 +26,8 @@
     <string name="dolby_summary">Dolby Sound 설정을 조정하여 영화, 음악, 게임을 생생하게 전달하고 몰입감 넘치는 다차원 사운드를 경험해 보세요.</string>
     <string name="dtsx_title">DTS:X Ultra</string>
     <string name="dtsx_summary">DTS:X Ultra는 3차원 공간 효과와 사용자 조정 가능한 이퀄라이저로 오디오 품질을 향상시켜 더욱 매력적인 엔터테인먼트 환경을 제공합니다</string>
-    <string name="dirac_title">DIRAC 오디오 엔진</string>
-    <string name="dirac_summary">DIRAC 오디오 엔진은 선명도, 균형, 공간 정확도를 개선하여 음질을 최적화하고 다양한 헤드셋 사전 설정 중에서 선택할 수 있도록 하여 오디오 경험을 향상시킵니다</string>
-    <string name="threesixty업믹스_settings_title">360 업믹스</string>
-    <string name="threesixty업믹스_settings_summary">Sony의 360 리얼리티 오디오 업믹스 (360 업믹스) 기술을 사용하면 일반 스테레오 소스로 공간감 있고 몰입감 넘치는 사운드를 즐길 수 있습니다</string>
+    <string name="threesixtyupmix_title">360 업믹스</string>
+    <string name="threesixtyupmix_summary">Sony의 360 리얼리티 오디오 업믹스 (360 업믹스) 기술을 사용하면 일반 스테레오 소스로 공간감 있고 몰입감 넘치는 사운드를 즐길 수 있습니다</string>
     <string name="effectpriority_title">효과 우선순위</string>
     <string name="effectpriority_summary">360 업믹스 앱은 앱의 미디어 사운드에 대해 사용자가 켠 다른 효과(360 업믹스 가 포함된 이 화면의 다른 설정 또는 360 업믹스 자체)보다 항상 우선순위를 갖습니다.</string>
     <string name="audio_menu_footer">사운드가 향상된 오디오 콘텐츠를 재생하는 동안 콘텐츠의 정보는 이 화면의 설정보다 우선적으로 적용됩니다. 사운드 향상 기능이 꺼진 경우에도 고해상도 콘텐츠가 제대로 재생될 수 있습니다.\n\n\n\n공간 오디오 정보\n360 현실 오디오 기능을 활성화하려면 공간 사운드를 켜십시오.\n이 화면의 모든 설정은 공간 오디오를 지원합니다.</string>

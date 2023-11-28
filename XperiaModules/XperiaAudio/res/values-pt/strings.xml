@@ -26,8 +26,6 @@
     <string name="dolby_summary">Ajuste definições de som Dolby para uma experiência de áudio imersiva e multidimensional</string>
     <string name="dtsx_title">DTS:X Ultra</string>
     <string name="dtsx_summary">DTS:X Ultra melhora a qualidade do áudio com efeitos espaciais tridimensionais e um equalizador ajustável pelo usuário, permitindo um ambiente de entretenimento mais envolvente</string>
-    <string name="dirac_title">Engine de Áudio DIRAC</string>
-    <string name="dirac_summary">A Engine de Áudio DIRAC otimiza a qualidade do som, melhorando a clareza, o equilíbrio, a precisão espacial e aprimora sua experiência de áudio, permitindo que você escolha entre vários predefinições de headset</string>
     <string name="threesixtyupmix_title">360 Upmix</string>
     <string name="threesixtyupmix_summary">Com a exclusiva tecnologia 360 Realidade Áudio Upmix da Sony, pode desfrutar de som espacial e envolvente a partir de fontes de som estéreo normais</string>
     <string name="effectpriority_title">Prioridade de Efeitos</string>

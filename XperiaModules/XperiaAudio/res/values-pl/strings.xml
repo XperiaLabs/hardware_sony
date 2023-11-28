@@ -26,8 +26,6 @@
     <string name="dolby_summary">Dostosuj ustawienia Dolby Sound, aby doświadczyć wciągającego, wielowymiarowego dźwięku, który Cię otacza, ożywiając filmy, muzykę i gry</string>
     <string name="dtsx_title">DTS:X Ultra</string>
     <string name="dtsx_summary">DTS:X Ultra poprawia jakość dźwięku dzięki trójwymiarowym efektom przestrzennym i regulowanemu przez użytkownika korektorowi, umożliwiając bardziej wciągające środowisko rozrywki</string>
-    <string name="dirac_title">Silnik Audio DIRAC</string>
-    <string name="dirac_summary">Silnik Audio DIRAC optymalizuje jakość dźwięku, poprawiając klarowność, równowagę, dokładność przestrzenną i poprawia wrażenia dźwiękowe, umożliwiając wybór spośród wielu gotowych ustawień zestawu słuchawkowego</string>
     <string name="threesixtyupmix_title">360 Upmix</string>
     <string name="threesixtyupmix_summary">Dzięki technologii Sony 360 Audio Rzeczywistości Upmix (360 Upmix) możesz cieszyć się przestrzennym i wciągającym dźwiękiem ze zwykłych źródeł stereo</string>
     <string name="effectpriority_title">Priorytet Efektu</string>

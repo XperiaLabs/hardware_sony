@@ -26,8 +26,6 @@
     <string name="dolby_summary">ڈولبی ساؤنڈ سیٹنگز کو ایڈجسٹ کریں تاکہ عمیق، کثیر جہتی آواز کا تجربہ کریں جو آپ کو اپنے لپیٹ میں لے لے، فلموں، موسیقی اور گیمز کو زندہ کرے</string>
     <string name="dtsx_title">DTS:X Ultra</string>
     <string name="dtsx_summary">ڈی ٹی ایس: ایکس الٹرا تین جہتی مقامی اثرات اور صارف کے لیے ایڈجسٹ ایبل برابری کے ساتھ آڈیو کوالٹی کو بہتر بناتا ہے، جس سے تفریحی ماحول کو مزید پرکشش بنایا جا سکتا ہے۔</string>
-    <string name="dirac_title">ڈیریک آڈیو انجن</string>
-    <string name="dirac_summary">DIRAC آڈیو انجن صدا کی معیار کو بہتر بنانے کے لیے وضاحت، توازن، فضائی درستگی میں اضافہ کرتا ہے اور آپ کو مخصوص ہیڈسیٹ پریسٹس منتخب کرنے کی اجازت دیتا ہے۔</string>
     <string name="threesixtyupmix_title">360 اپمکس</string>
     <string name="threesixtyupmix_summary">Sony کی 360 Reality Audio Upmix (360 اپمکس) ٹیکنالوجی کے ساتھ، آپ باقاعدہ سٹیریو ذرائع کے ساتھ مقامی اور عمیق آواز سے لطف اندوز ہو سکتے ہیں</string>
     <string name="effectpriority_title">اثر کی ترجیح</string>

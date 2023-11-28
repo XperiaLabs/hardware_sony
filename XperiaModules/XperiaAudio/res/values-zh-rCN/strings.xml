@@ -26,8 +26,6 @@
     <string name="dolby_summary">调整杜比音效 (Dolby Sound) 设置，体验身临其境的多维声音，让电影、音乐和游戏栩栩如生</string>
     <string name="dtsx_title">DTS:X Ultra</string>
     <string name="dtsx_summary">DTS:X Ultra 通过三维空间效果和用户可调节的均衡器提高音频质量，为用户提供更具吸引力的娱乐环境</string>
-    <string name="dirac_title">DIRAC 音频引擎</string>
-    <string name="dirac_summary">DIRAC 音频引擎通过提高清晰度、平衡度、空间准确性来优化音质，并通过让您选择多种耳机预设来增强您的音频体验</string>
     <string name="threesixtyupmix_title">360上混</string>
     <string name="threesixtyupmix_summary">借助索尼的 360度环绕音频升频 (360上混) 技术，您可以通过常规立体声源享受空间感和身临其境的声音\n查看 360度环绕音频 了解详细信息。</string>
     <string name="effectpriority_title">音效优先级</string>

@@ -26,8 +26,6 @@
     <string name="dolby_summary">Pas de Dolby Sound-instellingen aan om meeslepend, multidimensionaal geluid te ervaren dat je omhult en films, muziek en games tot leven brengt</string>
     <string name="dtsx_title">DTS:X Ultra</string>
     <string name="dtsx_summary">DTS:X Ultra verbetert de audiokwaliteit met driedimensionale ruimtelijke effecten en een door de gebruiker aanpasbare equalizer, waardoor een boeiendere entertainmentomgeving mogelijk wordt</string>
-    <string name="dirac_title">DIRAC Audio Engine</string>
-    <string name="dirac_summary">De DIRAC Audio Engine optimaliseert de geluidskwaliteit door de helderheid, balans en ruimtelijke nauwkeurigheid te verbeteren en verbetert uw audio-ervaring doordat u kunt kiezen uit meerdere headset-presets</string>
     <string name="threesixtyupmix_title">360 Upmix</string>
     <string name="threesixtyupmix_summary">Met de 360 Reality Audio Upmix-technologie (360 Upmix) van Sony kunt u genieten van ruimtelijk en meeslepend geluid met gewone stereobronnen</string>
     <string name="effectpriority_title">Effectprioriteit</string>

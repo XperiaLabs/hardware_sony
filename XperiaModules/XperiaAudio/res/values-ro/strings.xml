@@ -26,8 +26,6 @@
     <string name="dolby_summary">Ajustați setările Dolby pentru a experienţă un sunet captivant, multidimensional, care vă va învăluie, dând viață filmelor, muzicii și jocurilor</string>
     <string name="dtsx_title">DTS:X Ultra</string>
     <string name="dtsx_summary">DTS:X Ultra îmbunătățește calitatea sunetului cu efecte spațiale tridimensionale și un egalizator reglabil de utilizator, permițând un mediu de divertisment mai captivant</string>
-    <string name="dirac_title">Motor de Audio DIRAC</string>
-    <string name="dirac_summary">Motorul de Audio DIRAC optimizează calitatea sunetului prin îmbunătățirea clarității, echilibrului, preciziei spațiale și îmbunătățește experiența audio, permițându-vă să alegeți dintre mai multe presetări pentru căști dumneavoastra</string>
     <string name="threesixtyupmix_title">360 Upmix</string>
     <string name="threesixtyupmix_summary">Cu tehnologia 360 Reality Audio Upmix (360 Upmix) al lui Sony, vă puteți bucura de sunet spațial și captivant cu surse stereo</string>
     <string name="effectpriority_title">Prioritatea Efectelor</string>

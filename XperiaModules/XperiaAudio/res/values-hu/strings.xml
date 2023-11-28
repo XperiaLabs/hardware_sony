@@ -26,8 +26,6 @@
     <string name="dolby_summary">Módosítsa a Dolby Sound beállításait, hogy magával ragadó, többdimenziós hangzást tapasztaljon, amely magával ragad, életre keltve a filmeket, zenét és játékokat.</string>
     <string name="dtsx_title">DTS:X Ultra</string>
     <string name="dtsx_summary">A DTS:X Ultra háromdimenziós térhatásokkal és a felhasználó által állítható hangszínszabályzóval javítja a hangminőséget, így vonzóbb szórakoztató környezetet biztosít</string>
-    <string name="dirac_title">DIRAC Audio Engine</string>
-    <string name="dirac_summary">A DIRAC Audio Engine optimalizálja a hangminőséget azáltal, hogy javítja a tisztaságot, az egyensúlyt és a térbeli pontosságot, és javítja a hangélményt azáltal, hogy több előre beállított fejhallgató közül választhat</string>
     <string name="threesixtyupmix_title">360 Upmix</string>
     <string name="threesixtyupmix_summary">A Sony 360 Reality Audio Upmix (360 Upmix) technológiájával térbeli és magával ragadó hangzást élvezhet hagyományos sztereó forrásokkal</string>
     <string name="effectpriority_title">Hatás Prioritás</string>

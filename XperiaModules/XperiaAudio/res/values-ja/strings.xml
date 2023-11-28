@@ -26,8 +26,6 @@
     <string name="dolby_summary">Dolby Sound の設定を調整して、映画、音楽、ゲームに命を吹き込む、包み込まれるような臨場感あふれる多次元サウンドを体験してください。</string>
     <string name="dtsx_title">DTS:X Ultra</string>
     <string name="dtsx_summary">DTS:X Ultra は、3 次元空間効果とユーザー調整可能なイコライザーによりオーディオ品質を向上させ、より魅力的なエンターテイメント環境を可能にします</string>
-    <string name="dirac_title">DIRAC オーディオ エンジン</string>
-    <string name="dirac_summary">DIRAC オーディオ エンジンは、明瞭さ、バランス、空間精度を向上させることで音質を最適化し、複数のヘッドセット プリセットから選択できるようにすることでオーディオ エクスペリエンスを向上させます</string>
     <string name="threesixtyupmix_title">360 アップミックス</string>
     <string name="threesixtyupmix_summary">Sony の 360リアリティオーディオアップミックス (360 アップミックス) テクノロジーを使用すると、通常のステレオ ソースで空間的で臨場感のあるサウンドを楽しむことができます</string>
     <string name="effectpriority_title">効果の優先度</string>

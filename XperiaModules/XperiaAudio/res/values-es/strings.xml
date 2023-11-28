@@ -26,8 +26,6 @@
     <string name="dolby_summary">Ajusta los ajustes de Dolby Sound para experimentar un sonido inmersivo y multidimensional que te envuelve y da vida a películas, música y juegos</string>
     <string name="dtsx_title">DTS:X Ultra</string>
     <string name="dtsx_summary">DTS:X Ultra mejora la calidad del audio con efectos espaciales tridimensionales y un ecualizador ajustable por el usuario, lo que permite un entorno de entretenimiento más atractivo</string>
-    <string name="dirac_title">Motor de Audio DIRAC</string>
-    <string name="dirac_summary">El Motor de Audio DIRAC optimiza la calidad del sonido al mejorar la claridad, el equilibrio y la precisión espacial y mejora su experiencia de audio al permitirle elegir entre múltiples ajustes preestablecidos de auriculares</string>
     <string name="threesixtyupmix_title">360 Upmix</string>
     <string name="threesixtyupmix_summary">Con la tecnología de 360 Reality Audio Upmix (360 Upmix) de Sony, puedes disfrutar de un sonido espacial e inmersivo con fuentes estéreo regulares</string>
     <string name="effectpriority_title">Prioridad de Efectos</string>
