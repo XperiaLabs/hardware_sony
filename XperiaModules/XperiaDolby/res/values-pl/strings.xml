@@ -24,19 +24,9 @@
     <string name="dolby_summary">Dolby Sound tworzy niesamowite wrażenia dźwiękowe dzięki wielowymiarowemu dźwiękowi, który płynie wokół Ciebie</string>
     <string name="dolby_enable">Użyj Dolby Sound</string>
     <string name="dolby_profile_title">Profil Dźwiękowy</string>
-    <string name="dolby_preset">Wstępne Ustawienie Korektora</string>
-    <string name="dolby_off">Wyłączony</string>
-    <string name="dolby_on">NA</string>
-    <string name="dolby_low">Niski</string>
-    <string name="dolby_medium">Średni</string>
-    <string name="dolby_high">Wysoki</string>
-    <string name="dolby_max">Maks</string>
-    <string name="dolby_unknown">Nieznany</string>
     <string name="dolby_on_with_profile">Włączone (%1$s)</string>
     <string name="dolby_category_settings">Ustawienia</string>
     <string name="dolby_bass_enhancer">Wzmacniacz Basu</string>
-    <string name="dolby_dialogue_enhancer">Wzmacniacz Dialogu</string>
-    <string name="dolby_virtualizer">Wirtualizacja Surround</string>
     <string name="dolby_volume_leveler">Poziom Głośności</string>
     <string name="dolby_connect_headphones">Podłącz Słuchawki</string>
     <string name="dolby_reset_profile">Przywróć Domyślne</string>
@@ -48,16 +38,5 @@
     <string name="dolby_profile_dynamic">Dynamiczny</string>
     <string name="dolby_profile_video">Film</string>
     <string name="dolby_profile_music">Muzyka</string>
-    <string name="dolby_profile_vocal">Głos</string>
-
-    <!-- Dolby Sound - Equalizer Presets -->
-    <string name="dolby_preset_default">Domyślny</string>
-    <string name="dolby_preset_rock">Głaz</string>
-    <string name="dolby_preset_jazz">Jazz</string>
-    <string name="dolby_preset_pop">Muzyka pop</string>
-    <string name="dolby_preset_classical">Klasyczny</string>
-    <string name="dolby_preset_hiphop">Hip hop</string>
-    <string name="dolby_preset_blues">Blues</string>
-    <string name="dolby_preset_electronic">Elektroniczny</string>
-    <string name="dolby_preset_metal">Metal</string>
+    <string name="dolby_profile_custom">Zwyczaj</string>
 </resources>

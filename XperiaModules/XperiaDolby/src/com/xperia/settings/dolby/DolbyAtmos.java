@@ -37,10 +37,7 @@ class DolbyAtmos extends AudioEffect {
         EFFECT_PARAM_RESET_PROFILE_SETTINGS = 0xC000000;
 
     enum DsParam {
-        HEADPHONE_VIRTUALIZER(101),
         VOLUME_LEVELER(103),
-        DIALOGUE_ENHANCER_ENABLE(105),
-        DIALOGUE_ENHANCER_AMOUNT(108),
         GEQ(110),
         BASS_ENHANCER(111),
         STEREO_WIDENING(113);

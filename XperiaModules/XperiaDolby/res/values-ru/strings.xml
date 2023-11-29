@@ -24,19 +24,9 @@
     <string name="dolby_summary">Dolby Sound создает потрясающее звуковое впечатление с многомерным звуком, который струится вокруг вас.</string>
     <string name="dolby_enable">Используйте Dolby Sound</string>
     <string name="dolby_profile_title">Звуковой профиль</string>
-    <string name="dolby_preset">Предустановка эквалайзера</string>
-    <string name="dolby_off">Выключенный</string>
-    <string name="dolby_on">На</string>
-    <string name="dolby_low">Низкий</string>
-    <string name="dolby_medium">Середина</string>
-    <string name="dolby_high">Высокий</string>
-    <string name="dolby_max">Макс</string>
-    <string name="dolby_unknown">Неизвестный</string>
     <string name="dolby_on_with_profile">Включено (%1$s)</string>
     <string name="dolby_category_settings">Настройки</string>
     <string name="dolby_bass_enhancer">Усилитель басов</string>
-    <string name="dolby_dialogue_enhancer">Усилитель диалогов</string>
-    <string name="dolby_virtualizer">Виртуализатор объемного звучания</string>
     <string name="dolby_volume_leveler">Выравниватель объема</string>
     <string name="dolby_connect_headphones">Подключите наушники</string>
     <string name="dolby_reset_profile">Сброс к настройкам по умолчанию</string>
@@ -48,16 +38,5 @@
     <string name="dolby_profile_dynamic">Динамический</string>
     <string name="dolby_profile_video">Фильм</string>
     <string name="dolby_profile_music">Музыка</string>
-    <string name="dolby_profile_vocal">Голос</string>
-
-    <!-- Dolby Sound - Equalizer Presets -->
-    <string name="dolby_preset_default">По умолчанию</string>
-    <string name="dolby_preset_rock">Камень</string>
-    <string name="dolby_preset_jazz">Джаз</string>
-    <string name="dolby_preset_pop">Поп</string>
-    <string name="dolby_preset_classical">Классический</string>
-    <string name="dolby_preset_hiphop">Хип-хоп</string>
-    <string name="dolby_preset_blues">Блюз</string>
-    <string name="dolby_preset_electronic">Электронный</string>
-    <string name="dolby_preset_metal">Металл</string>
+    <string name="dolby_profile_custom">Обычай</string>
 </resources>

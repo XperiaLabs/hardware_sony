@@ -24,19 +24,9 @@
     <string name="dolby_summary">Dolby Sound crée une expérience audio incroyable avec un son multidimensionnel qui circule tout autour de vous</string>
     <string name="dolby_enable">Utiliser le Dolby Sound</string>
     <string name="dolby_profile_title">Profil Sonores</string>
-    <string name="dolby_preset">Préréglage de L\'égaliseur</string>
-    <string name="dolby_off">Désactivé</string>
-    <string name="dolby_on">Sur</string>
-    <string name="dolby_low">Faible</string>
-    <string name="dolby_medium">Moyen</string>
-    <string name="dolby_high">Haut</string>
-    <string name="dolby_max">Max.</string>
-    <string name="dolby_unknown">Inconnu</string>
     <string name="dolby_on_with_profile">Le (%1$s)</string>
     <string name="dolby_category_settings">Paramètres</string>
     <string name="dolby_bass_enhancer">Amplificateur de Basses</string>
-    <string name="dolby_dialogue_enhancer">Renforceur de Dialogue</string>
-    <string name="dolby_virtualizer">Virtualiseur Surround</string>
     <string name="dolby_volume_leveler">Niveleur de Volume</string>
     <string name="dolby_connect_headphones">Connecter des Écouteurs</string>
     <string name="dolby_reset_profile">Réinitialiser les paramètres par défaut</string>
@@ -48,16 +38,5 @@
     <string name="dolby_profile_dynamic">Dynamique</string>
     <string name="dolby_profile_video">Film</string>
     <string name="dolby_profile_music">Musique</string>
-    <string name="dolby_profile_vocal">Voix</string>
-
-    <!-- Dolby Sound - Equalizer Presets -->
-    <string name="dolby_preset_default">Défaut</string>
-    <string name="dolby_preset_rock">Rocher</string>
-    <string name="dolby_preset_jazz">Jazz</string>
-    <string name="dolby_preset_pop">Populaire</string>
-    <string name="dolby_preset_classical">Classique</string>
-    <string name="dolby_preset_hiphop">Hip hop</string>
-    <string name="dolby_preset_blues">Bleus</string>
-    <string name="dolby_preset_electronic">Électronique</string>
-    <string name="dolby_preset_metal">Métal</string>
+    <string name="dolby_profile_custom">Coutume</string>
 </resources>

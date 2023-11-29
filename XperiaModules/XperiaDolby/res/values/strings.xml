@@ -24,19 +24,9 @@
     <string name="dolby_summary">Dolby Sound creates an amazing audio experience with multidimensional sound that flows all around you</string>
     <string name="dolby_enable">Use Dolby Sound</string>
     <string name="dolby_profile_title">Sound Profile</string>
-    <string name="dolby_preset">Equalizer Preset</string>
-    <string name="dolby_off">Off</string>
-    <string name="dolby_on">On</string>
-    <string name="dolby_low">Low</string>
-    <string name="dolby_medium">Medium</string>
-    <string name="dolby_high">High</string>
-    <string name="dolby_max">Max</string>
-    <string name="dolby_unknown">Unknown</string>
     <string name="dolby_on_with_profile">On (%1$s)</string>
     <string name="dolby_category_settings">Settings</string>
     <string name="dolby_bass_enhancer">Bass Enhancer</string>
-    <string name="dolby_dialogue_enhancer">Dialogue Enhancer</string>
-    <string name="dolby_virtualizer">Surround Virtualizer</string>
     <string name="dolby_volume_leveler">Volume Leveler</string>
     <string name="dolby_connect_headphones">Connect Headphones</string>
     <string name="dolby_reset_profile">Reset to Defaults</string>
@@ -48,16 +38,12 @@
     <string name="dolby_profile_dynamic">Dynamic</string>
     <string name="dolby_profile_video">Movie</string>
     <string name="dolby_profile_music">Music</string>
-    <string name="dolby_profile_vocal">Voice</string>
+    <string name="dolby_profile_custom">Custom</string>
 
-    <!-- Dolby Sound - Equalizer Presets -->
-    <string name="dolby_preset_default">Default</string>
-    <string name="dolby_preset_rock">Rock</string>
-    <string name="dolby_preset_jazz">Jazz</string>
-    <string name="dolby_preset_pop">Pop</string>
-    <string name="dolby_preset_classical">Classical</string>
-    <string name="dolby_preset_hiphop">Hip Hop</string>
-    <string name="dolby_preset_blues">Blues</string>
-    <string name="dolby_preset_electronic">Electronic</string>
-    <string name="dolby_preset_metal">Metal</string>
+    <!-- Dolby Sound - Dummy Strings -->
+    <string name="dolby_off"></string>
+    <string name="dolby_on"></string>
+    <string name="dolby_unknown"></string>
+    <string name="dolby_dialogue_enhancer"></string>
+    <string name="dolby_virtualizer"></string>
 </resources>

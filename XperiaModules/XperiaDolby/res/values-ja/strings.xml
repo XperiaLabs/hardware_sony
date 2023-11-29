@@ -17,26 +17,16 @@
 
 <resources> 
     <!-- App Name -->
-    <string name="app_name" translatable="true">Xperiaドルビー</string>
+    <string name="app_name" translatable="true">Xperia ドルビー</string>
 
     <!-- Dolby Sound -->
     <string name="dolby_title">ドルビーサウンド</string>
     <string name="dolby_summary">ドルビー サウンドは、周囲に流れる多次元サウンドで素晴らしいオーディオ体験を生み出します。</string>
     <string name="dolby_enable">ドルビーサウンドを使用する</string>
     <string name="dolby_profile_title">サウンドプロファイル</string>
-    <string name="dolby_preset">イコライザープリセット</string>
-    <string name="dolby_off">オフ</string>
-    <string name="dolby_on">の上</string>
-    <string name="dolby_low">低い</string>
-    <string name="dolby_medium">中くらい</string>
-    <string name="dolby_high">高い</string>
-    <string name="dolby_max">マックス</string>
-    <string name="dolby_unknown">未知</string>
     <string name="dolby_on_with_profile">オン (%1$s)</string>
     <string name="dolby_category_settings">設定</string>
     <string name="dolby_bass_enhancer">バスエンハンサー</string>
-    <string name="dolby_dialogue_enhancer">ダイアログエンハンサー</string>
-    <string name="dolby_virtualizer">サラウンドバーチャライザー</string>
     <string name="dolby_volume_leveler">ボリュームレベラー</string>
     <string name="dolby_connect_headphones">ヘッドフォンを接続する</string>
     <string name="dolby_reset_profile">既定値にリセット</string>
@@ -48,16 +38,5 @@
     <string name="dolby_profile_dynamic">動的</string>
     <string name="dolby_profile_video">映画</string>
     <string name="dolby_profile_music">音楽</string>
-    <string name="dolby_profile_vocal">声</string>
-
-    <!-- Dolby Sound - Equalizer Presets -->
-    <string name="dolby_preset_default">デフォルト</string>
-    <string name="dolby_preset_rock">ロック</string>
-    <string name="dolby_preset_jazz">ジャズ</string>
-    <string name="dolby_preset_pop">ポップ</string>
-    <string name="dolby_preset_classical">クラシック</string>
-    <string name="dolby_preset_hiphop">ヒップホップ</string>
-    <string name="dolby_preset_blues">ブルース</string>
-    <string name="dolby_preset_electronic">電子</string>
-    <string name="dolby_preset_metal">金属</string>
+    <string name="dolby_profile_custom">カスタム</string>
 </resources>

@@ -24,19 +24,9 @@
     <string name="dolby_summary">Dolby Sound skapar en fantastisk ljudupplevelse med flerdimensionellt ljud som flödar runt omkring dig</string>
     <string name="dolby_enable">Använd Dolby Sound</string>
     <string name="dolby_profile_title">Ljudprofil</string>
-    <string name="dolby_preset">Equalizer förinställd</string>
-    <string name="dolby_off">Av</string>
-    <string name="dolby_on">På</string>
-    <string name="dolby_low">Låg</string>
-    <string name="dolby_medium">Medium</string>
-    <string name="dolby_high">Hög</string>
-    <string name="dolby_max">Max</string>
-    <string name="dolby_unknown">Okänd</string>
     <string name="dolby_on_with_profile">På (%1$s)</string>
     <string name="dolby_category_settings">Inställningar</string>
     <string name="dolby_bass_enhancer">Basförstärkare</string>
-    <string name="dolby_dialogue_enhancer">Dialogförstärkare</string>
-    <string name="dolby_virtualizer">Surround Virtualizer</string>
     <string name="dolby_volume_leveler">Volymjustering</string>
     <string name="dolby_connect_headphones">Anslut Hörlurar</string>
     <string name="dolby_reset_profile">Återställ till Standardvärden</string>
@@ -48,16 +38,5 @@
     <string name="dolby_profile_dynamic">Dynamisk</string>
     <string name="dolby_profile_video">Film</string>
     <string name="dolby_profile_music">musik</string>
-    <string name="dolby_profile_vocal">Röst</string>
-
-    <!-- Dolby Sound - Equalizer Presets -->
-    <string name="dolby_preset_default">Standard</string>
-    <string name="dolby_preset_rock">Sten</string>
-    <string name="dolby_preset_jazz">Jazz</string>
-    <string name="dolby_preset_pop">Pop</string>
-    <string name="dolby_preset_classical">Klassisk</string>
-    <string name="dolby_preset_hiphop">Hiphop</string>
-    <string name="dolby_preset_blues">Blues</string>
-    <string name="dolby_preset_electronic">Elektronisk</string>
-    <string name="dolby_preset_metal">Metall</string>
+    <string name="dolby_profile_custom">Beställnings</string>
 </resources>

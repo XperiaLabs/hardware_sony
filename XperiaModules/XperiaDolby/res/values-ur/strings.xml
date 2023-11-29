@@ -24,18 +24,8 @@
     <string name="dolby_summary">Dolby Sound کثیر جہتی آواز کے ساتھ ایک حیرت انگیز آڈیو تجربہ تخلیق کرتا ہے جو آپ کے چاروں طرف بہتی ہے۔</string>
     <string name="dolby_enable">ڈولبی ساؤنڈ استعمال کریں۔</string>
     <string name="dolby_profile_title">ساؤنڈ پروفائل</string>
-    <string name="dolby_preset">ایکویلائزر پیش سیٹ</string>
-    <string name="dolby_off">بند</string>
-    <string name="dolby_on">پر</string>
-    <string name="dolby_low">کم</string>
-    <string name="dolby_medium">درمیانہ</string>
-    <string name="dolby_high">اعلی</string>
-    <string name="dolby_max">زیادہ سے زیادہ</string>
-    <string name="dolby_unknown">نامعلوم</string>
     <string name="dolby_on_with_profile">آن (%1$s)</string>
     <string name="dolby_category_settings">ترتیبات</string>
-    <string name="dolby_bass_enhancer">باس بڑھانے والا</string>
-    <string name="dolby_dialogue_enhancer">مکالمہ بڑھانے والا</string>
     <string name="dolby_virtualizer">سراؤنڈ ورچوئلائزر</string>
     <string name="dolby_volume_leveler">والیوم لیولر</string>
     <string name="dolby_connect_headphones">ہیڈ فون کو جوڑیں۔</string>
@@ -48,16 +38,5 @@
     <string name="dolby_profile_dynamic">متحرک</string>
     <string name="dolby_profile_video">فلم</string>
     <string name="dolby_profile_music">موسیقی</string>
-    <string name="dolby_profile_vocal">آواز</string>
- 
-    <!-- Dolby Sound - Equalizer Presets -->
-    <string name="dolby_preset_default">طے شدہ</string>
-    <string name="dolby_preset_rock">پتھر</string>
-    <string name="dolby_preset_jazz">جاز</string>
-    <string name="dolby_preset_pop">پاپ</string>
-    <string name="dolby_preset_classical">کلاسیکل</string>
-    <string name="dolby_preset_hiphop">ہپ ہاپ</string>
-    <string name="dolby_preset_blues">بلیوز</string>
-    <string name="dolby_preset_electronic">الیکٹرانک</string>
-    <string name="dolby_preset_metal">دھات</string>
+    <string name="dolby_profile_custom">اپنی مرضی کے مطابق</string>
 </resources>

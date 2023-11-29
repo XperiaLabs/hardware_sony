@@ -24,19 +24,9 @@
     <string name="dolby_summary">Dolby Sound crea un\'esperienza audio straordinaria con un suono multidimensionale che scorre intorno a te</string>
     <string name="dolby_enable">Usa il Dolby Sound</string>
     <string name="dolby_profile_title">Profilo Audio</string>
-    <string name="dolby_preset">Preimpostazione Dell\'Equalizzatore</string>
-    <string name="dolby_off">Spento</string>
-    <string name="dolby_on">Su</string>
-    <string name="dolby_low">Basso</string>
-    <string name="dolby_medium">medio</string>
-    <string name="dolby_high">Alto</string>
-    <string name="dolby_max">Massimo</string>
-    <string name="dolby_unknown">Sconosciuto</string>
     <string name="dolby_on_with_profile">Attivo (%1$s)</string>
     <string name="dolby_category_settings">Impostazioni</string>
     <string name="dolby_bass_enhancer">Potenziamento dei Bassi</string>
-    <string name="dolby_dialogue_enhancer">Miglioratore del Dialogo</string>
-    <string name="dolby_virtualizer">Virtualizzatore Surround</string>
     <string name="dolby_volume_leveler">Livellatore di Volume</string>
     <string name="dolby_connect_headphones">Collega le Cuffie</string>
     <string name="dolby_reset_profile">Ripristina le impostazioni predefinite</string>
@@ -48,16 +38,5 @@
     <string name="dolby_profile_dynamic">Dinamico</string>
     <string name="dolby_profile_video">Film</string>
     <string name="dolby_profile_music">Musica</string>
-    <string name="dolby_profile_vocal">Voce</string>
-
-    <!-- Dolby Sound - Equalizer Presets -->
-    <string name="dolby_preset_default">Predefinito</string>
-    <string name="dolby_preset_rock">Roccia</string>
-    <string name="dolby_preset_jazz">Jazz</string>
-    <string name="dolby_preset_pop">Pop</string>
-    <string name="dolby_preset_classical">Classico</string>
-    <string name="dolby_preset_hiphop">Hip Hop</string>
-    <string name="dolby_preset_blues">Blues</string>
-    <string name="dolby_preset_electronic">Elettronico</string>
-    <string name="dolby_preset_metal">Metallo</string>
+    <string name="dolby_profile_custom">Costume</string>
 </resources>

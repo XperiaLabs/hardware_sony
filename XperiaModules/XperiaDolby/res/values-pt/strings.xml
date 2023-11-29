@@ -24,19 +24,9 @@
     <string name="dolby_summary">Dolby Sound cria uma experiência de áudio incrível com som multidimensional que flui ao seu redor</string>
     <string name="dolby_enable">Usar Dolby Sound</string>
     <string name="dolby_profile_title">Perfil de Som</string>
-    <string name="dolby_preset">Predefinição do Equalizador</string>
-    <string name="dolby_off">Desligado</string>
-    <string name="dolby_on">Sobre</string>
-    <string name="dolby_low">Baixo</string>
-    <string name="dolby_medium">Médio</string>
-    <string name="dolby_high">Alto</string>
-    <string name="dolby_max">Máx.</string>
-    <string name="dolby_unknown">Desconhecido</string>
     <string name="dolby_on_with_profile">Ativado (%1$s)</string>
     <string name="dolby_category_settings">Configurações</string>
     <string name="dolby_bass_enhancer">Intensificador de Graves</string>
-    <string name="dolby_dialogue_enhancer">Intensificador de Diálogo</string>
-    <string name="dolby_virtualizer">Virtualizador Surround</string>
     <string name="dolby_volume_leveler">Nivelador de Volume</string>
     <string name="dolby_connect_headphones">Conecte Fones de Ouvido</string>
     <string name="dolby_reset_profile">Redefinir Para os Padrões</string>
@@ -48,16 +38,5 @@
     <string name="dolby_profile_dynamic">Dinâmico</string>
     <string name="dolby_profile_video">Filme</string>
     <string name="dolby_profile_music">Música</string>
-    <string name="dolby_profile_vocal">Voz</string>
-
-    <!-- Dolby Sound - Equalizer Presets -->
-    <string name="dolby_preset_default">Padrão</string>
-    <string name="dolby_preset_rock">Pedra</string>
-    <string name="dolby_preset_jazz">Jazz</string>
-    <string name="dolby_preset_pop">Pop</string>
-    <string name="dolby_preset_classical">Clássico</string>
-    <string name="dolby_preset_hiphop">Hip Hop</string>
-    <string name="dolby_preset_blues">Blues</string>
-    <string name="dolby_preset_electronic">Eletrônico</string>
-    <string name="dolby_preset_metal">Metal</string>
+    <string name="dolby_profile_custom">Personalizado</string>
 </resources>

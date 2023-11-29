@@ -24,19 +24,9 @@
     <string name="dolby_summary">Dolby Sound는 온몸으로 흐르는 다차원 사운드로 놀라운 오디오 경험을 선사합니다.</string>
     <string name="dolby_enable">돌비 사운드 사용</string>
     <string name="dolby_profile_title">사운드 프로필</string>
-    <string name="dolby_preset">이퀄라이저 프리셋</string>
-    <string name="dolby_off">끄다</string>
-    <string name="dolby_on">~에</string>
-    <string name="dolby_low">낮은</string>
-    <string name="dolby_medium">중간</string>
-    <string name="dolby_high">높은</string>
-    <string name="dolby_max">맥스</string>
-    <string name="dolby_unknown">알려지지 않은</string>
     <string name="dolby_on_with_profile">켜기(%1$s)</string>
     <string name="dolby_category_settings">설정</string>
     <string name="dolby_bass_enhancer">베이스 인핸서</string>
-    <string name="dolby_dialogue_enhancer">대화 강화기</string>
-    <string name="dolby_virtualizer">서라운드 가상화기</string>
     <string name="dolby_volume_leveler">볼륨 레벨러</string>
     <string name="dolby_connect_headphones">헤드폰 연결</string>
     <string name="dolby_reset_profile">기본값으로 재설정</string>
@@ -48,16 +38,5 @@
     <string name="dolby_profile_dynamic">동적</string>
     <string name="dolby_profile_video">영화</string>
     <string name="dolby_profile_music">음악</string>
-    <string name="dolby_profile_vocal">목소리</string>
-
-    <!-- Dolby Sound - Equalizer Presets -->
-    <string name="dolby_preset_default">기본</string>
-    <string name="dolby_preset_rock">바위</string>
-    <string name="dolby_preset_jazz">재즈</string>
-    <string name="dolby_preset_pop">팝</string>
-    <string name="dolby_preset_classical">고전</string>
-    <string name="dolby_preset_hiphop">힙합</string>
-    <string name="dolby_preset_blues">블루스</string>
-    <string name="dolby_preset_electronic">전자</string>
-    <string name="dolby_preset_metal">금속</string>
+    <string name="dolby_profile_custom">관습</string>
 </resources>

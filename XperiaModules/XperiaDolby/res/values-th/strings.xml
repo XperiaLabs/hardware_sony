@@ -24,19 +24,9 @@
     <string name="dolby_summary">Dolby Sound สร้างประสบการณ์เสียงที่น่าทึ่งด้วยเสียงหลายมิติที่ไหลเวียนอยู่รอบตัวคุณ</string>
     <string name="dolby_enable">ใช้เสียงดอลบี้</string>
     <string name="dolby_profile_title">โปรไฟล์เสียง</string>
-    <string name="dolby_preset">อีควอไลเซอร์ที่ตั้งไว้ล่วงหน้า</string>
-    <string name="dolby_off">ปิด</string>
-    <string name="dolby_on">บน</string>
-    <string name="dolby_low">ต่ำ</string>
-    <string name="dolby_medium">ปานกลาง</string>
-    <string name="dolby_high">สูง</string>
-    <string name="dolby_max">สูงสุด</string>
-    <string name="dolby_unknown">ไม่ทราบ</string>
     <string name="dolby_on_with_profile">เปิด (%1$s)</string>
     <string name="dolby_category_settings">การตั้งค่า</string>
     <string name="dolby_bass_enhancer">ตัวเพิ่มเสียงเบส</string>
-    <string name="dolby_dialogue_enhancer">ตัวเพิ่มประสิทธิภาพการสนทนา</string>
-    <string name="dolby_virtualizer">เซอร์ราวด์เวอร์ชวลไลเซอร์</string>
     <string name="dolby_volume_leveler">ตัวปรับระดับเสียง</string>
     <string name="dolby_connect_headphones">เชื่อมต่อหูฟัง</string>
     <string name="dolby_reset_profile">รีเซ็ตเป็นค่าเริ่มต้น</string>
@@ -48,16 +38,5 @@
     <string name="dolby_profile_dynamic">พลวัต</string>
     <string name="dolby_profile_video">ภาพยนตร์</string>
     <string name="dolby_profile_music">ดนตรี</string>
-    <string name="dolby_profile_vocal">เสียง</string>
-
-    <!-- Dolby Sound - Equalizer Presets -->
-    <string name="dolby_preset_default">ค่าเริ่มต้น</string>
-    <string name="dolby_preset_rock">หิน</string>
-    <string name="dolby_preset_jazz">แจ๊ส</string>
-    <string name="dolby_preset_pop">โผล่</string>
-    <string name="dolby_preset_classical">คลาสสิค</string>
-    <string name="dolby_preset_hiphop">ฮิพฮอพ</string>
-    <string name="dolby_preset_blues">บลูส์</string>
-    <string name="dolby_preset_electronic">อิเล็กทรอนิกส์</string>
-    <string name="dolby_preset_metal">โลหะ</string>
+    <string name="dolby_profile_custom">กำหนดเอง</string>
 </resources>

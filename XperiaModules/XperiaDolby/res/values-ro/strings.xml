@@ -24,19 +24,9 @@
     <string name="dolby_summary">Dolby Sound creează o experiență audio uimitoare cu un sunet multidimensional în jurul tău</string>
     <string name="dolby_enable">Utilizați Dolby Sound</string>
     <string name="dolby_profile_title">Profil de Sunet</string>
-    <string name="dolby_preset">Preset Egalizator</string>
-    <string name="dolby_off">Off</string>
-    <string name="dolby_on">Pornit</string>
-    <string name="dolby_low">Scăzut</string>
-    <string name="dolby_medium">Mediu</string>
-    <string name="dolby_high">Înalt</string>
-    <string name="dolby_max">Maximum</string>
-    <string name="dolby_unknown">Necunoscut</string>
     <string name="dolby_on_with_profile">Activat (%1$s)</string>
     <string name="dolby_category_settings">Setări</string>
     <string name="dolby_bass_enhancer">Amplificator de Bas</string>
-    <string name="dolby_dialogue_enhancer">Amplificator de Dialog</string>
-    <string name="dolby_virtualizer">Virtualizator Surround</string>
     <string name="dolby_volume_leveler">Nivelator de Volum</string>
     <string name="dolby_connect_headphones">Conectați Căștile</string>
     <string name="dolby_reset_profile">Resetați la Valorile Implicite</string>
@@ -48,16 +38,5 @@
     <string name="dolby_profile_dynamic">Dinamic</string>
     <string name="dolby_profile_video">Film</string>
     <string name="dolby_profile_music">Muzică</string>
-    <string name="dolby_profile_vocal">Voce</string>
-
-    <!-- Dolby Sound - Equalizer Presets -->
-    <string name="dolby_preset_default">Mod Implicit</string>
-    <string name="dolby_preset_rock">Rock</string>
-    <string name="dolby_preset_jazz">Jazz</string>
-    <string name="dolby_preset_pop">Pop</string>
-    <string name="dolby_preset_classical">Clasic</string>
-    <string name="dolby_preset_hiphop">Hip Hop</string>
-    <string name="dolby_preset_blues">Blues</string>
-    <string name="dolby_preset_electronic">Electronic</string>
-    <string name="dolby_preset_metal">Metal</string>
+    <string name="dolby_profile_custom">Personalizat</string>
 </resources>
