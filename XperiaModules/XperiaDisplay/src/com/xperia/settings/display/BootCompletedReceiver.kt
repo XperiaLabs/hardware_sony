@@ -19,6 +19,6 @@ class BootCompletedReceiver : BroadcastReceiver() {
     }
 
     companion object {
-        private const val TAG = "XperiaParts"
+        private const val TAG = "XperiaDisplay"
     }
 }
