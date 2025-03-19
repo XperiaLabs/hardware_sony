@@ -28,8 +28,3 @@ SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS += \
 SYSTEM_EXT_PUBLIC_SEPOLICY_DIRS += \
     hardware/sony/sepolicy/qti/public/common-um
 endif
-
-ifneq (,$(filter lahaina, $(TARGET_BOARD_PLATFORM)))
-BOARD_VENDOR_SEPOLICY_DIRS += \
-    hardware/sony/sepolicy/qti/vendor/lahaina
-endif

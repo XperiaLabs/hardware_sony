@@ -38,6 +38,9 @@ Return<bool> SunlightEnhancement::isEnabled() {
 }
 
 Return<bool> SunlightEnhancement::setEnabled(bool enabled) {
+    if (isEnabled() == enabled) {
+        return true;
+    }
     std::ofstream file(kHbmPath);
     file << (enabled ? "1" : "0");
     LOG(DEBUG) << "setEnabled fail " << file.fail();
